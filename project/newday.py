@@ -1,6 +1,12 @@
 import os
 
-files = ["C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv"]
+files = [
+    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
+    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\world.csv",
+     "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\tech.csv",
+    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\business.csv",
+    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\sports.csv"
+         ]
 
 for filepath in files:
     # Check if the file exists

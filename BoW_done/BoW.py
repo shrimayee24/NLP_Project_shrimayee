@@ -63,7 +63,8 @@ def collect_text_from_url(url):
     for article_tag in soup.find_all('a', href=True):
         link = article_tag['href']
         # Check if the link starts with "https://timesofindia.indiatimes.com/" and contains "articleshow"
-        if link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link:
+        if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and "etimes" not in link and "auto" not in link and "tv" not in link and "tv/hindi" not in link and "web-series" not in link and "life-style" not in link and "/education" not in link):
+
             article = Article(link)
             article.download()
             article.parse()
