@@ -5,6 +5,7 @@ import requests, nltk
 from nltk import word_tokenize
 from nltk.tag import pos_tag
 from nltk.chunk import ne_chunk
+from gensum import text_summarizer
 import os.path
 import csv
 
@@ -20,20 +21,19 @@ article_text=[]
 article_summary=[]
 article_titles=[]
 article_img=[]
-
+total=0
 for article_tag in soup.find_all('a', href=True):
     link = article_tag['href']
     # Check if the link starts with "https://timesofindia.indiatimes.com/" and contains "articleshow"
     if link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link:
-        article_links.append(link)
+        
         article = Article(link)
         article.download()
         article.parse()
         article.nlp()
         text = article.text
-        article_text.append(text)
-        article_titles.append(article.title)
-        article_summary.append(article.summary)
+        summary=text_summarizer(text)
+
         
         # Find all img tags in the article content
         img_tags = BeautifulSoup(article.html, 'html.parser').find_all('img')
@@ -46,7 +46,21 @@ for article_tag in soup.find_all('a', href=True):
             if "static.toiimg." in src and alt != "TOI logo" and fetchpriority == "high":
                 img_src = src
                 break  # Stop searching after finding the first matching img src
-        article_img.append(img_src)
+
+
+        # Check if all fields are valid and not null
+        if all(field is not None and isinstance(field, str) and field.strip() for field in [article.title, link, text, summary, img_src]):
+            article_img.append(img_src)
+            article_links.append(link)
+            article_text.append(text)
+            article_titles.append(article.title)
+            article_summary.append(summary)
+            total += 1
+            print(total)
+
+
+    if(total>=50):
+        break;        
 
 print("Title: \n", article_titles[1], "\n")
 print("Link: \n", article_links[1], "\n")

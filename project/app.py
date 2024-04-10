@@ -9,7 +9,7 @@ csv_file = "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv"
 df = pd.read_csv(csv_file)
 
 # Dropdown menu for category selection
-selected_category = st.selectbox('Select Category', ['India', 'Politics', 'Business', 'Technology', 'Sports'])
+selected_category = st.selectbox('Select Category', ['India', 'World', 'Business', 'Technology', 'Sports'])
 
 # Display containers for each news article
 st.write("## News Articles:")
