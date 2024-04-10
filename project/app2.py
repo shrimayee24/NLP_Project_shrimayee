@@ -4,7 +4,7 @@ from gtts import gTTS
 import os
 
 st.set_page_config(layout="wide")
-
+st.write(f"# News Articles")
 # Define CSV file paths for each category
 category_csv_files = {
     'India': "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
@@ -16,7 +16,7 @@ category_csv_files = {
 
 # Dropdown menu for category selection
 selected_category = st.selectbox('Select Category', ['India', 'World', 'Business', 'Technology', 'Sports'])
-st.write(f"## News Articles: {selected_category}")
+st.write(f"## {selected_category}")
 # Read the CSV file based on the selected category
 csv_file = category_csv_files[selected_category]
 df = pd.read_csv(csv_file)

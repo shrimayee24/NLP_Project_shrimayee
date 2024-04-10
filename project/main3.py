@@ -62,7 +62,7 @@ def download_and_save_articles(links_list, csv_file):
                     for i in range(len(article_titles)):
                         writer.writerow([article_titles[i], article_links[i], article_text[i], article_summary[i], article_img[i]])
                 print("Data has been saved to:", csv_file)
-
+print("All CSV files ready for display")
 # Define CSV file paths
 info_files = {
     0: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
