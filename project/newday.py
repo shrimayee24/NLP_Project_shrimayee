@@ -1,5 +1,5 @@
 import os
-
+from main3 import start
 files = [
     "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
     "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\world.csv",
@@ -18,3 +18,5 @@ for filepath in files:
         print(f"File '{filepath}' truncated successfully.")
     else:
         print(f"File '{filepath}' does not exist.")
+
+start()

@@ -62,7 +62,7 @@ def download_and_save_articles(links_list, csv_file):
                     for i in range(len(article_titles)):
                         writer.writerow([article_titles[i], article_links[i], article_text[i], article_summary[i], article_img[i]])
                 print("Data has been saved to:", csv_file)
-print("All CSV files ready for display")
+
 # Define CSV file paths
 info_files = {
     0: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
@@ -81,12 +81,17 @@ all_links = [
     "https://timesofindia.indiatimes.com/sports"
 ]
 
-domain_lists = categorize_articles(all_links)
-print(domain_lists)  # Printing domain_lists for demonstration
-d=['India', 'World', 'Business', 'Technology', 'Sports']
+def start():
+    domain_lists = categorize_articles(all_links)
+    #print(domain_lists)  # Printing domain_lists for demonstration
+    d=['India', 'World', 'Business', 'Technology', 'Sports']
 
-for i in range(5):
-    link_list = domain_lists[d[i]]
-    filepath = info_files[i]
-    download_and_save_articles(link_list, filepath)
+    for i in range(5):
+        link_list = domain_lists[d[i]]
+        filepath = info_files[i]
+        download_and_save_articles(link_list, filepath)
+
+    print("\n\nApp ready for display")    
+
+
 
