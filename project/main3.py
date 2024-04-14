@@ -21,7 +21,7 @@ def download_and_save_articles(links_list, csv_file):
             article.parse()
             article.nlp()
             text = article.text
-            summary = text_summarizer(text)
+            summary = text_summarizer(text) #from gensum.py
 
             # Find img src
             img_src = None

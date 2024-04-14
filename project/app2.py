@@ -3,6 +3,7 @@ import pandas as pd
 from gtts import gTTS
 import os
 
+vidno=0
 st.set_page_config(layout="wide")
 st.write(f"# News Articles")
 # Define CSV file paths for each category
@@ -47,7 +48,8 @@ for i in range(min(50, len(df))):
             convert_button_key = f"convert_button_{i}"
             if st.button("Convert to Audio", key=convert_button_key):
                 # Convert summarized text to audio
-                audio_filename = f"{article_title}_summary_audio.mp3"
+                audio_filename = f"{vidno}_summary_audio.mp3"
+                vidno=vidno+1
                 tts = gTTS(article_summary, lang='en-uk')
                 tts.save(audio_filename)
                 st.audio(audio_filename, format='audio/mp3')
@@ -55,7 +57,7 @@ for i in range(min(50, len(df))):
                 # Remove audio file after playing
                 if os.path.exists(audio_filename):
                     os.remove(audio_filename)
-                    print("Audio file deleted")
+                    print(article_title, "- Audio file deleted")
             st.write("")
             st.write("")        
     else:

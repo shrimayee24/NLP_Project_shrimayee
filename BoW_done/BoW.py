@@ -1,3 +1,4 @@
+
 from bs4 import BeautifulSoup
 from textblob import TextBlob
 from newspaper import Config, Article, Source
@@ -15,8 +16,10 @@ from nltk.stem import WordNetLemmatizer
 import pandas as pd
 
 
-nltk.download('stopwords')
-nltk.download('punkt')
+#nltk.download('stopwords')
+#nltk.download('punkt')
+
+
 
 def preprocess_text(text):
     # Tokenize the text
@@ -52,7 +55,7 @@ def generate_BoW(text_list):
 
     return bow
 
-def collect_text_from_url(url):
+def collect_text_from_url(url, domain_name):
     response = requests.get(url)
     india_web_page = response.text
     soup = BeautifulSoup(india_web_page, 'html.parser')
@@ -62,15 +65,22 @@ def collect_text_from_url(url):
 
     for article_tag in soup.find_all('a', href=True):
         link = article_tag['href']
+        try:
         # Check if the link starts with "https://timesofindia.indiatimes.com/" and contains "articleshow"
-        if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and "etimes" not in link and "auto" not in link and "tv" not in link and "tv/hindi" not in link and "web-series" not in link and "life-style" not in link and "/education" not in link):
+            if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and domain_name in link and "etimes" not in link and "auto" not in link and "tv" not in link and "tv/hindi" not in link and "web-series" not in link and "life-style" not in link and "/education" not in link):
 
-            article = Article(link)
-            article.download()
-            article.parse()
-            article.nlp()
-            text = article.text
-            article_text.append(text)
+                article = Article(link)
+                article.download()
+                article.parse()
+                article.nlp()
+                text = article.text
+                article_text.append(text)
+                print(link)
+
+        except Exception as e:
+            print(f"Error downloading article from {link}: {e}")
+            continue  # Continue with the next iteration of the loop
+
 
     return article_text
 
@@ -80,11 +90,11 @@ def save_BoW_to_csv(bow, filename):
     print("Done - ", filename)
 
 # Collect text from URLs
-india_text = collect_text_from_url("https://timesofindia.indiatimes.com/india")
-world_text = collect_text_from_url("https://timesofindia.indiatimes.com/world")
-business_text = collect_text_from_url("https://timesofindia.indiatimes.com/business")
-tech_text = collect_text_from_url("https://timesofindia.indiatimes.com/technology")
-sports_text = collect_text_from_url("https://timesofindia.indiatimes.com/sports")
+india_text = collect_text_from_url("https://timesofindia.indiatimes.com/india",  "india")
+world_text = collect_text_from_url("https://timesofindia.indiatimes.com/world","world")
+business_text = collect_text_from_url("https://timesofindia.indiatimes.com/business","business")
+tech_text = collect_text_from_url("https://timesofindia.indiatimes.com/technology","technology")
+sports_text = collect_text_from_url("https://timesofindia.indiatimes.com/sports","sports")
 
 # Generate bags of words
 india_bow = generate_BoW(india_text)
