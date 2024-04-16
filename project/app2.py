@@ -8,11 +8,11 @@ st.set_page_config(layout="wide")
 st.write(f"# News Articles")
 # Define CSV file paths for each category
 category_csv_files = {
-    'India': "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
-    'World': "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\world.csv",
-    'Business': "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\business.csv",
-    'Technology': "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\tech.csv",
-    'Sports': "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\sports.csv"
+    'India': "india.csv",
+    'World': "world.csv",
+    'Business': "business.csv",
+    'Technology': "tech.csv",
+    'Sports': "sports.csv"
 }
 
 # Dropdown menu for category selection

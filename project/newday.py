@@ -1,11 +1,11 @@
 import os
 from main3 import start
 files = [
-    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
-    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\world.csv",
-     "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\tech.csv",
-    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\business.csv",
-    "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\sports.csv"
+    "india.csv",
+    "world.csv",
+     "tech.csv",
+    "business.csv",
+    "sports.csv"
          ]
 
 for filepath in files:

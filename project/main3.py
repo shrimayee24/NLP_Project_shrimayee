@@ -65,11 +65,11 @@ def download_and_save_articles(links_list, csv_file):
 
 # Define CSV file paths
 info_files = {
-    0: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\india.csv",
-    1: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\world.csv",
-    2: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\business.csv",
-    3: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\tech.csv",
-    4: "C:\\Users\\AKANKSHA KALE\\Desktop\\NLP_Project\\project\\sports.csv"
+    0: "india.csv",
+    1: "world.csv",
+    2: "business.csv",
+    3: "tech.csv",
+    4: "sports.csv"
 }
 
 # Example usage:
