@@ -2,8 +2,8 @@ name: Run Scripts
 
 on:
   schedule:
-    # Run newday.py every day at 10:10 am IST (4:40 am UTC)
-    - cron: '10 4 * * *'
+    # Run newday.py every day at 12:25 pm IST (6:55 am UTC)
+    - cron: '25 6 * * *'
     # Run update_BoW.py every 10 days at 6:32 am IST (1:02 am UTC)
     - cron: '32 0 */10 * *'
 
@@ -11,6 +11,11 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
