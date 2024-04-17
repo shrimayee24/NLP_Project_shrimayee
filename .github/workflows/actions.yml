@@ -2,16 +2,15 @@ name: Run Scripts
 
 on:
   schedule:
-    # Run newday.py every day at 3 am utc (8.30 am Ist)
-    - cron: '0 3 * * *'
-    # Run update_BoW.py every 10 days at 7 am
-    - cron: '0 7 */10 * *'
+    # Run newday.py every day at 10:10 am IST (4:40 am UTC)
+    - cron: '10 4 * * *'
+    # Run update_BoW.py every 10 days at 6:32 am IST (1:02 am UTC)
+    - cron: '32 0 */10 * *'
 
 jobs:
   build:
     runs-on: windows-latest
-    steps:   
-
+    steps:
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -26,13 +25,13 @@ jobs:
         run: python project/newday.py
 
       - name: Execute update_BoW.py (only every 10 days)
-        if: ${{ github.event_name == 'schedule' && github.event.cron == '0 7 */10 * *' }}
+        if: ${{ github.event_name == 'schedule' && github.event.cron == '32 0 */10 * *' }}
         run: python BoW/update_BoW.py
 
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "akanksha.wrk@gmail.com"
+          git config --local user.name "akanksha1131"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "Updated logs" --allow-empty)
 
