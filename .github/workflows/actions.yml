@@ -2,10 +2,10 @@ name: Run Scripts
 
 on:
   schedule:
-    # Run newday.py every day at 12:25 pm IST (6:55 am UTC)
-    - cron: '25 6 * * *'
-    # Run update_BoW.py every 10 days at 6:32 am IST (1:02 am UTC)
-    - cron: '32 0 */10 * *'
+    # Run newday.py every day at 1:30 pm IST (8:00 am UTC)
+    - cron: '30 7 * * *'
+    # Run update_BoW.py on the 1st of every month at 1:00 am IST (7:30 pm UTC, last minute of the month)
+    - cron: '0 19 1 * *'
 
 jobs:
   build:
@@ -29,8 +29,8 @@ jobs:
       - name: Execute newday.py
         run: python project/newday.py
 
-      - name: Execute update_BoW.py (only every 10 days)
-        if: ${{ github.event_name == 'schedule' && github.event.cron == '32 0 */10 * *' }}
+      - name: Execute update_BoW.py (only on the 1st of every month)
+        if: ${{ github.event_name == 'schedule' && github.event.cron == '0 19 1 * *' }}
         run: python BoW/update_BoW.py
 
       - name: Commit files
