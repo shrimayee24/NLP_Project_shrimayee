@@ -2,8 +2,8 @@ name: Run Scripts
 
 on:
   schedule:
-    # Run newday.py every day at 1:345 pm IST (8:15 am UTC)
-    - cron: '45 5 * * *'
+    # Run newday.py every day at 7:20 pm IST (1:50 pm UTC)
+    - cron: '50 13 * * *'
     # Run update_BoW.py on the 1st of every month at 1:00 am IST (7:30 pm UTC, last minute of the month)
     - cron: '0 19 1 * *'
 
