@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '32 14 * * *'
+    - cron: '52 14 * * *'
     # Run update_BoW.py on the 1st of every month 
     - cron: '0 19 1 * *'
 
@@ -17,7 +17,7 @@ jobs:
           node-version: '20'
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v3
         with:
           python-version: '3.9'
 
