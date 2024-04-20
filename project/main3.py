@@ -49,7 +49,7 @@ def download_and_save_articles(links_list, csv_file):
                 break
 
         except Exception as e:
-            print(f"Error downloading article from {link}: {e}")
+            print(f"Error downloading article from {link}   : {e}")
             continue  # Continue with the next iteration of the loop
 
     # Save data to CSV
