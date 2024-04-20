@@ -3,7 +3,7 @@ from main3 import start
 import nltk
 from pathlib import Path
 nltk.download('punkt')
-
+nltk.download('stopwords')
 csv_folder = Path(__file__).resolve().parent  # Get the directory of the script
 files = [
     csv_folder/'india.csv',

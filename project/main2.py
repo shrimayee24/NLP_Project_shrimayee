@@ -33,7 +33,7 @@ def categorize_articles(all_links):
                         visited_links[link] = domain
                         print(link, " is ", domain) 
                     except Exception as e:
-                        print(f"Error downloading article from {link}: {e}")
+                        print(f"Error downloading article from {link}: {e}\n")
                         continue  # Continue with the next iteration of the loop
 
     # Separate links based on their domains

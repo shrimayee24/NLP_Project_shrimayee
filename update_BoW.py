@@ -9,6 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from pathlib import Path
 
 nltk.download('punkt')
+nltk.download('stopwords')
 # Get the directory of the script
 csv_folder = Path(__file__).resolve().parent  
 
