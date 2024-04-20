@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '52 13 * * *'
+    - cron: '53 13 * * *'
     # Run update_BoW.py every day
     - cron: '20 14 * * *'
 
@@ -33,7 +33,7 @@ jobs:
         run: python project/newday.py
 
       - name: Execute update_BoW.py (every day)
-        if: ${{github.event.cron == '25 13 * * *' }}
+        if: ${{github.event.cron == '20 14 * * *' }}
         run: python update_BoW.py
 
       - name: Commit files
