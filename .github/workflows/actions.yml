@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '43 3 * * *'
+    - cron: '00 04 * * *'
     # Run update_BoW.py on the 1st of every month 
     - cron: '0 19 1 * *'
 
