@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '15 16 * * *'
+    - cron: '39 16 * * *'
     
 
 jobs:
@@ -30,10 +30,6 @@ jobs:
 
       - name: Install other requirements
         run: pip install -r requirements.txt
-
-      - name: Install NLTK dependencies
-        run: |
-          python -m nltk.downloader stopwords punkt
 
       - name: Execute newday.py
         run: python project/newday.py
