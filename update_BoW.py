@@ -6,13 +6,25 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer
+from pathlib import Path
+
+nltk.download('punkt')
+# Get the directory of the script
+csv_folder = Path(__file__).resolve().parent  
+
+# Define paths to the BoW CSV files
+india_bow_path = csv_folder/"india_bow.csv"
+world_bow_path = csv_folder/"world_bow.csv"
+business_bow_path = csv_folder/"business_bow.csv"
+tech_bow_path = csv_folder/"tech_bow.csv"
+sports_bow_path = csv_folder/"sports_bow.csv"
 
 # Load existing BoW CSV files
-india_bow_df = pd.read_csv("india_bow.csv")
-world_bow_df = pd.read_csv("world_bow.csv")
-business_bow_df = pd.read_csv("business_bow.csv")
-tech_bow_df = pd.read_csv("tech_bow.csv")
-sports_bow_df = pd.read_csv("sports_bow.csv")
+india_bow_df = pd.read_csv(india_bow_path)
+world_bow_df = pd.read_csv(world_bow_path)
+business_bow_df = pd.read_csv(business_bow_path)
+tech_bow_df = pd.read_csv(tech_bow_path)
+sports_bow_df = pd.read_csv(sports_bow_path)
 
 # Function to preprocess text
 def preprocess_text(text):
@@ -62,8 +74,8 @@ update_bow_csv_from_articles("https://timesofindia.indiatimes.com/technology", "
 update_bow_csv_from_articles("https://timesofindia.indiatimes.com/sports", "sports", sports_bow_df)
 
 # Save updated BoW CSV files
-india_bow_df.to_csv("india_bow.csv", index=False)
-world_bow_df.to_csv("world_bow.csv", index=False)
-business_bow_df.to_csv("business_bow.csv", index=False)
-tech_bow_df.to_csv("tech_bow.csv", index=False)
-sports_bow_df.to_csv("sports_bow.csv", index=False)
+india_bow_df.to_csv(india_bow_path, index=False)
+world_bow_df.to_csv(world_bow_path, index=False)
+business_bow_df.to_csv(business_bow_path, index=False)
+tech_bow_df.to_csv(tech_bow_path, index=False)
+sports_bow_df.to_csv(sports_bow_path, index=False)

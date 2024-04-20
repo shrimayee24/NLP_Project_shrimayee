@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from newspaper import Article
 from gensum import text_summarizer
 from main2 import categorize_articles
+from pathlib import Path
 
 # Function to download and parse articles, and save data to CSV
 def download_and_save_articles(links_list, csv_file):
@@ -35,7 +36,7 @@ def download_and_save_articles(links_list, csv_file):
                     break
 
             # Check if all fields are valid and not null
-            if all(field is not None and isinstance(field, str) and field.strip() for field in [link, text, summary, img_src]):
+            if all(article.title not in article_titles and field is not None and isinstance(field, str) and field.strip() for field in [link, text, summary, img_src]):
                 article_img.append(img_src)
                 article_links.append(link)
                 article_text.append(text)
@@ -63,13 +64,17 @@ def download_and_save_articles(links_list, csv_file):
                         writer.writerow([article_titles[i], article_links[i], article_text[i], article_summary[i], article_img[i]])
                 print("Data has been saved to:", csv_file)
 
+
+
+csv_folder = Path(__file__).resolve().parent  # Get the directory of the script
+
 # Define CSV file paths
 info_files = {
-    0: "india.csv",
-    1: "world.csv",
-    2: "business.csv",
-    3: "tech.csv",
-    4: "sports.csv"
+    0: csv_folder/'india.csv',
+    1: csv_folder/'world.csv',
+    2: csv_folder/'business.csv',
+    3: csv_folder/'tech.csv',
+    4: csv_folder/'sports.csv'
 }
 
 # Example usage:

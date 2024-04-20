@@ -1,11 +1,16 @@
 import os
 from main3 import start
+import nltk
+from pathlib import Path
+nltk.download('punkt')
+
+csv_folder = Path(__file__).resolve().parent  # Get the directory of the script
 files = [
-    "india.csv",
-    "world.csv",
-     "tech.csv",
-    "business.csv",
-    "sports.csv"
+    csv_folder/'india.csv',
+    csv_folder/'world.csv',
+    csv_folder/'business.csv',
+    csv_folder/'tech.csv',
+    csv_folder/'sports.csv'
          ]
 
 for filepath in files:

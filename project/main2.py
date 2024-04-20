@@ -5,6 +5,7 @@ from newspaper import Article
 import requests
 from categorize_text import classify_text_domain
 
+
 visited_links = {}  # Dictionary to track visited links and their domains
 def categorize_articles(all_links):
    
