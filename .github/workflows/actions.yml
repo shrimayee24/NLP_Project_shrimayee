@@ -3,9 +3,9 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '53 13 * * *'
+    - cron: '59 13 * * *'
     # Run update_BoW.py every day
-    - cron: '20 14 * * *'
+    - cron: '30 14 * * *'
 
 jobs:
   build:
