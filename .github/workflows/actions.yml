@@ -3,9 +3,9 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '38 6 * * *'
+    - cron: '0 13 * * *'
     # Run update_BoW.py on the 1st of every month 
-    - cron: '0 19 1 * *'
+    - cron: '25 13 * * *'
 
 jobs:
   build:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Execute update_BoW.py (only on the 1st of every month)
         if: ${{ github.event_name == 'schedule' && github.event.cron == '0 19 1 * *' }}
-        run: python BoW/update_BoW.py
+        run: python update_BoW.py
 
       - name: Commit files
         run: |
