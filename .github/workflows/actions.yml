@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '17 17 * * *'
+    - cron: '07 03 * * *'
     # Run update_BoW.py on the 1st of every month 
     - cron: '0 19 1 * *'
 
@@ -11,6 +11,9 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
