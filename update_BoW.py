@@ -11,6 +11,7 @@ from pathlib import Path
 
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('wordnet')
 # Get the directory of the script
 csv_folder = Path(__file__).resolve().parent  
 

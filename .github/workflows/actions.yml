@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '30 2 * * *'
+    - cron: '20 04 * * *'
     
 
 jobs:
@@ -31,11 +31,11 @@ jobs:
       - name: Install other requirements
         run: pip install -r requirements.txt
 
-      - name: Execute newday.py
-        run: python project/newday.py
-
       - name: Execute update_BoW.py (every day)
         run: python update_BoW.py
+
+      - name: Execute newday.py
+        run: python project/newday.py
 
       - name: Commit files
         run: |
