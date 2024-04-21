@@ -17,7 +17,7 @@ def categorize_articles(all_links):
         for article_tag in soup.find_all('a', href=True):
             link = article_tag['href']
             # Check if the link starts with "https://timesofindia.indiatimes.com/" and contains "articleshow"
-            if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and "etimes" not in link and "auto" not in link and "tv" not in link and "tv/hindi" not in link and "web-series" not in link and "life-style" not in link and "/education" not in link and "entertainment" not in link):
+            if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and "/entertainment" not in link and"etimes" not in link and "auto" not in link and "tv" not in link and "tv/hindi" not in link and "web-series" not in link and "life-style" not in link and "/education" not in link and "entertainment" not in link):
 
                 # Check if the link has been visited before
                 if link not in visited_links:
