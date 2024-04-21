@@ -2,6 +2,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from newspaper import Article
 import requests
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
