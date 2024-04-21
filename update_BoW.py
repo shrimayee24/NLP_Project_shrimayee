@@ -57,7 +57,7 @@ def update_bow_csv_from_articles(url, domain_name, bow_df):
     for article_tag in soup.find_all('a', href=True):
         link = article_tag['href']
         try:
-            if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and domain_name in link and "/entertainment" not in link and "/etimes" not in link and "/auto" not in link and "/tv" not in link and "tv/hindi" not in link and "/web-series" not in link and "/life-style" not in link and "/education" not in link):
+            if (link.startswith("https://timesofindia.indiatimes.com/") and "articleshow" in link and domain_name in link ):
                 article = Article(link)
                 article.download()
                 article.parse()
@@ -66,11 +66,15 @@ def update_bow_csv_from_articles(url, domain_name, bow_df):
                 update_bow(text, bow_df)
                 print(f"Updated BoW with words from {link}")
         except Exception as e:
-            print(f"Error downloading article from {link}: {e}")
+            print(f"Error downloading article from {link} : {e}")
             continue
 
+
+visited_links=[]
 # Update BoW for each domain
 update_bow_csv_from_articles("https://timesofindia.indiatimes.com/india", "/india/", india_bow_df)
+update_bow_csv_from_articles("https://timesofindia.indiatimes.com/elections", "/india/", india_bow_df)
+update_bow_csv_from_articles("https://timesofindia.indiatimes.com/city", "/city/", india_bow_df)
 update_bow_csv_from_articles("https://timesofindia.indiatimes.com/world", "/world/", world_bow_df)
 update_bow_csv_from_articles("https://timesofindia.indiatimes.com/business", "/business/", business_bow_df)
 update_bow_csv_from_articles("https://timesofindia.indiatimes.com/technology", "/technology/", tech_bow_df)
