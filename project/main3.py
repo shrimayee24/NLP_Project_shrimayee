@@ -80,6 +80,9 @@ info_files = {
 # Example usage:
 all_links = [
     "https://timesofindia.indiatimes.com/india",
+    "https://timesofindia.indiatimes.com/india/delhi",
+    "https://timesofindia.indiatimes.com/india/maharashtra", 
+    "https://timesofindia.indiatimes.com/india/tamil-nadu",
     "https://timesofindia.indiatimes.com/world",
     "https://timesofindia.indiatimes.com/world/middle-east",
     "https://timesofindia.indiatimes.com/world/uk",
@@ -90,7 +93,7 @@ all_links = [
     "https://timesofindia.indiatimes.com/business/financial-literacy",
     "https://timesofindia.indiatimes.com/business/india-business",
     "https://timesofindia.indiatimes.com/business/international-business",
-    "https://timesofindia.indiatimes.com/technology",
+    "https://timesofindia.indiatimes.com/technology/tech-news",
     "https://timesofindia.indiatimes.com/sports"
 ]
 
