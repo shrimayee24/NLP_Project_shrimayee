@@ -27,13 +27,6 @@ def categorize_articles_new(domain_links):
                     if any(domain in url for domain in link_list):
                         if link not in visited_links:
                             try:
-                                article = Article(link)
-                                article.download()
-                                article.parse()
-                                article.nlp()
-                                text = article.text
-                                domain = classify_text_domain(text)
-                                
                                 visited_links[link] = domain
                                 domain_lists[domain].append(link)  # Append the link to the respective domain list
                                 print(link, " is ", domain) 
