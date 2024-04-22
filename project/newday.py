@@ -1,5 +1,6 @@
 import os
 from main3 import start
+from main5 import start_new
 import nltk
 from pathlib import Path
 nltk.download('punkt')
@@ -24,4 +25,4 @@ for filepath in files:
     else:
         print(f"File '{filepath}' does not exist.")
 
-start()
+start_new()
