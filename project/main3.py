@@ -81,7 +81,15 @@ info_files = {
 all_links = [
     "https://timesofindia.indiatimes.com/india",
     "https://timesofindia.indiatimes.com/world",
+    "https://timesofindia.indiatimes.com/world/middle-east",
+    "https://timesofindia.indiatimes.com/world/uk",
+    "https://timesofindia.indiatimes.com/world/us",
+    "https://timesofindia.indiatimes.com/world/south-asia"
     "https://timesofindia.indiatimes.com/business",
+    "https://timesofindia.indiatimes.com/business/stock-market",
+    "https://timesofindia.indiatimes.com/business/financial-literacy",
+    "https://timesofindia.indiatimes.com/business/india-business",
+    "https://timesofindia.indiatimes.com/business/international-business",
     "https://timesofindia.indiatimes.com/technology",
     "https://timesofindia.indiatimes.com/sports"
 ]
