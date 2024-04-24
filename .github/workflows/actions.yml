@@ -3,7 +3,7 @@ name: Run Scripts
 on:
   schedule:
     # Run newday.py every day.
-    - cron: '30 01 * * *'
+    - cron: '30 03 * * *'
     
 
 jobs:
