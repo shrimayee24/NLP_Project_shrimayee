@@ -43,8 +43,13 @@ for i in range(min(50, len(df))):
             # Display "Read Full Article" button
             st.write(f"[Read Full Article]({article_link})")
         with col2:
-            st.write(f"### {article_title}")
-            st.write(article_summary)
+            # Replace dollar signs with escape character before writing to Streamlit
+            clean_title = article_title.replace('$', '\$')
+            st.write(f"### {clean_title}")
+            clean_summary = article_summary.replace('$', '\$')
+            st.write(clean_summary)
+
+            
             
             # Display "Convert to Audio" button
             convert_button_key = f"convert_button_{i}"
