@@ -45,8 +45,18 @@ def update_bow(text, bow_df):
     bag_of_words = vectorizer.fit_transform([preprocessed_text])
     feature_names = vectorizer.get_feature_names_out()
     for i, word in enumerate(feature_names):
-        index = bow_df.index[bow_df['Word'] == word].tolist()[0]
-        bow_df.at[index, 'Frequency'] += bag_of_words[:, i].sum()
+    # Check if the word exists in the BoW DataFrame
+        if word in bow_df['Word'].values:
+            # Find the index of the word in the BoW DataFrame
+            index = bow_df.index[bow_df['Word'] == word].tolist()[0]
+            # Update the frequency count of the word
+            bow_df.at[index, 'Frequency'] += bag_of_words[:, i].sum()
+        else:
+            # Add the word to the DataFrame with frequency 1
+            new_row = {'Word': word, 'Frequency': 1}
+            bow_df = bow_df.append(new_row, ignore_index=True) 
+    
+
 
 # Scrape new articles and update BoW CSV files
 def update_bow_csv_from_articles(url, domain_name, bow_df):
