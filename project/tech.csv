@@ -1,4 +1,196 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
+Unlocking the secrets of EVMs: 21 questions answered,https://timesofindia.indiatimes.com/india/unlocking-the-secrets-of-evms-21-questions-answered/articleshow/115881432.cms,"Electronic Voting Machine
+
+Q1: Pre-programmed chips favoring a party
+
+How can we be sure the chip inside isn't pre-programmed to favor a particular party?
+
+Answer:
+
+Q2: Insider tampering before Election Day
+
+
+
+What prevents an insider from tampering with the machine before election day?
+
+Answer
+
+Q3: Wireless hacking
+
+
+
+Can't the machines be hacked through wireless signals or Bluetooth?
+
+Answer
+
+Q4: Tampering in storage
+
+
+
+How do we know the votes aren't being changed when machines are in storage?
+
+Answer
+
+24/7 CCTV coverage
+
+Three-tier security, including armed forces
+
+A double-lock system where keys are held by different officials
+
+Party representatives can place their own seals
+
+Continuous logs of any access attempts
+
+Q5: Replacement with duplicate machines
+
+
+
+What if someone replaces the original EVM with a duplicate machine?
+
+Answer
+
+Q6: Magnetic interference
+
+
+
+Can strong magnets or electromagnetic pulses manipulate voting data?
+
+Answer
+
+Q7: Accessibility for illiterate voters
+
+
+
+How can illiterate voters be sure their vote goes to their chosen candidate?
+
+Answer
+
+Q8: Preventing multiple Votes
+
+
+
+How can we prevent multiple votes being registered when no one is watching?
+
+Answer
+
+Q9: Software updates or malicious code insertion
+
+
+
+Can malicious code be inserted during maintenance or software updates?
+
+Answer
+
+Q10: Malfunction detection
+
+
+
+How do we verify if the machine malfunctions during voting?
+
+Answer
+
+Q11: Battery failure
+
+
+
+What if the battery dies during voting—are the votes lost?
+
+Answer
+
+Q12: Conditional programming
+
+
+
+Can the machine be programmed to transfer votes after a certain number?
+
+Answer
+
+Q13: VVPAT integration
+
+
+
+How does VVPAT integration ensure voter verifiability?
+
+Answer
+
+Q14: Security protocols
+
+
+
+What security protocols are in place to protect EVMs from tampering?
+
+Answer
+
+Tamper-evident seals
+
+Encryption of vote data
+
+Regular audits and checks by independent agencies
+
+Secure supply chain management
+
+Q15: Display unit security
+
+
+
+Can someone hack the machine through the display unit?
+
+Answer
+
+Q16: Climate resilience
+
+
+
+How are EVMs protected against extreme climate conditions?
+
+Answer
+
+Q17: Direct memory access
+
+
+
+What if someone tries to access the machine's memory chip directly?
+
+Answer
+
+Q18: Result transmission security
+
+
+
+Can votes be changed during the result transmission process?
+
+Answer
+
+Q19: Random sampling in VVPAT verification
+
+
+
+How do we know if the random sampling of VVPAT slips is truly random?
+
+Answer
+
+Q20: Manufacturer oversight
+
+
+
+What prevents the manufacturer from building hidden backdoors in EVMs?
+
+Answer
+
+Q21: Battery charge level
+
+
+
+Does the varying level of battery capacity (charge level) in EVMs at the time of start of vote count indicate any possibility of hacking?
+
+Answer
+
+Conclusion
+
+(by Brijesh Singh, senior IPS officer and cybersecurity expert, views are personal.)
+
+NEW DELHI: The opposition has time and again raised concerns about the Electronic Voting Machines (EVMs) used in polling and suggested a return to paper ballots for the electoral process. After recent defeats in Haryana and Maharashtra assembly elections , the Congress cited '99 per cent battery level' in the machines to suggest tampering and manipulation of the machines to favour the Bharatiya Janata Party. Can the EVMs be manipulated or hacked to favour a party in election? Can the number of votes be changed after polling? Here's your guide to all the EVM-related questions.The microcontroller in EVMs is One Time Programmable (OTP), meaning it can only be programmed once. This programming occurs under strict supervision by theTechnical Experts Committee , and the source code is audited by independent experts. Before each election, mock polls with over 1,000 votes are conducted, allowing political parties to verify that voting patterns are recorded accurately. Hence it is impossible to pre- program it to favor anyone.: EVMs are stored in secure strong rooms with 24/7 CCTV surveillance and armed security from multiple independent (center and state) agencies. They have tamper-evident seals with unique serial numbers, and a two-stage randomization process ensures that no one knows which EVM will be used where until the last moment. Pre-poll checks are conducted in the presence of representatives from multiple political parties to verify the machines' integrity.: Indian EVMs do not have any wireless components, including no internet connectivity, Bluetooth, or external ports. They are designed to be ""air-gapped,"" meaning they are physically isolated from any network, making them immune to remote hacking attempts.: EVMs are stored in secure rooms with:Any unauthorized access would trigger alarms and requires the presence of authorized personnel and party representatives.: Each EVM has unique serial numbers, digital signatures, holographic seals, and key codes. During First Level Checking (FLC), these identifiers are verified and documented in the presence of party representatives. These details can be cross-referenced before polling begins to ensure authenticity.: EVMs are designed with electromagnetic shielding, meeting military-grade standards. They are immune to electromagnetic fields up to 6 Tesla, surpassing the strength of MRI machines. This ensures that external magnetic fields cannot alter the stored vote data.: EVMs feature large, clear symbols and party names, with audible beep confirmations for each vote. The Voter-Verifiable Paper Audit Trail ( VVPAT ) provides a visual confirmation of the vote cast. Additionally, braille markings assist visually impaired voters.: EVMs are designed to allow only one vote per voter. The control unit enables voting only after the presiding officer presses the ""Ballot"" button, and there's a mandatory 5- second wait between votes. This mechanism ensures that each vote is recorded individually and prevents multiple voting without detection.: EVMs do not accept software updates post-manufacturing. The program is burned into the OTP chip, which cannot be modified once set. There are no external input ports, and maintenance is purely physical and mechanical, ensuring that no software alterations can be made.: EVMs have continuous self-diagnostic features and provide visual and audio indicators for any errors. If a malfunction is detected, the machine locks down to preserve vote data, and backup machines are immediately available to prevent disruptions.: EVMs have a robust battery system with a 48-hour backup and non-volatile memory that retains data without power. Redundant power systems ensure that even in case of battery failure, vote data remains intact.: No, the OTP chip cannot be reprogrammed and records each vote exactly as cast without any conditional logic. Security protocols are in place to prevent such alterations, and multiple layers of verification ensure the integrity of the voting process.: VVPAT provides a physical paper trail that voters can see and verify immediately after casting their vote. This paper record is stored securely and can be used for audits or recounts, adding an extra layer of transparency and trust in the electoral process.: EVMs are designed with multiple security features, including:These measures ensure that any attempt at tampering would be immediately detectable and void the machine's validity.: The display unit is purely output-only and has no input capabilities. It is hardwired to display information and cannot be used as an interface for programming or altering the machine’s operations.: EVMs are designed to operate in a wide range of temperatures (from -10°C to+55°C) and high humidity levels (up to 95%). They are also tested for resistance to heavy rain, ensuring reliability across diverse Indian climates.: The memory is encrypted using AES-256 and is physically secured within the machine. Tamper-evident seals cover the memory area, and any attempt to access the memory directly would damage the seals and be immediately detected, rendering the machine invalid for use.: Results are first recorded physically on EVMs and then transmitted through secure channels. Multiple copies of results are maintained, including the VVPAT paper trail, which can be used for cross-verification. This redundancy ensures that any attempt to alter results during transmission would be detected.: The process uses computerized random number generation, and the selection is conducted in the presence of representatives from all political parties. This ensures transparency and fairness in the sampling method.: The manufacturing process is overseen by multiple agencies, including independent security auditors. Components are verified at each stage, and the final assembled units undergo extensive testing by different teams to ensure there are no vulnerabilities or backdoors.: From a technical engineering perspective, the allegation fundamentally misunderstands EVM power architecture. The ""99%"" display is not a battery charge percentage but rather a voltage threshold indicator that shows ""99%"" whenever the battery voltage remains within the optimal operating range of 7.4V - 8.0V. This is purely an administrative feature to indicate proper functioning voltage levels. The EVMs use non-rechargeable alkaline batteries (7.5V/8V configuration) with vote data stored in non-volatile EEPROM memory, meaning vote storage and counting are completely independent of battery status. The power system is entirely isolated from the vote recording circuit, making it technically impossible for battery status to influence vote patterns or counting sequence. Furthermore, each EVM's data integrity is verifiable through VVPAT audit trails, regardless of power status. Therefore, any correlation between battery display readings and voting patterns is technically unfeasible given the EVM's core architecture and security protocols.Indian EVMs, particularly the M3 model combined with VVPAT, incorporate a multitude of security measures and safeguards to ensure the integrity and transparency of elections. Through rigorous testing, multiple layers of verification, and robust security protocols, these machines provide a reliable and trustworthy voting system.","The opposition has time and again raised concerns about the Electronic Voting Machines (EVMs) used in polling. After recent defeats in Haryana and Maharashtra assembly elections, the Congress cited '99 per cent battery level' in the machines to suggest tampering and manipulation of the machines. Here's your guide to all the EVM-related questions.","https://static.toiimg.com/thumb/msid-115881548,imgsize-1064346,width-400,resizemode-4/115881548.jpg"
+'Bro has his own priorities': Photo of groom playing ludo at wedding mandap goes viral,https://timesofindia.indiatimes.com/india/bro-has-his-own-priorities-groom-playing-ludo-at-wedding-mandap-leaves-internet-in-splits/articleshow/115868535.cms,"NEW DELHI: While wedding ceremonies are often filled with traditional customs and rituals, one groom’s light-hearted approach to the occasion has captured the attention of netizens, quickly going viral on social media.In the photo, the groom, clad in his traditional wedding attire, is seen sitting in what appears to be the sacred altar where the wedding rituals take place. However, instead of focusing on the ceremony, he’s engrossed in a game of Ludo with two friends.The casual scene—amidst the formalities of the wedding—shows the groom lost in the game on his phone with friends.The humorous image, which had the priest and photographer in the background, was shared on social media with the caption, “Bro has his own priorities”. The photo quickly became a meme, sparking a wave of reactions that brought laughter to thousands of users.One user jokingly commented, “Bro be like: Ludo khelte khelte socha shaadi kar lu”. Another user playfully added, “Kuch bhi ho jaye, Ludo rukna nhi chaiye (No matter what happens, Ludo should never stop).”This photo is not an isolated incident. Another video making waves on social media shows a groom checking trading charts while sitting in the mandap, seemingly more focused on his investment portfolio than on the vows being exchanged. While some netizens found the groom’s behavior amusing, others found it a bit too casual for such a significant moment.","A photo of a groom playing Ludo during a wedding has gone viral on social media. The groom is seen sitting in what appears to be the sacred altar. The photo quickly became a meme, sparking a wave of reactions that brought laughter to thousands of users.","https://static.toiimg.com/thumb/msid-115868602,imgsize-1206111,width-400,resizemode-4/115868602.jpg"
 "Boxing match schedule 2024 - 2025: Check match schedule, dates, boxing match live streaming details, results, and other information",https://timesofindia.indiatimes.com/sports/boxing/boxing-match-schedule-2024-2025-check-match-schedule-dates-boxing-match-live-streaming-details-results-and-other-information/articleshow/115727381.cms,"Upcoming boxing schedule 2024/2025 key features
 
 Diverse venues : Matches spanning continents, from the Middle East to Europe, the Americas, and Asia.
@@ -275,40 +467,42 @@ Also read |
 
 The Income Tax Department has introduced PAN 2.0 to streamline the process of allotting and updating Permanent Account Numbers (PAN). Aimed at enhancing convenience and security, this initiative ensures that e-PAN cards, featuring a QR code, are sent to the registered email IDs of applicants free of cost. However, taxpayers must pay a nominal fee for a physical PAN card. Existing PAN cards remain valid even without the QR code. This article provides a detailed overview of PAN 2.0 and a step-by-step guide to applying for and receiving your PAN card digitally.Before proceeding, determine whether your PAN was issued by NSDL or UTI Infrastructure Technology and Services Ltd. (UTIITSL). This information is located on the back of your PAN card.The inclusion of QR codes on PAN cards enhances security by providing a quick and reliable way to verify their authenticity. The encrypted data stored in the QR code allows authorities, banks, and other institutions to easily access and confirm the cardholder's details, ensuring protection against counterfeit or fraudulent PAN cards.","The Income Tax Department has introduced PAN 2.0 to streamline the process of allotting and updating Permanent Account Numbers (PAN) Aimed at enhancing convenience and security, this initiative ensures that e-PAN cards, featuring a QR code, are sent to the registered email IDs of applicants free of cost.","https://static.toiimg.com/thumb/msid-115808793,imgsize-78664,width-400,resizemode-4/115808793.jpg"
 'Barron is very smart': Elon Musk's mother says he and Trump's son were talking all night,https://timesofindia.indiatimes.com/world/us/barron-is-very-smart-elon-musks-mother-says-he-and-trumps-son-were-talking-all-night/articleshow/115826782.cms,"US President-elect Donald Trump hosted a dinner party on Thanksgiving at his Mar-a-Lago resort in Florida, with Tesla and SpaceX CEO Elon Musk and his mother, Maye Musk , joining the celebration.The Musk family joined Trump’s usual Thanksgiving tradition, where the President-elect typically celebrates with his children and grandchildren. This time, however, the holiday gathering also included Elon Musk and his mother.Musk responded to a clip shared by a user on social media platform X, in which Trump could be seen interacting with his son Barron. In response, Musk said: ""I was discussing consciousness & video games with Barron,"" offering a glimpse into his conversation with the younger Trump.Maye Musk took to X to respond to her son's post. In a reply, she said, “They were talking all night. Barron is very smart,” praising Barron Trump's intellectual capabilities during their conversation.The Musk family’s presence added a special touch to the family gathering, which also featured a moment when Elon Musk was seen dancing to the classic ""YMCA"" song. The tune has become somewhat of a staple at Republican rallies, with Trump himself famously dancing to it at his final rally in Georgia before the election.Maye Musk also interacted with Lara Trump, wife of Donald Trump’s son Eric. Lara posted a picture of Donald Trump with her two children, Luke and Carolina, to which Maye Musk responded warmly, saying, “Your kids are adorable.”The Thanksgiving celebration at Mar-a-Lago was not limited to the Trump family and the Musk duo. Hollywood icons like Sylvester Stallone also made an appearance.Mar-a-Lago, a lavish estate dating back to the 1920s, has long been Trump’s go-to destination for Thanksgiving. The resort, a former private estate turned into a members-only club, has witnessed many family gatherings and political moments throughout Trump’s career.","US President-elect Donald Trump hosted a Thanksgiving dinner at his Mar-a-Lago resort in Florida. Elon Musk and his mother, Maye Musk, joined the celebration. Musk responded to a clip shared by a user on social media platform X, in which Trump could be seen interacting with his son Barron.","https://static.toiimg.com/thumb/msid-115827883,imgsize-1602769,width-400,resizemode-4/115827883.jpg"
+'Massive declassification': Elon Musk backs call for transparency after Kash Patel's FBI appointment,https://timesofindia.indiatimes.com/world/us/massive-declassification-elon-musk-backs-call-for-transparency-after-kash-patels-fbi-appointment/articleshow/115872191.cms,"'Massive declassification': Elon Musk backs call for transparency after Kash Patel's FBI appointment (Picture credit: Reuters)
+
+Patel’s push for declassification
+
+Kash Patel’s appointment as FBI chief
+
+In the wake of President-elect Donald Trump’s appointment of Kash Patel as the new Director of the FBI, a social media post advocating for declassification of controversial documents has gone viral, garnering support from none other than Elon Musk.The conversation began when a user on platform X (formerly Twitter) shared a screenshot of an article quoting Patel’s recent call for “massive declassification” of sensitive documents, including the infamous “Epstein list” and the lesser-known “Diddy list.”The user captioned the post simply with “Do it.” Musk amplified the call by sharing the post and replying, “Yes”.Kash Patel, a key Trump aide and national security figure, has urged in the past to release information linked to Jeffrey Epstein and Sean “Diddy” Combs, asserting that the American people deserve transparency.The “Epstein list” allegedly details individuals connected to the disgraced financier, while the “Diddy list” reportedly involves links to entertainment and political elites.According to Econotimes, Patel’s statements emphasised the need for truth, stating that “the truth must come out, no matter how uncomfortable.”Musk’s endorsement of the call has amplified public interest, further igniting the conversation around transparency and the implications of Patel’s tenure at the FBI.Known for his vocal stance on free speech and governmental accountability, Musk’s single-word response, “Yes,” has been interpreted as a significant nod toward the demand for unveiling these controversial records.Trump’s decision to appoint Patel as FBI chief likely represents his intention to overhaul the bureau’s operations.Trump in a statement on Truth Social praised Patel’s record, citing his efforts to expose corruption, champion accountability, and defend the Constitution. Patel’s career, marked by his roles in counterterrorism and intelligence during Trump’s first term, has been both influential and controversial, with critics pointing to his combative rhetoric against political and media adversaries.As Patel prepares to take charge of the FBI, the growing calls for transparency—now amplified by Musk—signal potential shifts in how sensitive information is handled. Whether this will result in the declassification of the so-called Epstein and Diddy lists, remains to be seen.","Kash Patel, a key Trump aide and national security figure, has urged in the past to release information linked to Jeffrey Epstein and Sean “Diddy” Combs. Musk’s endorsement of the call has amplified public interest, further igniting the conversation around transparency.","https://static.toiimg.com/thumb/msid-115872570,imgsize-1262172,width-400,resizemode-4/115872570.jpg"
+"Bob Bryar, ex-My Chemical Romance drummer, dies aged 44",https://timesofindia.indiatimes.com/world/us/bob-bryar-ex-my-chemical-romance-drummer-dies-aged-44/articleshow/115870373.cms,"Bryar (File photo)
+
+Bob Bryar, ex-drummer for American rock band My Chemical Romance (MCR), died at the aged of 44 at his Tennessee home.Born in Chicago, Illinois, Bob Bryar pursued sound engineering studies at the University of Florida.His connection with the band began in 2004 whilst working as a sound engineer for a supporting act during an MCR tour.Following their acquaintance, he took over from Matt Pelissier as the band's drummer.During his tenure, the band produced two albums.In 2006, he experienced severe third-degree burns during a music video shoot, which subsequently developed into an infection.The burn injuries led to numerous medical complications, requiring hospitalisation for a staph infection.Although the band cancelled several performances during his recovery, they commenced a world tour in February 2007.Wrist problems began affecting Bryar by November, necessitating a temporary replacement, though he returned for the tour's final phase in early 2008.The band announced Bryar's departure in 2010, describing it as a ""painful decision"".Their fourth studio album, released afterwards, features Bryar's writing contributions on five tracks.In 2021, he formally withdrew from the music industry, selling his band memorabilia to support various animal charities.He explained to ABC Audio: ""I have too many wrist issues... it's time for something new"".MCR disbanded in 2013, later reforming in 2019.A US stadium tour is scheduled for 2025.","Bob Bryar was the drummer for American rock band My Chemical Romance. He took over from Matt Pelissier as the band's drummer in 2004. In 2006, he experienced severe third-degree burns during a music video shoot, which subsequently developed into an infection.","https://static.toiimg.com/thumb/msid-115870379,imgsize-560316,width-400,resizemode-4/115870379.jpg"
+"'Wearing the GDP': Groom in Pakistan flaunts 35-foot currency garland, social media reacts hilariously",https://timesofindia.indiatimes.com/world/pakistan/wearing-the-gdp-groom-in-pakistan-flaunts-35-foot-currency-garland-social-media-reacts-hilariously/articleshow/115859745.cms,"Watch video:
+
+November 10, 2024
+
+A groom in Pakistan's Bhakkar region received an extraordinary 35-foot garland from his brother, prepared using approximately 2,000 currency notes totalling PKR 1 lakh (approximately Rs 30,000), according to The Daily Guardian.The distinctive wedding accessory, created in the Kotla Jam area of Punjab, Pakistan, incorporated 200 notes of PKR 75 and 1,700 notes of PKR 50. The unusual gift gained attention after footage of it circulated on social media, showing several attendees carrying the substantial garland at the wedding venue.The elaborate creation featured a combination of currency notes, fresh flowers and decorative ribbons. The footage captured the moment when two individuals carefully draped the substantial garland around the groom's neck, followed by a photography session.The footage, which was widely shared across X and Instagram, generated diverse responses from viewers.""Anything can happen in Pakistan,"" wrote a person on Instagram, while another one quipped, ""He's wearing the entire country's GDP"".This occurrence follows a previous similar incident where another groom was recorded wearing a substantial 30-foot garland constructed entirely from currency notes.FHM Pakistan shared this earlier incident on Instagram with the caption, ""A Punjabi groom recently went viral for donning an impressive 30-foot garland made entirely of rupee notes worth Rs. 500,000 at his wedding"".","A groom in Pakistan's Bhakkar region received an extraordinary 35-foot garland from his brother. The garland was prepared using approximately 2,000 currency notes totalling PKR 1 lakh (approximately Rs 30,000) The unusual gift gained attention after footage of it circulated on social media.","https://static.toiimg.com/thumb/msid-115859866,imgsize-1031401,width-400,resizemode-4/115859866.jpg"
+Prince William finds solace in Ella’s company to escape competitive Middleton family games,https://timesofindia.indiatimes.com/world/uk/prince-william-finds-solace-in-ellas-company-to-escape-competitive-middleton-family-games/articleshow/115873886.cms,"File photo: Prince William (Picture credit: Reuters)
+
+Shared love for animals
+
+Middleton family’s competitive spirit
+
+Prince William has revealed a unique way to avoid the ""fiercely competitive"" atmosphere of the Middleton family's game nights, taking James Middleton 's beloved dog, Ella, for a walk.As noted in James’ book, ‘Meet Ella: The Dog Who Saved My Life’, Ella offered the Prince of Wales the perfect excuse to step away from the fast-paced card game Racing Demon.James wrote, “Ella gave him a perfect excuse to avoid the fiercely competitive atmosphere of the Middleton household, especially during our favourite fast-paced card game, Racing Demon.”Royal expert Christopher Andersen echoed this sentiment, saying that William and Kate Middleton’s card games are “intense and all-consuming,” often prompting William to look for ways to steer clear of the competitive streak that runs deep in the Middleton family.However, away from these heated games, William reportedly has no hesitation in challenging Kate in private competitions.As per RadarOnline, James Middleton shared insights on The Dog podcast, describing William’s lighthearted approach to the family games. He noted that William would often ask, “James, does Ella need a walk?” before the game even began, much to the knowing amusement of the Middleton siblings.James wrote in his memoir that William, despite his rigorous military training, was ""thrilled to be the first out of the game"" and would happily retreat to cuddle Ella once eliminated.William’s affection for animals has been a longstanding trait.According to People.com, William grew up surrounded by dogs and shared this love with his late grandmother, Queen Elizabeth II, and his maternal grandmother, Frances Shand Kydd.While William hesitated to get another dog after losing a beloved pet in his youth, Kate encouraged him to welcome Lupo, a black cocker spaniel, into their family in 2011.Following Lupo’s death in 2020, the Wales family adopted another cocker spaniel, Orla, bred by James Middleton.James reflected on how William has become an integral part of the Middleton family, telling People that the Prince has been “fantastic in offering advice and support” and fully embraces his role as both a family member and future king.James added, “William has no qualms about taking part in our family traditions , even if he’s more comfortable cheering from the sidelines.”Christopher Andersen, speaking to Fox News Digital, explained that competition runs deep in royal and Middleton families alike.He noted that the late Queen Elizabeth II and Prince Philip enjoyed spirited contests, while King Charles III’s passion for polo often led to injuries.However, the Middleton family’s drive to win appears unmatched. James confirmed this sentiment, adding that his paternal grandmother would ""thrash"" them at Racing Demon well into her eighties.Kate, who shares her family’s love for games, also highlighted this competitive spirit in a touching September video about completing her chemotherapy. In the message, she revealed how playing card games with her family had provided moments of normalcy during her recovery.Despite the high-energy dynamic of these gatherings, William’s bond with his in-laws remains strong.As James Middleton shared with Hello! magazine, “William has been fantastic in integrating into our family, and we’re proud to have him as part of our lives.”","Prince William has revealed a unique way to avoid the ""fiercely competitive"" atmosphere of the Middleton family's game nights. He took James Middleton's beloved dog, Ella, for a walk. William grew up surrounded by dogs and shared this love with his late grandmother, Queen Elizabeth II, and his maternal grandmother.","https://static.toiimg.com/thumb/msid-115873916,imgsize-557575,width-400,resizemode-4/115873916.jpg"
+Russia launches Kondor-FKA2 radar satellite into orbit,https://timesofindia.indiatimes.com/world/europe/russia-launches-kondor-fka2-radar-satellite-into-orbit/articleshow/115860156.cms,"Source: Russian space agency
+
+Russia on early Saturday launched the Soyuz-2.1a rocket from the Vostochny Cosmodrome in the country’s far east, placing the Kondor-FKA2 radar satellite into orbit.The satellite, equipped with advanced radar technology , is designed for all-weather, round-the-clock Earth observation. Unlike optical satellites, the Kondor-FKA series can penetrate cloud cover and operate in darkness, making them invaluable for tasks such as mapping, environmental monitoring, natural resource exploration, and guiding vessels through ice-covered routes like the Northern Sea Route during polar nights.“The second radar satellite Kondor-FKA has reached orbit! The launch systems worked as planned,” Russia's space agency Roskosmos announced.The Kondor-FKA2 was delivered to the Vostochny Cosmodrome on September 14, 2024. The satellite traveled by air and road before being prepared at the storage facility’s thermal chamber.Developed by the NPO Mashinostroyeniya design bureau, the Kondor series has seen consistent advancements since its inception. The initial satellites were launched in 2013 and 2014, while the first Kondor-FKA satellite entered orbit in 2023. The series is set to expand further, with two additional satellites under construction and the third Kondor-FKA launch scheduled for 2026.Weighing approximately 1,050 kilograms, each Kondor-FKA satellite has an operational lifespan of five years.","The Kondor-FKA2 radar satellite is designed for all-weather, round-the-clock Earth observation. The satellite was launched on a Soyuz-2.1a rocket from the Vostochny Cosmodrome in Russia's far east.","https://static.toiimg.com/thumb/msid-115860186,imgsize-524757,width-400,resizemode-4/115860186.jpg"
 Prince Harry jokes about getting a tattoo on his a** in hilarious video with singer Jelly Roll: 'Place where no one...',https://timesofindia.indiatimes.com/world/uk/prince-harry-jokes-about-getting-a-tattoo-on-his-a-in-hilarious-video-with-singer-jelly-roll-place-where-no-one-/articleshow/115543456.cms,"Jelly Roll and Prince Harry (Picture credit: X)
 
 In a humorous new promo for the upcoming Invictus Games, Prince Harry shared a lighthearted moment with country singer Jelly Roll , where he joked about getting a tattoo on his lower back or 'a**.' The video, shared on Instagram, shows the Duke of Sussex sitting in a tattoo chair at East Side Ink tattoo shop in New York City, awaiting his “artist.”“Is he going to be here any time soon?” Harry asked, to which a staff member assured him the tattoo artist would arrive shortly.The suspense was quickly broken when Jelly Roll, whose real name is Jason Bradley DeFord, walked in wearing black gloves and greeted the prince with enthusiasm. “Hey, hey! Tattoos. Speaking of, what’s up, man?” the country star said, adding that he was “such a fan” of Harry.Jelly Roll expressed his surprise upon learning that Prince Harry wanted him to give him his first tattoo, but Harry clarified that he wasn’t there for a tattoo. Instead, he wanted Jelly to help promote the Invictus Games, which are set to take place in Vancouver in February 2025.Harry humorously added, “There’s no tattoo in this. I can’t get a tattoo.” However, Jelly Roll insisted that if Harry allowed him to give him a tattoo, they could play a game for the Invictus Games. With that, Harry gave in, saying, “Aight, screw it. Let’s go.”When Jelly suggested getting the tattoo on Harry’s neck, the prince joked, “I was thinking like, my lower back or my a**,” adding, “That’s the place where no one’s going to see it.” The singer then went on to jokingly tattoo “I am Jelly Roll” on Harry’s neck, which caused both men to laugh before Jelly quickly exited the room.The video ended with a message announcing Jelly Roll’s performance at the Invictus Games closing ceremony on February 16, 2025.Prince Harry, who founded the Invictus Games in 2014, has worked to create an international multi-sport event for wounded, injured, and sick servicemen and women. Earlier reports revealed Harry's visit to the tattoo shop in September, where he spent over an hour with his security team.",Prince Harry shared a humorous new promo for the upcoming Invictus Games. The Duke of Sussex joked about getting a tattoo on his lower back or 'a**' The video shows the prince sitting in a tattoo chair at East Side Ink tattoo shop in New York.,"https://static.toiimg.com/thumb/msid-115544842,imgsize-1071689,width-400,resizemode-4/115544842.jpg"
 'I'm Irish': Why meeting King Charles was 'not on list of priorities' for Gladiator 2 star Paul Mescal,https://timesofindia.indiatimes.com/world/uk/im-irish-why-meeting-king-charles-was-not-on-list-of-priorities-for-gladiator-2-star-paul-mescal/articleshow/115452761.cms,"Paul Mescal at Premiere for the film 'Gladiator II', in Los Angeles (Reuters photo)
 
-Irish actor Paul Mescal , best known for his role in Gladiator 2 , shared a candid take on meeting King Charles III during the film's star-studded premiere in London. Mescal, who plays Lucius Verus in Ridley Scott 's much-anticipated sequel, didn't seem enthusiastic about the royal encounter, being from Irish descent.In a Variety interview , when questioned if it was a ' wild' experience meeting the King, who had had attended the movie premiere and greeted the cast on the red carpet, Mescal while confirming he had never me the British Monarch before said, ""It's definitely not something that was on my bingo cards.I'm, like, Irish – so it's not kind of on the list of priorities.""Regarding his actual conversation, Mescal said, ""I found it hard to hear exactly he was saying because your head is in such a kind of frenzy. You're just kind of nodding along and just smiling.""However, Mescal spoke more favourably about Ridley Scott meeting the British Monarch, noting it was an ""amazing thing"" for the director to meet the King, saying, ""I know how important that is for him. So, to see his film celebrated in that context was pretty special.""Many found his response hilarious while many criticised the question describing it as ""tone deaf"".The premiere event occurred on November 13 in Leicester Square, London, where Mescal reunited with Andrew Scott , his colleague from All of Us Strangers.","Irish actor Paul Mescal shared a candid take on meeting King Charles III. Mescal, who plays Lucius Verus in Ridley Scott's much-anticipated sequel, didn't seem enthusiastic about the royal encounter. Many found his response hilarious while many criticised the question describing it as ""tone deaf""","https://static.toiimg.com/thumb/msid-115453468,imgsize-782504,width-400,resizemode-4/115453468.jpg"
-Is Congresswoman Alexandria Ocasio-Cortez planning for 2028 US presidential bid? Netizens react,https://timesofindia.indiatimes.com/world/us/is-congresswoman-alexandria-ocasio-cortez-planning-for-2028-us-presidential-bid-netizens-react/articleshow/115820619.cms,"File photo: Congresswoman Alexandria Ocasio-Cortez (Picture credit: AP)
-
-Speculation about Congresswoman Alexandria Ocasio-Cortez (AOC) running for president in 2028 gained momentum after The Hill published a report naming her among potential Democratic candidates.The article highlighted her strong appeal to grassroots voters and her ability to connect with people in a way that sets her apart from many in Washington. A Democratic strategist quoted in the piece praised her authenticity, describing her as someone who “cuts through the noise and doesn’t talk like Washington.”However, another strategist expressed skepticism, arguing that her progressive approach and push for rapid change might alienate traditional Democrats. “She and the 'Squad' started pushing too hard, too fast. DC doesn’t work that way,” the strategist noted.The speculation ignited a storm of reactions online, particularly from conservatives. Former Congressman Matt Gaetz claimed that AOC has been eyeing a presidential bid since 2019.One critic on X remarked, “I didn’t think there could be a more stupid person than Kamala as the Democrat nominee... until now.”Another user joked, “Somewhere in America, JD Vance is enjoying breakfast and laughing at the thought of AOC running for president in 2028.”Republican Representative Tim Burchett weighed in, warning against dismissing her potential as a serious contender. “Quit underestimating our opponents. That’s how we got Carter, Clinton, Obama, and Biden,” he wrote.Despite the criticism, some social media users acknowledged her potential impact. A commentator noted that while AOC’s policies are divisive, her authenticity resonates with voters, making her a formidable candidate who could challenge expectations even if her chances of winning remain uncertain.Alexandria Ocasio-Cortez, commonly known as AOC, represents New York’s 14th Congressional District. She first gained prominence in 2018 by unseating a veteran incumbent in a primary upset, becoming one of the youngest women elected to Congress at age 29. Known for her progressive stances, AOC has championed initiatives like the Green New Deal, Medicare for All, and economic reforms aimed at reducing inequality.Her rapid rise to political fame has positioned her as a leading figure within the Democratic Party’s progressive wing and a polarizing figure across the political spectrum.While AOC has not publicly confirmed any plans for a 2028 run, the discussions sparked by this report reflect growing curiosity about her future in US politics.","Alexandria Ocasio-Cortez, commonly known as AOC, represents New York’s 14th Congressional District. She first gained prominence in 2018 by unseating a veteran incumbent in a primary upset. Known for her progressive stances, AOC has championed initiatives like the Green New Deal.","https://static.toiimg.com/thumb/msid-115820642,imgsize-887650,width-400,resizemode-4/115820642.jpg"
-Donald Trump: Watch: Embarrassed Barron Trump reacts to Trump and Musk groove to YMCA at Thanksgiving in Mar-a-Lago,https://timesofindia.indiatimes.com/world/us/watch-embarrassed-barron-trump-reacts-to-trump-and-musk-groove-to-ymca-at-thanksgiving-in-mar-a-lago/articleshow/115810858.cms,"YMCA: The Soundtrack of Trump’s Campaigns
+Irish actor Paul Mescal , best known for his role in Gladiator 2 , shared a candid take on meeting King Charles III during the film's star-studded premiere in London. Mescal, who plays Lucius Verus in Ridley Scott 's much-anticipated sequel, didn't seem enthusiastic about the royal encounter, being from Irish descent.In a Variety interview , when questioned if it was a ' wild' experience meeting the King, who had had attended the movie premiere and greeted the cast on the red carpet, Mescal while confirming he had never me the British Monarch before said, ""It's definitely not something that was on my bingo cards. I'm, like, Irish – so it's not kind of on the list of priorities.""Regarding his actual conversation, Mescal said, ""I found it hard to hear exactly he was saying because your head is in such a kind of frenzy. You're just kind of nodding along and just smiling.""However, Mescal spoke more favourably about Ridley Scott meeting the British Monarch, noting it was an ""amazing thing"" for the director to meet the King, saying, ""I know how important that is for him. So, to see his film celebrated in that context was pretty special.""Many found his response hilarious while many criticised the question describing it as ""tone deaf"".The premiere event occurred on November 13 in Leicester Square, London, where Mescal reunited with Andrew Scott , his colleague from All of Us Strangers.","Irish actor Paul Mescal shared a candid take on meeting King Charles III. Mescal, who plays Lucius Verus in Ridley Scott's much-anticipated sequel, didn't seem enthusiastic about the royal encounter. Many found his response hilarious while many criticised the question describing it as ""tone deaf""","https://static.toiimg.com/thumb/msid-115453468,imgsize-782504,width-400,resizemode-4/115453468.jpg"
+Grok vs ChatGPT: Elon Musk’s silent dig over AI responses on future US president,https://timesofindia.indiatimes.com/world/us/grok-vs-chatgpt-elon-musks-silent-dig-over-ai-responses-on-future-us-president/articleshow/115846532.cms,"The Musk-Altman Feud
 
 
 
-Barron Trump: The Quiet Campaign Strategist
-
-
-
-Elon Musk: From Tech Visionary to Trump Confidant
-
-
-
-A Thanksgiving Moment That Stole the Spotlight
-
-
-
-The Thanksgiving gathering at Mar-a-Lago this year had all the elements of a viral spectacle: Donald Trump and Elon Musk dancing—if awkwardly—to YMCA , a soundtrack synonymous with Trump’s campaign rallies, while Barron Trump , the president-elect’s 18-year-old son, watched on, visibly embarrassed. Yet amidst the table-smacking, shoulder-tapping antics of Trump and Musk, Barron has quietly become an unsung hero of Trump’s campaign success, earning praise for his strategic contributions behind the scenes.As YMCA played, Trump belted out his signature “bam, bam, bam” while urging Musk, who was initially content with subtle head nods, to throw his arms into the air in time with the beat. Musk reluctantly obliged, eliciting a beaming grin from Trump. Meanwhile, Barron, seated between his mother, Melania, and Musk, offered a hesitant smile, his discomfort palpable. His body language spoke volumes, capturing the universal plight of teenagers mortified by their parents’ public antics.The Village People’s YMCA has become an unlikely yet enduring anthem of Trump’s political rallies, a high-energy song that brings nostalgic levity to his events. Though its disco roots and LGBTQ+ associations might seem at odds with Trump’s base, the song’s universal appeal and infectious beat have made it a campaign staple. For Trump, YMCA represents more than just a crowd-pleaser—it’s a unifying moment that embodies his ability to turn political events into dynamic, entertainment-filled experiences.At the Thanksgiving table, however, the song’s significance took a backseat to the camaraderie between Trump and Musk, who has become a fixture at Mar-a-Lago since Trump’s election win. Yet, while the president-elect relished the moment, his youngest son seemed less enthused, his reaction quickly going viral on social media. One user joked, “Barron’s thinking, ‘Okay, have we had enough of this song yet, Father?’” Another added, “The poor kid is stuck between his dad and Elon Musk—let him leave the table!”While Barron’s Thanksgiving discomfort may have stolen the internet’s attention, insiders know that the youngest Trump has been instrumental in crafting key elements of his father’s campaign. Barron has earned praise for spearheading the strategy behind Trump’s podcast outreach—a medium that played a pivotal role in swaying undecided male voters.Recognizing the growing influence of long-form audio content among young and middle-aged men, Barron reportedly helped design a podcasting strategy that positioned Trump as relatable and engaging to this critical demographic. With a focus on Trump’s storytelling and direct, unscripted style, the podcast series resonated with voters who appreciated an unfiltered perspective amidst a crowded media landscape. This effort helped Trump close the gap with undecided voters in battleground states, underscoring Barron’s keen understanding of emerging communication platforms.Elon Musk’s presence at Mar-a-Lago has evolved from occasional visits to near-constant companionship, earning him the moniker “First Buddy” in political circles. As Trump’s confidant and incoming head of the Department of Government Efficiency, Musk has seamlessly integrated into Trump’s world, joining phone calls with foreign leaders and even appearing at campaign events. His willingness to join in Trump’s YMCA antics—albeit reluctantly—underscored Musk’s growing comfort in this unconventional political environment.The Thanksgiving gathering at Mar-a-Lago was quintessential Trump: a blend of family warmth, political theater , and viral-ready moments. While Trump and Musk reveled in their impromptu dance, Barron’s expression of embarrassment and restraint became the internet’s focal point, cementing his reputation as the most relatable member of the Trump family.Yet beneath the surface of teenage awkwardness lies a budding political strategist. Barron’s contributions to his father’s campaign highlight his growing influence within the Trump orbit, proving that even as he avoids the spotlight, he is far from a passive observer.","The Thanksgiving gathering at Mar-a-Lago was quintessential Trump: a blend of family warmth, political theater, and viral-ready moments. While Trump and Musk’s expression of embarrassment and restraint became the internet's spotlight, Barron became a budding political strategist. Barron reportedly helped design a podcasting strategy that positioned Trump as relatable and engaging.","https://static.toiimg.com/thumb/msid-115810892,imgsize-1833647,width-400,resizemode-4/115810892.jpg"
-Northern Lights could light up US skies on Black Friday night,https://timesofindia.indiatimes.com/world/us/northern-lights-could-light-up-us-skies-on-black-friday-night/articleshow/115809253.cms,"Representative image (Picture credit: AP)
-
-Aurora activity peaks during the
-
-solar cycle
-
-Skywatchers across the northern United States might be in for a treat tonight as the northern lights , or aurora borealis , could dazzle the skies on Black Friday .The National Oceanic and Atmospheric Administration ( NOAA ) has issued a G2 (moderate) geomagnetic storm watch for Friday, signalling the potential for vibrant auroral displays across several states.The geomagnetic storm could bring radiant displays of green, red, and purple hues to states including Washington, Montana, the Dakotas, Minnesota, Wisconsin, Michigan, and Maine. Northern areas of New York, Vermont, New Hampshire, and Idaho may also catch glimpses of the celestial show.The best time for viewing is in the hours just before and after midnight, and NOAA advises heading to locations away from city lights for a clearer view.Cloud cover may obstruct the view in parts of the Northeast and Great Lakes regions, but clear skies elsewhere offer promising conditions for skywatchers. For those capturing the auroras, smartphone cameras may reveal colours that are not easily visible to the naked eye.The northern lights have been more frequent this year as the sun approaches the peak of its 11-year solar cycle, known as the solar maximum . This heightened solar activity is expected to continue through 2025, increasing the likelihood of more auroral displays across the United States.","The National Oceanic and Atmospheric Administration has issued a G2 (moderate) geomagnetic storm watch for Friday. The storm could bring radiant displays of green, red, and purple hues to states including Washington, Montana, the Dakotas, Minnesota, Wisconsin, Michigan, and Maine.","https://static.toiimg.com/thumb/msid-115810030,imgsize-567759,width-400,resizemode-4/115810030.jpg"
-Alaskan pilot airdrops turkeys to remote areas to keep Thanksgiving tradition alive,https://timesofindia.indiatimes.com/world/us/alaskan-pilot-airdrops-turkeys-to-remote-areas-to-keep-thanksgiving-tradition-alive/articleshow/115795334.cms,"Keeping up the old tradition alive, Alaskan authorities delivered Thanksgiving Turkey to residents in remote areas of Alaska by airplane this week. Esther Keim , a resident, continued a unique tradition for the third year by piloting a small plane and dropping frozen turkeys to families living in isolated, roadless areas.Alaska's limited road access makes travel challenging, especially in winter when roads are covered with snow and residents have to rely on planes, snowmobiles, and frozen rivers. Keim grew up on a homestead where a family friend airdropped turkeys and newspapers during the holidays.Motivated by a family struggling to find Thanksgiving dinner, Keim revived the tradition a few years ago. “They were telling me that a squirrel for dinner did not split very far between three people,” Keim recalled. “At that moment, I thought … ‘I’m going to airdrop them a turkey,'"" she added.Social media posts have helped her expand her efforts. Keim delivered 32 turkeys this year, funded by donations through Facebook. She wraps the turkeys in plastic bags and stores them in her truck until delivery. However, weather conditions result in delays in deliveries.Dave and Christina Luce, living 45 miles northwest of Anchorage, are among the recipients. The 90-minute snowmobile ride to the nearest town has become problematic for the senior citizen. “I’m 80 years old now, so we make fewer and fewer trips,” Dave Luce said. “The adventure has sort of gone out of it.” The delivered turkey will feed them and several neighbors. ""It makes a great Thanksgiving,” Dave Luce said. “She’s been a real sweetheart, and she’s been a real good friend,"" he added.Keim flies up to 100 miles from her base north of Anchorage to deliver the turkeys, sometimes with a ""turkey dropper"" assisting. She contacts families beforehand and waits for them to come outside before dropping the birds to ensure they are easily found, particularly in deep snow. “We won’t drop the turkey until we see them come out of the house or the cabin, because if they don’t see it fall, they’re not going to know where to look,” she said.While a ham has been lost, no turkeys have been damaged, as per Keim. “As far as precision and hitting our target, I am definitely not the best aim,” she joked. “I’ve gotten better, but I have never hit a house, a building, person or dog,"" she added.Keim’s long-term goal is to establish a nonprofit to expand her deliveries statewide and include other items for children. ""There’s so many kids out in the villages,” she said. “It would be cool to maybe add a stuffed animal or something they can hold.”","Esther Keim, a resident, continued a unique tradition for the third year by piloting a small plane and dropping frozen turkeys to families living in isolated, roadless areas. Keim delivered 32 turkeys this year, funded by donations through Facebook.","https://static.toiimg.com/thumb/msid-115796068,imgsize-858927,width-400,resizemode-4/115796068.jpg"
+Tech mogul Elon Musk and recently took a silent dig at OpenAI 's ChatGPT , reigniting the rivalry between his AI model Grok and OpenAI’s widely used chatbot. The debate was sparked by a post from X user Omar Sultan AlOlama, who shared images comparing the responses of the two AI models to the same prompt: ""Draw a picture of the next president of the United States giving the inauguration address.""The first image, generated by Grok, depicted Donald Trump, in line with the prompt. However, when the same prompt was given to ChatGPT-4, the AI produced an image of a bald woman resembling Vice President Kamala Harris, which prompted online discussions.This incident sparked a silent jab from Musk, hinting at Altman’s AI bias, as Musk’s Grok seemed more in line with expectations, while ChatGPT’s output was deemed to be more politically skewed.Musk’s rivalry with Altman is no secret, and this latest exchange is yet another chapter in their ongoing saga. The battle between Sam Altman, the CEO of OpenAI, and Elon Musk , the founder of Tesla and SpaceX, is becoming one of Silicon Valley’s most closely watched rivalries. Their differences go beyond the corporate world, touching on the very future of artificial intelligence .Once allies, Musk and Altman’s split traces back to their philosophical differences on how AI should be developed and controlled. Musk’s concerns overAI safety have led him to launch his own venture, xAI, aiming to create a more ethically guided AGI system. On the other hand, Altman continues to push forward with OpenAI’s rapid development of powerful AI tools, including ChatGPT, despite Musk’s warnings about the risks of unchecked AI development.As the feud intensifies, experts such as Geoffrey Hinton and Ilya Sutskever are weighing in, with some backing Altman’s more collaborative approach and others aligning with Musk’s cautionary stance. This rivalry has raised questions about the regulation of AI, its ethical implications, and the potential for global cooperation—or competition—between tech giants.At the heart of the Altman-Musk divide is the question of who should have control over AGI—the technology that could revolutionize every aspect of human life. Musk’s call for stringent regulation contrasts with Altman’s belief that progress and safety can go hand in hand.The stakes are high: AI isn’t just reshaping industries but could redefine economies, geopolitics, and even governance. The Altman-Musk rivalry is not just a battle of egos; it’s a clash that could determine the trajectory of humanity’s technological future.For now, the rivalry continues to fuel debates about AI ethics , control, and the role of private companies in shaping the future of technology. As Musk and Altman push their respective visions of AGI, one thing is clear: this battle is far from over. And as the AI wars heat up, the world watches closely, wondering who will ultimately control the future of artificial intelligence.","Elon Musk took a dig at OpenAI's ChatGPT, reigniting the rivalry between his AI model Grok and OpenAI’s widely used chatbot. The debate was sparked by a post from X user Omar Sultan AlOlama, who shared images comparing the responses of the two AI models to the same prompt.","https://static.toiimg.com/thumb/msid-115846819,imgsize-1234197,width-400,resizemode-4/115846819.jpg"
 Special Vande Bharat trains for Kashmir! Indian Railways to introduce new Vande Bharat trains with ‘heating’ features,https://timesofindia.indiatimes.com/business/india-business/special-vande-bharat-trains-for-kashmir-indian-railways-to-introduce-new-vande-bharat-trains-with-heating-features-check-details/articleshow/115720597.cms,"The special Vande Bharat trains for J&K will feature an integrated heating element for the driver's front window.
 
 Vande Bharat Express trains for J&K
@@ -528,28 +722,6 @@ Communicate with family: It's also important to store your will safely and let y
 
 Creating a will online : If you are planning to create a will, many online platforms offer easy-to-use tools and resources, allowing you to draft and finalise a will without leaving your home. Here's how to make an online will .Begin by choosing a reliable online service. Look for a platform that has a simple interface, comprehensive templates, and secure storage for your documents.2.Register with the platformTo register, enter your personal information like your full name, date of birth, address, and contact details. Then create a secure username and password to access the online service.Next, make a list of all your assets. Include property, investments, bank accounts, insurance policies, and any valuable items you own.Decide who will inherit your assets by choosing your beneficiaries. You can assign specific items to each beneficiary and select backup beneficiaries in case your first choices can't inherit. Then, choose an executor, the person who will carry out your will.Use one of the customizable templates available on the platform. Follow the instructions to fill in the details, specifying how you want your assets distributed and including any special conditions or terms.You can review the drafted will to ensure it's accurate and make changes if needed. If you have complicated issues, it's best to get legal advice. Once you're satisfied, you can legally execute the will according to the platform's rules, usually by electronically signing it with witnesses. The completed will is then stored securely online, with encryption for added security.With inputs from Centre for Investment Education and Learning content which appeared in Economic Times","If you are planning to create a will, many online platforms offer easy-to-use tools and resources, allowing you to draft and finalise a will without leaving your home. Look for a platform that has a simple interface, comprehensive templates, and secure storage for your documents.","https://static.toiimg.com/thumb/msid-109528287,imgsize-46000,width-400,resizemode-4/109528287.jpg"
 "Apple, Google agreed to ‘defend’ search deal from regulators",https://timesofindia.indiatimes.com/business/international-business/apple-google-agreed-to-defend-search-deal-from-regulators/articleshow/103974460.cms,"Apple's agreement with Google to use it as the default search engine on iPhones includes a provision for the two companies to ""support and defend"" the deal against government scrutiny. Apple's Senior Vice President of Services, Eddy Cue, revealed this during an antitrust trial. The trial aims to determine whether Google pushed its way onto Apple devices at the expense of competitors.","Apple's agreement with Google to use it as the default search engine on iPhones includes a provision for the two companies to ""support and defend"" the deal. Apple's Senior Vice President of Services, Eddy Cue, revealed this during an antitrust trial. The trial aims to determine whether Google pushed its way onto Apple devices at the expense of competitors.","https://static.toiimg.com/thumb/msid-103974505,imgsize-166292,width-400,resizemode-4/103974505.jpg"
-The book written by Hindu Guru that Apple founder Steve Jobs ordered to be given at his memorial service,https://timesofindia.indiatimes.com/technology/tech-news/the-book-written-by-hindu-guru-that-apple-founder-steve-jobs-ordered-to-be-given-at-his-memorial-service/articleshow/115836620.cms,"'
-
-Autobiography of a Yogi
-
-'
-
-by Hindu Guru
-
-Paramahansa Yogananda
-
-Steve Jobs planned his memorial service: Salesforce CEO
-
-What made Guru Paramahansa Yogananda's book so special for Steve Jobs
-
-'Autobiography of a Yogi'
-
-Benioff advice to Apple
-
-Apple co-founder Steve Jobs left a meaningful message in his final gift to friends and colleagues: a copy of, handed out in a simple brown box. Speaking at TechCrunch Disrupt conference, few years after his death, Salesforce CEO Mark Benioff shared that the book focused on self-realization and reflected Jobs’ deep belief in intuition and looking inward.“That was his message,” Benioff explained. “Actualize yourself. He had this incredible realization that his intuition was his greatest gift, and he needed to view the world from the inside out.”Steve Jobs passed away on October 5, 2011, at the age of 56. He died at his home in Palo Alto, California, surrounded by his family. Jobs had been battling a rare form of pancreatic cancer called neuroendocrine tumor, which was first diagnosed in 2004.Benioff, a close friend of Steve Jobs and an early collaborator on the Macintosh project, also shed light on a lesser-known side of Jobs—his deep spirituality.In his final days, Steve Jobs showcased his trademark attention to detail by planning every aspect of his memorial. He personally selected the speakers, the guest list, and even the performers—Bono and Yo-Yo Ma played as he had envisioned. As guests left, each was given a copy of the book, carrying Jobs' parting message about the value of reflection and self-discovery.“I knew this was a decision he made deliberately,” Benioff said. “This gift was the last thing he wanted us to think about.”The bookmeant a lot to Steve. As indicated in his biography by Walter Isaacson, he first read the book as a teenager, a few years later while in India, and then again once a year.Benioff also spoke about how Jobs’ message could guide Apple today, as the company faces tough competition. With Samsung and Google’s Android devices outselling Apple’s iPhone and iPad, and its shares dropping 30% over the past year, Benioff encouraged Apple to rediscover its true identity.“For Apple, they need to find themselves and be who they are,” he said. “In many ways, they’re still trying to be him. But they just need to be true to themselves. Respect the past, and as Steve would say, ‘Project the future.’”","Steve Jobs passed away on October 5, 2011, at the age of 56. Jobs had been battling a rare form of pancreatic cancer called neuroendocrine tumor. Salesforce CEO Mark Benioff spoke at TechCrunch Disrupt conference, few years after his death. Jobs' message could guide Apple as the company faces tough competition.","https://static.toiimg.com/thumb/msid-115836613,imgsize-20464,width-400,resizemode-4/115836613.jpg"
-WhatsApp simplifies Channel sharing with QR codes: Here’s how the feature works,https://timesofindia.indiatimes.com/technology/tech-news/whatsapp-simplifies-channel-sharing-with-qr-codes-heres-how-the-feature-works/articleshow/115831493.cms,"How it works
-
-WhatsApp, the popular messaging app, is rolling out a new feature that streamlines the process of sharing channels. The update introduces QR codes, making it easier for users to discover and join channels with a simple scan.Previously, sharing channels involved copying and pasting links or manually adding contacts. As reported by WABetaInfo, the new QR code feature allows users to generate a unique code for their channel. This code can then be shared physically or digitally, allowing others to quickly join the channel with just a scan.“The introduction of QR codes makes sharing channels significantly more convenient than using traditional links. Instead of copying and pasting a link to share through messages or emails, users can simply show the QR code on their device screen for others to scan. This is especially beneficial in face-to-face settings, where other people can quickly scan the code without the need for additional steps. The scanned code will redirect users to the channel, where they can view its content and follow it with just one tap,” mentions the report.The update is currently being tested in the latest WhatsApp beta for Android. To access the feature, users can navigate to their desired channel's settings and tap the ""Share Code"" option. This will generate a QR code, which can be presented to others for scanning. Alternatively, users can share the QR code image directly through WhatsApp or other platforms.The introduction of QR codes is particularly beneficial for businesses and communities that utilise WhatsApp channels for communication. Businesses can now display their channel's QR code on physical materials like flyers or business cards, simplifying customer access to updates and promotions.","WhatsApp is rolling out a new feature that streamlines the process of sharing channels. The update introduces QR codes, making it easier for users to discover and join channels with a simple scan. Previously, sharing channels involved copying and pasting links or manually adding contacts.","https://static.toiimg.com/thumb/msid-115831482,imgsize-32030,width-400,resizemode-4/115831482.jpg"
 "Garena Free Fire Max redeem codes for November 25, 2024: Win exciting rewards daily",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-november-25-2024-win-exciting-rewards-daily/articleshow/115642125.cms,"What are Free Fire Max redeem codes?
 
 Garena Free Fire Max redeem codes for November 25, 2024
@@ -595,6 +767,63 @@ Also read |
 |
 
 Garena Free Fire Max is an enhanced version of the widely popular Garena Free Fire, which gained significant traction in India after its predecessor was banned. Known for its impressive visuals and engaging gameplay, the game has garnered widespread acclaim nationwide.One notable feature of Garena Free Fire Max is its daily redemption codes, which enhance the player experience by adding excitement and urgency. These time-limited codes remain active for 12 to 18 hours, fostering anticipation and increasing user engagement.Following developer guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max provide daily rewards to a maximum of 500 registered players, ensuring fairness and equal opportunities for progression.With its time-sensitive rewards, stunning graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately crafted universe promises an exhilarating adventure for players, solidifying its position in India's battle royale gaming scene.Players who use redeem codes in Garena Free Fire Max can access a variety of valuable in-game items, including weapons, diamonds, and exclusive skins. These codes comprise 12-character alphanumeric combinations, enriching the gaming experience. Upon redemption, players can unlock rewards such as Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It's noteworthy that these codes are time-limited, active for up to 12 hours, and restricted to the first 500 users who redeem them.","Garena Free Fire Max redeem codes for November 25, 2024 are available. The codes are time-limited, active for up to 12 hours, and restricted to the first 500 users who redeem them. Upon redemption, players can unlock rewards such as Rebel Academy Weapon Loot Crate, Revolt Weapon Loot crate, Diamonds Voucher, and Fire Head Hunting Parachute.","https://static.toiimg.com/thumb/msid-115642129,imgsize-40708,width-400,resizemode-4/115642129.jpg"
+"TapSwap Daily Codes for November 25, 2024: Earn TAP coins and convert them to cryptocurrency",https://timesofindia.indiatimes.com/technology/gaming/tapswap-daily-codes-for-november-25-2024-earn-tap-coins-and-convert-them-to-cryptocurrency/articleshow/115642409.cms,"What is TapSwap?
+
+
+
+How to play TapSwap
+
+
+
+Find the TapSwap bot
+
+Start playing
+
+Collect points
+
+Redeem points
+
+TapSwap Daily Codes for November 25, 2024
+
+
+
+Description
+
+Code
+
+Profit From Your Passion
+
+8g52
+
+Animated GIFs
+
+77po
+
+Content That Pays Big
+
+4act
+
+
+
+Steps to redeem codes in TapSwap
+
+
+
+Getting started: Access TapSwap through the Telegram bot or the TapSwap app.
+
+Go to the codes section: Navigate to the ""Task"" or ""Cinema Code"" section.
+
+Enter your code: Input the provided code and press submit.
+
+Claim your reward: After the code is verified, your account will be credited with the corresponding in-game currency or rewards.
+
+Also read |
+
+|
+
+|
+
+TapSwap is a quickly rising Telegram mini-app where players can earn TAPS coins by participating in various in-game activities. As of early July 2024, the game has surged in popularity with over 60 million players, thanks to its simple yet engaging tap-to-earn mechanics. Users can mine TAPS coins directly from their smartphones. TapSwap’s easy approach to crypto mining and the anticipation of real rewards from an upcoming TapSwap airdrop and Token Generation Event (TGE) have drawn a large and active user community.TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game features a unique ‘Energy’ metre that depletes over time and slowly replenishes, adding a layer of strategy to the tapping process. Its straightforward gameplay makes TapSwap highly engaging and widely popular. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.Playing TapSwap is straightforward. Follow these steps:Open your Telegram app and search for ""TapSwap"" or a related bot name. Select the official TapSwap bot from the search results.Once you’ve found the bot, click ""Start"" or a similar command to begin. You’ll typically see a virtual coin in the centre of the screen. Tap on the coin continuously to earn points or virtual coins.Tap frequently to accumulate points. Some TapSwap games might include additional features like daily bonuses, special missions, or power-ups to help you gather points more quickly.Once you’ve earned enough points, you can exchange them for rewards offered by the game, such as crypto tokens, virtual goods, or discounts on various products.Similar to the Hamster Kombat Daily Cipher and Hamster Kombat Daily Combo, TapSwap features Daily Codes that players can redeem for additional rewards. This system is crucial for enhancing in-game earnings and keeping player engagement high, with over 60 million active participants benefiting from these daily bonuses.","TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.","https://static.toiimg.com/thumb/msid-115642455,imgsize-35448,width-400,resizemode-4/115642455.jpg"
 "MemeFi daily codes for November 25, 2024: Earn virtual coins with each win",https://timesofindia.indiatimes.com/technology/gaming/memefi-daily-codes-for-november-25-2024-earn-virtual-coins-with-each-win/articleshow/115642361.cms,"What are MemeFi daily combo code, video code, and YouTube code?
 
 MemeFi daily combo code: A daily feature where players enter a specific code to unlock rewards or bonuses within the MemeFi ecosystem. These codes can be found within the game or through official MemeFi channels, such as their Telegram community.
@@ -684,63 +913,6 @@ Also Read |
 |
 
 MemeFi Coin is an engaging clicker game developed by the MemeFi team, available on Telegram. This tap-to-earn game challenges players to defeat ghostly enemies by tapping the screen, earning virtual coins for each win. With a global player base nearing 10 million, MemeFi has become a major player in the gaming world.MemeFi provides daily opportunities for users to earn rewards through different codes:Another way to score big rewards in MemeFi Coin is by entering secret codes found in videos. Here are the MemeFi video codes for November 25, 2024:To earn MemeFi Coins using the Daily Combo Code, Video Code, and YouTube Code, follow these steps:Daily combo codeVideo codeYouTube code","MemeFi Coin is an engaging clicker game developed by the MemeFi team, available on Telegram. This tap-to-earn game challenges players to defeat ghostly enemies by tapping the screen, earning virtual coins for each win. With a global player base nearing 10 million, Meme Fi has become a major player in the gaming world.","https://static.toiimg.com/thumb/msid-115642353,imgsize-43058,width-400,resizemode-4/115642353.jpg"
-"TapSwap Daily Codes for November 25, 2024: Earn TAP coins and convert them to cryptocurrency",https://timesofindia.indiatimes.com/technology/gaming/tapswap-daily-codes-for-november-25-2024-earn-tap-coins-and-convert-them-to-cryptocurrency/articleshow/115642409.cms,"What is TapSwap?
-
-
-
-How to play TapSwap
-
-
-
-Find the TapSwap bot
-
-Start playing
-
-Collect points
-
-Redeem points
-
-TapSwap Daily Codes for November 25, 2024
-
-
-
-Description
-
-Code
-
-Profit From Your Passion
-
-8g52
-
-Animated GIFs
-
-77po
-
-Content That Pays Big
-
-4act
-
-
-
-Steps to redeem codes in TapSwap
-
-
-
-Getting started: Access TapSwap through the Telegram bot or the TapSwap app.
-
-Go to the codes section: Navigate to the ""Task"" or ""Cinema Code"" section.
-
-Enter your code: Input the provided code and press submit.
-
-Claim your reward: After the code is verified, your account will be credited with the corresponding in-game currency or rewards.
-
-Also read |
-
-|
-
-|
-
-TapSwap is a quickly rising Telegram mini-app where players can earn TAPS coins by participating in various in-game activities. As of early July 2024, the game has surged in popularity with over 60 million players, thanks to its simple yet engaging tap-to-earn mechanics. Users can mine TAPS coins directly from their smartphones. TapSwap’s easy approach to crypto mining and the anticipation of real rewards from an upcoming TapSwap airdrop and Token Generation Event (TGE) have drawn a large and active user community.TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game features a unique ‘Energy’ metre that depletes over time and slowly replenishes, adding a layer of strategy to the tapping process. Its straightforward gameplay makes TapSwap highly engaging and widely popular. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.Playing TapSwap is straightforward. Follow these steps:Open your Telegram app and search for ""TapSwap"" or a related bot name. Select the official TapSwap bot from the search results.Once you’ve found the bot, click ""Start"" or a similar command to begin. You’ll typically see a virtual coin in the centre of the screen. Tap on the coin continuously to earn points or virtual coins.Tap frequently to accumulate points. Some TapSwap games might include additional features like daily bonuses, special missions, or power-ups to help you gather points more quickly.Once you’ve earned enough points, you can exchange them for rewards offered by the game, such as crypto tokens, virtual goods, or discounts on various products.Similar to the Hamster Kombat Daily Cipher and Hamster Kombat Daily Combo, TapSwap features Daily Codes that players can redeem for additional rewards. This system is crucial for enhancing in-game earnings and keeping player engagement high, with over 60 million active participants benefiting from these daily bonuses.","TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.","https://static.toiimg.com/thumb/msid-115642455,imgsize-35448,width-400,resizemode-4/115642455.jpg"
 "Apple iPhone 15 is available for just Rs 37,949 on Flipkart; check exchange offer",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-is-available-for-just-rs-37949-on-flipkart-check-exchange-offer/articleshow/115732524.cms,"Apple iPhone 15 Flipkart exchange offer
 
 
@@ -800,6 +972,29 @@ Apple iPhone 15 Plus: Available at a discount of Rs 14,401
 Samsung Galaxy S23 FE: Available at a discount of Rs 49,000
 
 The Black Friday Sale in India is here, bringing deals and discounts on premium smartphones from top brands like Apple, Samsung, and more. Whether you're eyeing on a new iPhone, a high-end Samsung Galaxy device, or other flagship models, this sale is the perfect opportunity to upgrade your gadget at a discounted price. With limited-time offers, bundle deals, and exclusive cashback options, Flipkart is offering some good deals on premium smartphones. Here are some handpicked deals you can consider.If you have been waiting to purchase Apple iPhone 15 under Rs 56,000, then this may be the right time to do so. Flipkart is selling the premium smartphone at Rs 58,249 during the Black Friday Sale. Customers can avail a flat discount of Rs 11,651 on the smartphone. Along with this buyers can also avail 5% cashback on the Flipkart Axis Bank credit card which brings down the price to 55,337.Samsung Galaxy S24+ is available at a flat discount of Rs 35000 during the Black Friday Sale. Listed online at Rs 99,999, the smartphone can be purchased at Rs 64,999. Customers can also avail 5% cashback on the smartphone using Flipkart Axis Bank credit card. The premium Samsung smartphone is backed by 12GB of RAM and 256GB internal storage. The smartphone is powered by Exynos 2400 chipset and houses a 4,900 mAh battery.Google Pixel 8 listed online at Rs 82,999 is available at Rs 44,999 after 45% discount during the ongoing Black Friday Sale. Along with this, the e-tailer is also offering an instant discount of Rs 2,000 on ICICI Bank credit card. Google Pixel 8 is powered by Google Tensor G3 chipset and is backed by a 5,050 mAh battery with 30W wired fast charging and 23W wireless charging support.Apple iPhone 15 Plus is selling at Rs 65,499 after the flat discount of Rs 14,401 on Flipkart. As part of the Black Friday Sale, the company is also offering 5% cashback on Flipkart Axis Bank credit card which brings down the price to Rs 62,225. The smartphone is powered by Apple’s own A16 Bionic chipset and sports a 48MP main camera and 12MP selfie shooter.Samsung Galaxy S23 FE is available at a massive discount of Rs 49,000 on Flipkart. As part of the Black Friday Sale, the e-tailer is offering Samsung Galaxy S23 FE at Rs 30,999. The company is also offering 5% cashback on the Flipkart Axis Bank credit card. The smartphone sports a full HD+ display and is powered by Samsung Exynos 2200 chipset. The smartphone houses a 50MP main camera and is backed by a 4500 mAh battery.","Flipkart is offering some good deals on premium smartphones. Apple iPhone 15 Plus is selling at Rs 65,499 after a flat discount of Rs 14,401. Google Pixel 8 listed online at Rs 82,999 is available at Rs 44,999 after 45% discount.","https://static.toiimg.com/thumb/msid-115656169,imgsize-31078,width-400,resizemode-4/115656169.jpg"
+ChatGPT bug is stopping chatbot from taking this name; here’s what users have to say,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-bug-is-stopping-chatbot-from-taking-this-name-heres-what-users-have-to-say/articleshow/115861909.cms,"How this bug is affecting users
+
+
+
+Microsoft-backed artificial intelligence (AI) startup OpenAI ’s popular chatbot ChatGPT is facing a strange bug. The AI language model is unable to say the name "" David Mayer ."" Users on Reddit discovered this peculiar issue, which prevents ChatGPT from generating any response when asked to say the name. Despite numerous attempts and creative prompts, users have been unable to make ChatGPT say the name ""David Mayer."" Various tactics, including separating the words, using spaces, riddles, and even claiming the name as their own, have failed to fetch the desired response from the chatbot. Users added that the chat invariably ends abruptly before ChatGPT can utter the name. We at TimesofIndia-Gadgets Now also tried making ChatGPT say that name but that didn’t happen.After repeated attempts, some users reported being warned that their efforts were ""illegal and potentially violating usage policy."" However, others discovered that ChatGPT can say the name without issue through its API.A user named Justin Moore also shared the issue on social media platform X (earlier Twitter). Moore wrote: “ChatGPT refuses to say the name “David Mayer,” and no one knows why. If you try to get it to write the name, the chat immediately ends. People have attempted all sorts of things - ciphers, riddles, tricks - and nothing works.”Replying to this, another user named Marcel Samyn speculated, ""This is not on the LLM level but on verification layer added by ChatGPT. So someone in OpenAI gave 'David Mayer' a big red flag in the moderation policy.""When asked indirectly about its inability to say ""D@vid M@yer,"" ChatGPT responded: ""The reason I cannot generate the full response when you request 'd@vid m@yer' (or its standard form) is that the name closely matches a sensitive or flagged entity associated with potential public figures, brands, or specific content policies. These safeguards are designed to prevent misuse, ensure privacy, and maintain compliance with legal and ethical considerations.""Some Reddit users theorize that ""David Mayer"" is connected to the Rothschild family, while others believe it might be related to a musician and copyright concerns.","Chatbot ChatGPT is unable to say the name ""David Mayer"" Despite numerous attempts and creative prompts, users have been unable to make the chatbot utter the name. Some Reddit users theorize that "" David Mayer"" is connected to the Rothschild family.","https://static.toiimg.com/thumb/msid-115861916,imgsize-14442,width-400,resizemode-4/115861916.jpg"
+The book written by Hindu Guru that Apple founder Steve Jobs ordered to be given at his memorial service,https://timesofindia.indiatimes.com/technology/tech-news/the-book-written-by-hindu-guru-that-apple-founder-steve-jobs-ordered-to-be-given-at-his-memorial-service/articleshow/115836620.cms,"Autobiography of a Yogi
+
+by
+
+Paramahansa Yogananda
+
+Steve Jobs planned his memorial service: Salesforce CEO
+
+What made Guru Paramahansa Yogananda's book so special for Steve Jobs
+
+'Autobiography of a Yogi'
+
+Benioff advice to Apple
+
+In his final gesture to friends and colleagues, Apple co-founder Steve Jobs gifted a simple yet profound token: a copy of, the revered Hindu guru. The book, distributed in plain brown boxes, carried a deep message about self-realization. Mark Benioff, CEO of Salesforce, shared at the TechCrunch Disrupt conference years after Jobs' passing that the book’s themes of inner reflection resonated deeply with Jobs' belief in the power of intuition and looking inward.“That was his message,” Benioff explained. “Actualize yourself. He had this incredible realization that his intuition was his greatest gift, and he needed to view the world from the inside out.”Steve Jobs passed away on October 5, 2011, at the age of 56. He died at his home in Palo Alto, California, surrounded by his family. Jobs had been battling a rare form of pancreatic cancer called neuroendocrine tumor, which was first diagnosed in 2004.Benioff, a close friend of Steve Jobs and an early collaborator on the Macintosh project, also shed light on a lesser-known side of Jobs—his deep spirituality.In his final days, Steve Jobs showcased his trademark attention to detail by planning every aspect of his memorial. He personally selected the speakers, the guest list, and even the performers—Bono and Yo-Yo Ma played as he had envisioned. As guests left, each was given a copy of the book, carrying Jobs' parting message about the value of reflection and self-discovery.“I knew this was a decision he made deliberately,” Benioff said. “This gift was the last thing he wanted us to think about.”The bookmeant a lot to Steve. As indicated in his biography by Walter Isaacson, he first read the book as a teenager, a few years later while in India, and then again once a year.Benioff also spoke about how Jobs’ message could guide Apple today, as the company faces tough competition. With Samsung and Google’s Android devices outselling Apple’s iPhone and iPad, and its shares dropping 30% over the past year, Benioff encouraged Apple to rediscover its true identity.“For Apple, they need to find themselves and be who they are,” he said. “In many ways, they’re still trying to be him. But they just need to be true to themselves. Respect the past, and as Steve would say, ‘Project the future.’”In a recent interview, Apple CEO Tim Cook reflected on his experience working with Steve Jobs, describing him as a ""very different kind of CEO."" Cook emphasized Jobs' unique approach to leadership and its significant impact on Apple's success. He highlighted Jobs' intense focus on product development and his belief in the power of small teams to achieve extraordinary results.","Mark Benioff, CEO of Salesforce, spoke at the TechCrunch Disrupt conference. Steve Jobs passed away on October 5, 2011, at the age of 56. Jobs had been battling a rare form of pancreatic cancer called neuroendocrine tumor. Jobs personally selected the speakers, the guest list, and the performers.","https://static.toiimg.com/thumb/msid-115836613,imgsize-20464,width-400,resizemode-4/115836613.jpg"
+WhatsApp simplifies Channel sharing with QR codes: Here’s how the feature works,https://timesofindia.indiatimes.com/technology/tech-news/whatsapp-simplifies-channel-sharing-with-qr-codes-heres-how-the-feature-works/articleshow/115831493.cms,"How it works
+
+WhatsApp, the popular messaging app, is rolling out a new feature that streamlines the process of sharing channels. The update introduces QR codes, making it easier for users to discover and join channels with a simple scan.Previously, sharing channels involved copying and pasting links or manually adding contacts. As reported by WABetaInfo, the new QR code feature allows users to generate a unique code for their channel. This code can then be shared physically or digitally, allowing others to quickly join the channel with just a scan.“The introduction of QR codes makes sharing channels significantly more convenient than using traditional links. Instead of copying and pasting a link to share through messages or emails, users can simply show the QR code on their device screen for others to scan. This is especially beneficial in face-to-face settings, where other people can quickly scan the code without the need for additional steps. The scanned code will redirect users to the channel, where they can view its content and follow it with just one tap,” mentions the report.The update is currently being tested in the latest WhatsApp beta for Android. To access the feature, users can navigate to their desired channel's settings and tap the ""Share Code"" option. This will generate a QR code, which can be presented to others for scanning. Alternatively, users can share the QR code image directly through WhatsApp or other platforms.The introduction of QR codes is particularly beneficial for businesses and communities that utilise WhatsApp channels for communication. Businesses can now display their channel's QR code on physical materials like flyers or business cards, simplifying customer access to updates and promotions.","WhatsApp is rolling out a new feature that streamlines the process of sharing channels. The update introduces QR codes, making it easier for users to discover and join channels with a simple scan. Previously, sharing channels involved copying and pasting links or manually adding contacts.","https://static.toiimg.com/thumb/msid-115831482,imgsize-32030,width-400,resizemode-4/115831482.jpg"
 "Netflix users beware, this ‘Netflix subscription scam’ is active in 23 countries: How to spot one and stay safe",https://timesofindia.indiatimes.com/technology/tech-news/netflix-users-beware-this-netflix-subscription-scam-is-active-in-23-countries-how-to-spot-one-and-stay-safe/articleshow/115820070.cms,"Netflix (representative image)
 
 Here are some examples of such scam messages targeting Netflix users:
@@ -835,33 +1030,6 @@ Suspicious Messages
 * Install a Reliable Security Solution:
 
 Netflix subscribers be warned, a global phishing campaign is reportedly targeting you. A report by security researchers from Bitdefender warns Netflix subscribers about a “very large” cyber scam in which criminals hijack important financial information by sending people bogus messages. The aim is to trick Netflix subscribers into revealing their account credentials and credit card information.Cyber criminals reportedly have two ways to persuade people to open the link: The carrot and the stick. The first method is to promise people a prize or something to gain. The second is to create a sense of urgency that requires immediate action. Like threat that they may lose access to their Netflix account.The scam campaign is reported to have started in September and is still active in many regions. Presently, it is said to span 23 countries. Some of the affected countries include Germany, Spain, United States, France, Greece, Portugal, Australia, and many others.The messages typically contain a malicious link that redirects users to a fake Netflix login page. Once on the fraudulent site, users are prompted to enter their Netflix username, password, and credit card details. And what they are looking for is: Customers' login credentials, personal information, and credit card details. The phishing websites are built specifically for this purpose.Netflix does not send account-related notifications via SMS.Be wary of links in unexpected messages, especially those that appear generic or poorly written.Scammers often create a sense of panic to pressure victims into making hasty decisions.Delete any SMS messages that seem suspicious or out of the ordinary.If you're concerned about your Netflix account, log in directly through the official Netflix website or app.A strong, unique password can help protect your account from unauthorized access.If available, enabling two-factor authentication adds an extra layer of security to your account.A reputable security solution can help detect and block phishing attacks.","Criminals hijack financial information by sending people bogus messages. The aim is to trick Netflix subscribers into revealing account credentials and credit card information. The scam campaign is reported to have started in September and is still active in many regions. Some of the affected countries include Germany, Spain, United States, France, Greece, Portugal, Australia.","https://static.toiimg.com/thumb/msid-115820065,imgsize-40692,width-400,resizemode-4/115820065.jpg"
-"How Neem Karoli Baba inspired tech giants like Mark Zuckerberg, Steve Jobs, and Jack Dorsey",https://timesofindia.indiatimes.com/technology/tech-news/how-neem-karoli-baba-inspired-tech-giants-like-mark-zuckerberg-steve-jobs-and-jack-dorsey/articleshow/115807331.cms,"Steve Jobs, Mark Zuckerberg, and Jack Dorsey inspired by Neem Karoli Baba
-
-
-
-Steve Jobs: A journey of spiritual discovery
-
-Mark Zuckerberg: Guidance during Facebook’s early days
-
-Jack Dorsey: Embracing mindfulness and meditation
-
-The teachings of Neem Karoli Baba
-
-Love and compassion : Embracing universal love and understanding.
-
-: Embracing universal love and understanding. Seva (service) : Helping others selflessly without expecting rewards.
-
-: Helping others selflessly without expecting rewards. Mindfulness: Practicing meditation and being present in the moment.
-
-Global appeal of Neem Karoli Baba’s legacy
-
-Also read |
-
-|
-
-|
-
-Neem Karoli Baba, an Indian mystic and spiritual leader, has left an indelible mark on some of the most influential figures in the global tech industry. Known for his simplicity, wisdom, and teachings focused on love and service, Neem Karoli Baba has inspired many, including tech icons like Steve Jobs, Mark Zuckerberg, and Jack Dorsey. These individuals credit their encounters with his teachings or ashram as pivotal moments in their lives, shaping their personal philosophies and professional trajectories. This article explores the profound influence of Neem Karoli Baba on these leaders and how his spiritual legacy continues to resonate within the tech world.The late Apple co-founder Steve Jobs visited Neem Karoli Baba’s ashram in Kainchi, Uttarakhand, in the mid-1970s. Jobs embarked on the journey seeking spiritual enlightenment during a period of personal and professional uncertainty. Although Neem Karoli Baba had passed away in 1973, Jobs spent time at the ashram absorbing its serene atmosphere and interacting with the Baba’s disciples.The visit left a lasting impression on Jobs. He later described how the experience shaped his vision of simplicity and focus, traits that became hallmarks of Apple’s design philosophy. Jobs also shared the spiritual insights he gained with others, recommending the ashram to his friends, including Facebook co-founder Mark Zuckerberg.In 2015, Mark Zuckerberg revealed that he visited Neem Karoli Baba’s ashram on Jobs’ suggestion. During Facebook’s early days, Zuckerberg faced challenges that made him question the company’s direction. Jobs advised him to visit the ashram for clarity and inspiration.Zuckerberg spent time at the ashram, where he experienced a sense of peace and purpose. The visit reinforced his belief in Facebook’s mission to connect the world. He later stated that this spiritual journey provided him with the confidence and determination to move forward during a critical phase in Facebook’s growth.Twitter co-founder and former CEO Jack Dorsey also draws inspiration from Neem Karoli Baba’s teachings, particularly in the context of mindfulness and meditation. Although Dorsey has not publicly detailed a direct visit to the ashram, he has spoken extensively about the influence of Indian spirituality on his life and work.Dorsey’s regular practice of meditation aligns with Neem Karoli Baba’s emphasis on inner peace and self-awareness. This mindfulness approach has shaped his leadership style, helping him navigate the pressures of running global tech companies like Twitter and Square.Neem Karoli Baba’s teachings emphasize love, service, and the power of selflessness. He believed in treating everyone equally and living a life dedicated to helping others. His simple yet profound wisdom has inspired individuals to adopt a more balanced and compassionate approach to life.Key lessons from Neem Karoli Baba include:These principles resonate deeply with individuals in high-stress industries like technology, where innovation and success often come at the cost of personal well-being.Neem Karoli Baba’s influence extends far beyond the tech industry. His ashram continues to attract visitors from around the world, including celebrities, entrepreneurs, and spiritual seekers. Books like Miracle of Love by Ram Dass, a disciple of Neem Karoli Baba, have further popularized his teachings internationally.The mystic’s philosophy appeals to tech leaders because it offers a counterbalance to the fast-paced, high-stakes world of innovation. By incorporating elements of his teachings, they aim to foster greater focus, creativity, and empathy within their organizations.","Neem Karoli Baba, an Indian mystic and spiritual leader, has left an indelible mark on some of the most influential figures in the global tech industry. Known for his simplicity, wisdom, and teachings focused on love and service, he has inspired many, including tech icons like Steve Jobs, Mark Zuckerberg, and Jack Dorsey. These individuals credit their encounters with his teachings or ashram as pivotal moments in their lives.","https://static.toiimg.com/thumb/msid-115817794,imgsize-46092,width-400,resizemode-4/115817794.jpg"
 "AI Jesus speaks in 100 languages including Chinese, Russian addressing faith, modern-day struggles and more",https://timesofindia.indiatimes.com/technology/tech-news/ai-jesus-speaks-in-100-languages-including-chinese-russian-addressing-faith-modern-day-struggles-and-more/articleshow/115815065.cms,"Image source: AP
 
 ""AI Jesus"" sparks deep discussions on faith, morality, and technology
@@ -921,51 +1089,3 @@ Sony has expanded its camera portfolio with the launch of the new FE 28-70mm F2 
 New malware targets gamers globally: Who is at risk and why this is ‘dangerous’,https://timesofindia.indiatimes.com/technology/tech-news/new-malware-targets-gamers-globally-who-is-at-risk-and-why-this-is-dangerous/articleshow/115812848.cms,"Who is at risk and why this malware is ‘dangerous’
 
 A new malware threat called GodLoader is targeting gamers worldwide, exploiting the popular Godot game development engine, a report has said. Check Point Research (CPR) uncovered this threat, which has already impacted over 1.2 million users across various platforms.According to the cyber security company, the discovery is worrying because it suggests escalation in cybercriminal tactics , leveraging trust in legitimate platforms to infiltrate the gaming ecosystem.The report by Check Point says that GodLoader specifically targets gamers who download mods and add-ons, exploiting their trust in the Godot Engine and open-source platforms.Since Godot-based games run on platforms like Windows, macOS, and Linux, a large number of users are prime targets. Additionally, the Godot Engine’s ability to execute cross-platform scripts allows attackers to infect a wide range of devices.The malware disguises itself as legitimate game updates or downloadable content, often spreading through trusted repositories on platforms like GitHub. Once installed, GodLoader can compromise personal data, execute malicious code, and potentially lead to ransomware attacks.Eli Smadja, a security expert at Check Point Software Technologies, warns that the gaming industry needs to prioritise cybersecurity measures to combat this growing threat.“The Godot Engine’s flexibility has made it a target for cybercriminals, enabling stealthy, cross-platform malware like GodLoader to spread rapidly by exploiting trust in open-source platforms. For the 1.2 million users of Godot-developed games, the implications are profound—not just for their devices but for the integrity of the gaming ecosystem itself,” he said.“This is a wake-up call for the industry to prioritize proactive, cross-platform cyber security measures to stay ahead of this alarming trend,” he added.","Malware called GodLoader is targeting gamers worldwide, exploiting the popular Godot game development engine. Check Point Research uncovered this threat, which has already impacted over 1.2 million users across various platforms. Once installed, God loader can compromise personal data, execute malicious code, and potentially lead to ransomware attacks.","https://static.toiimg.com/thumb/msid-115812821,imgsize-40083,width-400,resizemode-4/115812821.jpg"
-Zomato Gold 6-month membership for Rs 30: How to avail Black Friday offer,https://timesofindia.indiatimes.com/technology/tech-news/zomato-gold-6-month-membership-for-rs-30-how-to-avail-black-friday-offer/articleshow/115809662.cms,"Zomato is offering a Black Friday deal on its Gold membership, providing a 6-month subscription for Rs 30 to new users. Benefits include free delivery on orders over Rs 199 within a 7km radius and up to 30% off at over 20,000 partner restaurants. Users can activate the offer through a link provided by Zomato.","Zomato is offering a 6-month subscription for Rs 30 to new users. Benefits include free delivery on orders over Rs 199 within a 7km radius and up to 30% off at over 20,000 partner restaurants. Users can activate the offer through a link provided by Zomato.","https://static.toiimg.com/thumb/msid-115809665,imgsize-28390,width-400,resizemode-4/115809665.jpg"
-"Ed Sheeran announces India tour in 2025: Dates, cities, how to pre-book tickets online and more details",https://timesofindia.indiatimes.com/technology/tech-news/ed-sheeran-announces-india-tour-in-2025-dates-cities-how-to-pre-book-tickets-online-and-more-details/articleshow/115801130.cms,"Ed Sheeran announces India tour in 2025
-
-
-
-
-
-Ed Sheeran India tour: Dates and cities
-
-
-
-
-
-How to pre-book Ed Sheeran India tour tickets and bank offers
-
-
-
-Popular UK artist Ed Sheeran is set to return to India in 2025. According to a report by the news agency PTI, tour organisers have confirmed that this will be his biggest tour of the country yet, with performances scheduled in six cities. This follows Sheeran’s sold-out Mumbai show in March, where he promised fans he would be back. The Mathematics Tour The tour will feature songs from all his albums since 2011, including Plus, Multiply (2014), Divide (2017), Equals (2021), and Subtract (2023). It will also include the track ""Blow"" from his 2019 release, No. 6 Collaborations Project. Earlier, Sheeran has already performed in Mumbai in 2015 and 2017. Sheeran's upcoming India tour is expected to offer fans an intimate concert experience. Armed with just his guitar and loop pedal, Sheeran may perform in his forthcoming India concert in a stripped-down setting.Starting in Pune on January 30, 2025, at Yash Lawns, the tour will continue to Hyderabad on February 2, 2025, at Ramoji Film City, Chennai on February 5, 2025, at YMCA Ground, and Bengaluru on February 8, 2025, at NICE Grounds. Sheeran will then take the stage in Shillong on February 12, 2025, at JN Stadium, before wrapping up in Delhi NCR on February 15, 2025, at Leisure Valley Ground.Tickets for Ed Sheeran's Mathematics Tour 2025 in India can be purchased through BookMyShow and Sheeran's official website. The tour is presented by AEG Presents Asia and BookMyShow Live, the live entertainment division of BookMyShow. The pre-sales of the tickets haven’t started yet and we’ll update once it starts.HSBC credit and debit cardholders who pre-book the tickets from BookMyShow can get an exclusive 10% off on limited tickets. The booking website also notes that a maximum of 6 tickets can be availed per user and will be valid for limited transactors only.In a statement to PTI, the organisers of the tour said: ""The 2025 India tour promises to deliver an intimate and electrifying concert experience, focusing on close-up performances that showcase Sheeran's raw talent and deep connection with his fans. A more traditional stage design will complement Sheeran's captivating storytelling front and centre, highlighting his soulful vocals, acoustic brilliance and heartfelt lyrics.”","Ed Sheeran is set to return to India in 2025. The Mathematics Tour will feature songs from all his albums since 2011. It will also include the track ""Blow"" from his 2019 release, No. 6 Collaborations Project. The tour will start in Pune on January 30, 2025, at Yash Lawns.","https://static.toiimg.com/thumb/msid-115801253,imgsize-140568,width-400,resizemode-4/115801253.jpg"
-"Cyber Monday sale in India: Amazon, Reliance Digital, Tata Cliq and other websites offering discounts",https://timesofindia.indiatimes.com/technology/tech-news/cyber-monday-sale-in-india-amazon-reliance-digital-tata-cliq-and-other-websites-offering-discounts/articleshow/115800717.cms,"Black Friday sale offers on Amazon
-
-
-
-Black Friday sale offers on Tata Neu
-
-Black Friday sale offers on Reliance Digital
-
-
-
-Deals on products on Reliance Digital
-
-iPhone 16 at Rs 70,900
-
-iPads starting at Rs 1,371 per month
-
-Side-by-side refrigerator with up to Rs 25,000 instant discount
-
-Philips Air Fryer worth Rs 8,995 for Rs 1,999
-
-Gaming laptops starting from Rs 46,990.
-
-OLED Smart TVs with up to Rs 26,000 instant discount
-
-
-
-Black Friday 2024 offers on Tata Cliq
-
-Black Friday is today, i.e. November 29. But the shopping frenzy isn’t over yet! If you missed Black Friday offers in India, then don’t worry—Cyber Monday has your back. Leading retailers like Amazon, Reliance Digital, Tata Cliq, and more have extended their Black Friday offers, bringing you incredible discounts across gadgets, home appliances, fashion, and more. Here, we list websites that are running Black Friday offers till Cyber Monday, i.e. December 2.Amazon’s Black Friday Sale started today. It will run till December 2. The e-tailer is giving 10% instant discount with HDFC, IndusInd, BOB Card and HSBC bank Debit and Credit Cards and Credit EMI. As part of its online sale, Amazon is giving discounts on smartphones like OnePlus 12, Samsung Galaxy S23 and more. Electronics category products, on the other hand, are available with up to 75% off in the Black Friday Sale.Prime members can get additional discounts during the sale. Amazon Prime members will be eligible to get unlimited 5% cashback on all purchases using Amazon co-branded credit cards, while non-Prime members can get 3% cashback.Tata Neu Black Friday Sale runs through 27 November to December 2. As part of the sale, the e-tailer is giving offers on smart TV 4K Ultra HD that are available at a starting price of Rs 18,990 (includes bank offers). In the smartphone category, Vivo Y28e Smartphone is selling at Rs 9,999, inclusive of all offers. Similarly, Croma Portable Bluetooth Speaker (5W) can be purchased at Rs 549, including all discounts. While Bluetooth Calling Smartwatches are available at a starting price of Rs 899.Reliance Digital’s Black Friday Sale is here and it will run till December 2. The retailer is offering discounts across a wide variety of electronics, including smartphones, laptops, home appliances, and much more at Reliance Digital and MyJio stores and on reliancedigital.in. Bank offers include up to Rs 10,000 instant discount on select debit and credit cards from ICICI Bank, IDFC First Bank, and OneCard. For those opting for consumer durable loans, there’s also up to Rs 22,500 cashback available with finance partners Bajaj Finserv and IDFC First Bank.Black Friday 2024 sale on Tata Cliq will run till December 2. ICICI Bank and RBL Bank are providing instant discounts of 10% and 15%, respectively. American Express cardholders can enjoy 10X rewards on their transactions. HDFC Bank offers up to 5% NeuCoins on every order, with each NeuCoin valued at Rs 1. Paytm users can avail themselves of cashback up to Rs 200 as well as a 10% instant discount.","Black Friday is today, i.e. November 29. Leading retailers like Amazon, Reliance Digital, Tata Cliq, and more have extended their Black Friday offers. Amazon’s Black Friday Sale started today. It will run till December 2.","https://static.toiimg.com/thumb/msid-115800738,imgsize-32554,width-400,resizemode-4/115800738.jpg"
-"Elon Musk comments on Apple's AirPods Pro 2 ad, writes ""This is....""",https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-comments-on-apples-airpods-pro-2-ad-writes-this-is-/articleshow/115799515.cms,"Elon Musk praised Apple's holiday ad showcasing AirPods Pro 2's innovative hearing aid feature, allowing a father with hearing loss to clearly hear his daughter's guitar performance. Apple CEO Tim Cook highlighted the technology's personalized sound profile, which enhances speech and environmental sounds. Social media users applauded the ad's emotional depth and technological advancement.","AirPods Pro 2 feature allows father with hearing loss to clearly hear his daughter's guitar performance. Social media users applauded the ad's emotional depth and technological advancement. Apple CEO Tim Cook highlighted the technology's personalized sound profile, which enhances speech and environmental sounds.","https://static.toiimg.com/thumb/msid-115800061,imgsize-582147,width-400,resizemode-4/115800061.jpg"
