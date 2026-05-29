@@ -1,362 +1,60 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-India’s first hydrogen train gets green signal from Railway Board,https://timesofindia.indiatimes.com/india/indias-first-hydrogen-train-gets-green-signal-from-railway-board/articleshow/131343955.cms,"Ministry of Railway
+The app that turns a hummed tune into sheet music is finding an unlikely home in India,https://timesofindia.indiatimes.com/india/the-app-that-turns-a-hummed-tune-into-sheet-music-is-finding-an-unlikely-home-in-india/articleshow/131382837.cms,"A California startup built to lower the barrier to
 
-Safety clearances and compliance still underway
+music education
 
-Diesel locomotive to haul trai
+is resonating in ways its founders did not fully anticipate.
 
-n for maintenance
 
 
 
 
+I recently sat down with Andrew Carlins, an MBA classmate of mine, who told me about the company he is building, Songscription. Songscription describes itself as an AI lab for music learning. Its flagship product allows users to upload an audio recording and convert it into sheet music, MIDI, tabs, and piano roll. Users can also tailor the output (e.g., sheet music) to their level of play. You upload a file. You get notation back. That is the whole product, and it turns out that that is enough.Carlins grew up with a stutter and realized that when he sang, his stutter disappeared. “Music is quite literally how I found my voice,” Carlins explains. He built Songscription because he believed that a world with more access to music learning and live performance is a better world, as he had personally experienced the unique ability music has to empower individuals and unify people from different backgrounds.Songscription’s users tell the story even better than Carlins or the product description does. A music teacher in Brazil is using Songscription with elementary students as a teaching supplement.A violin teacher in the United States used it to produce notation for a student who learns better from the page than by ear. A visually impaired pianist used it to get his own compositions written down for the first time. One feedback message a user wrote to the Songscription team said simply: ""I never thought this would be notated. Thanks for fulfilling a dream."" None of these people needed a machine to create music for them. They needed one that could help them find their way to learn and perform music live.The India story is worth telling in some detail. Sushma is a Carnatic music teacher whose students, like a lot of students in India right now, listen to as much film music as they do classical. They come to her lessons with requests for Tamil and Hindi film songs, melodies they already know by heart and want to be able to read on the page. The problem is that Carnatic music and western staff notation are two distinct systems, and Sushma, trained in one, had no particular grounding in the other.She found Songscription, uploaded a film song her students had been asking about, and got readable sheet music back. She wrote to the Songscription team afterward, not as a formal review but as a note. She mentioned the output was clean, that the process had been easier than she expected, and that the messages on the website while her file was processing had made her laugh. She closed with regards to the whole team. It was a small note, but it is the kind of feedback that tells you something about whether a product is landing and having the impact it was built to have.What Sushma's experience points to is a gap in how music technology has been built. India has a large and serious music education culture, a tradition of both classical training and mass popular music, and a growing number of learners who move between those worlds. Most transcription tools were designed with western music pedagogy as the default. A Carnatic teacher navigating film music notation is not a use case those tools were built for. Songscription, which gives users access to western notation regardless of their musical background or tradition, turns out to fit that gap reasonably well. Carlins says the company eventually wants to support non-western notation systems as well, though that work has not shipped yet.It is worth being clear about what Songscription is not, because the AI music conversation right now is mostly about generation. Products that compose new music, write lyrics, or produce tracks from a text prompt are getting most of the attention. Songscription does none of that. It takes music that already exists and makes it readable and accessible. That distinction matters for how you evaluate its effects on musicians. Songscription is not trying to do the creative work for anyone; it is trying to remove the technical barrier between a musician who has an idea and a page that can hold it.The accessibility theme runs through the user base consistently enough that it seems like more than a coincidence. The visually impaired pianist who could not use conventional notation software. The Carnatic teacher whose training did not include western staff notation. The elementary school students in Brazil whose teacher needed a faster way to produce arrangements. Each of these is a person who, for a specific and legitimate reason, could not get what they needed from the tools that already existed. Songscription is not solving every version of that problem, but it is solving enough versions of it that the pattern is noticeable.The product currently works best with single-instrument recordings, with piano as its strongest use case and other instruments available in beta. Full band transcription is not yet supported. Songscription is publicly available, with a free tier, at songscription.ai","Songscription lets users upload audio recording and convert it into sheet music, MIDI, tabs, and piano roll. Users can tailor the output (e.g., sheet music) to their level of play. Songscription is not trying to do the creative work for anyone; it is trying to remove the technical barrier.","https://static.toiimg.com/thumb/msid-131382867,imgsize-1952614,width-400,height-225,resizemode-4/-.jpg"
+"Eid 2026: 10 Gemini AI prompts for Eid-ul-Adha celebrations to share on Instagram, Facebook, and WhatsApp",https://timesofindia.indiatimes.com/technology/social/eid-2026-10-gemini-ai-prompts-for-eid-ul-adha-celebrations-to-share-on-instagram-facebook-and-whatsapp/articleshow/131365168.cms,"Eid Mubarak: Gemini AI prompts for Eid-ul-Adha wishes 2026
 
-The Railway Ministry, on Tuesday, approved the operation of India’s first hydrogen-powered 10-coach DEMU train between Jind and Sonipat under the Northern Railway zone.The train will run at a maximum speed of 75 kmph and use hydrogen fuel cells to generate power instead of diesel or conventional electric traction, PTI reports.With a total power output of 1,200 kilowatts, the train will operate on Distributed Power Rolling Stock (DPRS) technology, where power is distributed across the coaches instead of being concentrated in a single locomotive.The ministry’s approval came after technical sanction from the Research Designs and Standards Organisation and safety testing by the Commissioner of Railway Safety (CCRS).As cited by PTI, the sanction letter, sent to the General Manager of Northern Railway, directed compliance with all safety, maintenance and operational conditions laid down by RDSO, CCRS and other statutory authorities, including the Petroleum and Explosives Safety Organisation (PESO).The letter also further noted, “Various sensors (leak detectors, flame detectors, etc) provided on ground hydrogen production, storage and dispensing facilities are prone to failure due to dust accumulation.Necessary schedule for regular clearing shall be ensured for failsafe operation.”Officials clarified that the approval does not mean immediate commencement of operations, as several compliance and verification stages are still pending.According to officials, the hydrogen train will operate only on the Jind-Sonipat section, while maintenance facilities have been set up at Shakurbasti in Delhi.For maintenance movement, the hydrogen system will be switched off and the train will be hauled in a “dead condition” using a diesel locomotive.The ministry has also mandated special training and competency certification for staff handling hydrogen refuelling and onboard operations.","Railway Ministry approves operation of India's first hydrogen-powered 10-coach DEMU train between Jind and Sonipat. Train will run at a maximum speed of 75 kmph and use hydrogen fuel cells to generate power. Officials clarified that the approval does not mean immediate commencement of operations, as several compliance and verification stages are still pending.","https://static.toiimg.com/thumb/msid-131344024,imgsize-27340,width-400,height-225,resizemode-4/ministry-of-railway.jpg"
-"Railway Group D Result 2026 guide: Check the cut-off, PET process, date and steps to download result",https://timesofindia.indiatimes.com/technology/railway-group-d-result-2026-guide-check-date-cut-off-pet-process-and-how-to-download-result/articleshow/131257839.cms,"Important dates
 
-Forms release date : 31 January 2026
 
-: 31 January 2026 Form submission last date: 09 March 2026
+“Create a premium Bakrid / Eid Ul Adha social media poster featuring a glowing golden crescent moon, elegant Islamic lanterns, soft moonlight, intricate Arabic geometric patterns, and a peaceful mosque silhouette in the background. Add realistic hanging lights, rich emerald green and gold tones, cinematic lighting, ultra-detailed textures, festive Islamic atmosphere, modern typography space for ‘Eid Mubarak’ message,highly realistic, 4K quality.”
 
-09 March 2026 Last Date for fees submission : 11 March 2026
+AI Generated
 
-: 11 March 2026 Form correction date : 12 to 21 March 2026
+“Design a heartwarming Eid Ul Adha poster showing a joyful Muslim family in traditional attire exchanging greetings after prayers. Include children holding lanterns, warm sunset lighting, mosque courtyard background, festive decorations, realistic emotions, elegant Islamic calligraphy, soft golden glow, vibrant festive mood, suitable for Facebook and WhatsApp sharing, ultra-realistic digital art, high-detail composition.”
 
-: 12 to 21 March 2026 Exam date : 27 November 2025 to 16 January 2026
+“Generate a modern minimalist Eid Ul Adha poster with a clean white background, gold crescent moon, subtle Islamic patterns, luxurious typography, floating lanterns, elegant shadows, premium invitation-style design, sophisticated spacing for custom text, aesthetic social media template, stylish and modern Islamic branding, ultra-HD.”
 
-: 27 November 2025 to 16 January 2026 Date of the examination : 27 November 2025 to 16 January 2026
+“Create a majestic Eid Ul Adha festival artwork inspired by royal Middle Eastern architecture. Show grand palace arches, glowing chandeliers, moonlit sky, decorative lanterns, luxurious carpets, rich gold and navy blue color palette, cinematic atmosphere, realistic textures, elegant Arabic-inspired typography area, dramatic lighting, highly detailed fantasy realism.”
 
-: 27 November 2025 to 16 January 2026 Revised examdate : 08, 09 January 2026 and 02, 03, 04, 05, 06, 09 & 10 February 2026
+“Generate a realistic Eid Ul Adha morning prayer scene with hundreds of worshippers gathered outside a beautiful mosque during sunrise. Include soft golden sunlight, peaceful atmosphere, detailed Islamic architecture, flowing traditional clothing, emotional spiritual mood, cinematic realism, atmospheric depth, elegant Eid Mubarak text space, social media poster style.”
 
-: 08, 09 January 2026 and 02, 03, 04, 05, 06, 09 & 10 February 2026 Exam city details : 19 November 2025
+“Design a fresh Eid Ul Adha poster with green landscapes, floral Islamic patterns, soft clouds, crescent moon, glowing lanterns hanging from trees, peaceful evening environment, eco-friendly festive aesthetic, natural lighting, realistic textures, modern Islamic design, suitable for social media greetings and digital invitations.”
 
-: 19 November 2025 Admit card release : 24 November 2025
+“Create a breathtaking Eid night image featuring a magnificent illuminated mosque under a star-filled sky, giant glowing crescent moon, floating lanterns, reflective marble courtyard, warm golden lighting, ultra-realistic architecture, luxurious Islamic atmosphere, elegant Eid greeting space, cinematic 3D render style, high-detail 4K.”
 
-: 24 November 2025 Answer key release : 17 February 2026 Available Now
+“Create a festive Bakrid celebration poster showing a beautifully decorated dining table with traditional Eid dishes, dates, sweets, lanterns, candles, floral decorations, warm family gathering ambiance, luxurious Islamic decor, realistic food photography style, cozy cinematic lighting, elegant greeting text area.”
 
-: 17 February 2026 Available Now Result announcement: May 2026
+“Create a serene Eid Ul Adha artwork with a quiet desert landscape, glowing crescent moon, camel silhouettes, distant mosque under moonlight, magical blue night tones, soft lantern lighting, atmospheric cinematic realism, elegant Islamic vibe, dreamy festive mood, high-resolution digital painting.”
 
-Online application fees
+“Design a vertical luxury Eid Ul Adha WhatsApp status poster in horizontal format featuring sparkling golden lanterns, glowing moon, black marble background, elegant floral Islamic motifs, stylish Arabic typography, premium gold accents, cinematic lighting, ultra-modern festive aesthetics, realistic textures, high-detail mobile-friendly composition.”
 
-General / OBC / EWS: Rs.500/-
+How to generate Eid 2026 images using Gemini AI
 
-SC /ST / Female: Rs.250/-
 
-PH Candidates: Rs.250/-
 
-Fee refund after appearing the Stage I examination
+Step 1: Open Gemini
 
-Payment modes: Debit/Credit Card UPI Internet Banking
+Step 2: Paste the prompt
 
-How the Railway Group D examination is conducted
+Step 3: Generate the image
 
-Next steps after the Railway Recruitment Board Group D result?
+Step 4: Edit the image if needed
 
-Physical Efficiency Test (PET): Qualifying in nature. Separate for males & females as there are different physical requirements for both sexes.
+Step 5: Download and share
 
-Qualifying in nature. Separate for males & females as there are different physical requirements for both sexes. Document Verification (DV): Here you are required to carry your educational certificates in originals, identity proof, category certificates etc.
 
-Here you are required to carry your educational certificates in originals, identity proof, category certificates etc. Medical Examination: This will be performed to see if the candidate is medically fit as per the requirements of Indian Railways.
 
-Railway RRB Group D Level 1 Recruitment 2025- Zone Wise CBT Result & Cut Off RRB Zone Name
 
 
-
-Check Result
-
-
-
-Check Cutoff
-
-
-
-RRB Chennai
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Mumbai
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Ranchi
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Patna
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Muzaffarpur
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Ahmedabad
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Allahabad
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Gorakhpur
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Bhopal
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Ajmer
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Chandigarh
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Guhawati
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Bilaspur
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Jammu-Srinagar
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Kolkata
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Siliguri
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Malda
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Bhubneshwar
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Thrivanthapuram
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Secunderabad
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-RRB Bangalore
-
-
-
-Update Soon
-
-
-
-Update Soon
-
-
-
-
-
-How to download the Railway Recruitment Board Group D result?
-
-The candidates need to visit the official website of the recruitment board of their particular region. After this, the candidates need to go to the “Results/Latest Notification” part of the homepage. Then, in the results/latest notification page, the candidates need to look for the “RRB Group D Result 2026 / CEN 08/2024” link. On clicking the result link, the candidates will be able to get their merit list in PDF format. The candidates should save this PDF file in their system. The search option, which is activated by pressing Ctrl + F can be used to find out your roll/registration number. The candidates should then make a copy of the results and mention their registration number or roll number along with further steps regarding the exam like PET, document verification, and so forth.
-
-FAQs
-
-1. Will it be released in PDF form RRB Group D result?
-
-2. Do I need a login ID to check RRB Group D results?
-
-3. Will the cutoff be the same in all Railway zones?
-
-4. Will I be able to attend the PET test if I haven't found my roll number in the PDF?
-
-5. What do I have to do once the PDF is downloaded?
-
-6. If I have qualified the RRB Group D result will I be selected in final merit?
-
-7. What is the official website of Sarkari result to check the
-
-railway group d result 2026
-
-Sources -
-
-https://rrbranchi.gov.in/upload/files/pdf/12_13_58pm56fb7f704dde86a4423a1d97824dd277.pdf
-
-Disclaimer: This article has been produced on behalf of sarkari result by times internet's spotlight team.
-
-
-
-
-
-In India, competitive exams remain a crucial entry point for those looking for secure government jobs, with recruitment cycles across industries creating year-round interest and fierce rivalry. Among them, the Railway Recruitment Board's (RRB) railway recruitments are notable for their scope, regularity, and number of applicants they draw from around the country.In this context, the official Sarkari Result website is continuously providing the latest updates regarding the Railway Recruitment Board RRB Group D Result 2026, one of the most awaited announcements for candidates who appeared in the Indian Railways Level-1 recruitment examination; under this drive, Indian Railways had invited online applications for various Group D posts, including Helper, Assistant Pointsman, Track Maintainer, and other Level-1 vacancies across all Railway Recruitment Boards in India, from 23 January 2025 to 22 February 2025.The fee payment window remained open till 23-24 February 2025, and candidates were allowed to make corrections in their application forms from 25 February to 6 March 2025.The Computer Based Test (CBT) for Railway Group D Recruitment 2025–26 was conducted between 27 November 2025 and 10 February 2026. Since the completion of the examination, candidates have been eagerly waiting for the declaration of results.The Railway Group D Result 2026 is expected to be released by the end of May 2026 on the regional official websites of the Railway Recruitment Boards or Sarkari result official website sarkariresult.com.cm . The result will be published in PDF format containing the roll numbers of shortlisted candidates. Candidates whose roll numbers appear in the result PDF will become eligible for the next stages of the selection process, including the Physical Efficiency Test (PET) and Document Verification (DV).UR/OBC/EWS Fee Refund: Rs.400/-SC / ST / PH / Female Refund: Rs.250/-The official Sarkari Result 2026 website is providing complete updates regarding the Railway Recruitment Board Railway Group D Exam 2026 and its selection process. The Railway Recruitment Board conducts the Group D examination in multiple stages for recruitment to various Level-1 posts in Indian Railways including Helper, Assistant Pointsman, Track Maintainer and other vacancies.The Railway Group D Examis first conducted through a Computer Based Test (CBT) at different examination centres across India. This online examination is the most important stage of the selection process as candidates are shortlisted for further rounds based on their performance in the CBT.According to the exam pattern, the CBT consists of 100 multiple-choice questions carrying a total of 100 marks. Candidates are given 90 minutes to complete the examination, while PwBD candidates using a scribe receive 120 minutes. The exam also includes negative marking, with 1/3 mark deducted for every wrong answer.The question paper is divided into four sections including General Science, Mathematics, General Intelligence & Reasoning, and General Awareness & Current Affairs. General Science and Mathematics carry 25 questions each, General Intelligence & Reasoning contains 30 questions, while General Awareness & Current Affairs includes 20 questions.Candidates who qualify in the CBT are called for the Physical Efficiency Test (PET), which is qualifying in nature. After clearing PET, candidates have to appear for Document Verification and Medical Examination. The final selection and merit list are mainly prepared on the basis of CBT marks for candidates who successfully qualify all other stages of the recruitment process.Post declaration of RRB Group D results, those who clear the Computer Based Test are shortlisted to proceed in the selection stages. In the result only you get to know if you have passed or not.The next steps include:Finally, after all the above selection rounds, the final merit list is drawn and appointment orders are issued to the successful candidates by their concerned Regional RRB.Yes usually RRB Groups D result will be released in PDF format in their regional sites which contain the roll numbers of all candidates who have qualified for the next level.In most cases you don't need a login ID and you have to download the PDF then look out for your roll number.The RRB Groups D cutoff marks vary for each Railway Recruitment Board zone and category as the number of vacancies and the competition differs in every zone.No, you will not be able to attend the PET test if your roll number does not find its name in the official result list released by RRB.After downloading, search your roll number and go through the instructions and criteria for PET, document verification, medical examination etc.Only if you have passed the above tests including PET, document verification, medical fitness and final merit, can you be selected for the Railway groups D recruitment.Official website is sarkariresult.com.cm","Railway RRB Group D Level 1 Recruitment 2025- Zone Wise CBT Result & Cut Off RRB Zone Name. Candidates are required to carry their educational certificates in originals, identity proof, category certificates etc. Medical Examination will be performed to see if the candidate is medically fit as per the requirements of Indian Railways.","https://static.toiimg.com/thumb/msid-131257796,imgsize-1152662,width-400,height-225,resizemode-4/131257796.jpg"
+As Eid-ul-Adha celebrations are here, social media feeds are filling with glowing crescents, elegant lanterns, mosque silhouettes, and heartfelt Eid Mubarak wishes. In today’s digital world, visually stunning Eid posters and AI-generated festive templates have become one of the most creative ways to share greetings on Instagram, WhatsApp, and Facebook.From elegant gold-and-green Islamic themes to clean modern artwork and cinematic moonlit settings, AI-generated visuals are quickly becoming a popular way to create festive Eid designs. With just a well-written prompt, creators, businesses, and social media users can produce polished artwork for invitations, banners, WhatsApp stories, and Instagram posts in only a few moments. This curated collection of Bakrid and Eid al-Adha prompts is meant to help you craft vibrant, high-quality festive images that reflect the spirit of celebration, faith, sacrifice, and togetherness while matching today’s digital and social media trends.Creating AI-generated Eid-ul-Adha posters and festive wishes with Gemini is quick and beginner-friendly. Users can turn detailed prompts into realistic social media artwork in just a few steps. Check below:Go to Google Gemini on your phone or computer and sign in with your Google account and start a new chat.Copy any Eid-ul-Adha prompt and paste it into the chat. Clear and detailed prompts usually give better results.Press enter and wait for a few seconds. Gemini will create an Eid-themed image based on your prompt.You can ask Gemini to change colors, add lanterns, improve lighting, or make the image suitable for Instagram or WhatsApp.Save the image once it is ready and share it on Instagram, Facebook, WhatsApp, or use it for Eid wishes and posters.","Eid Mubarak: Gemini AI prompts for Eid-ul-Adha wishes 2026. From elegant gold Islamic themes to clean artwork and cinematic moonlit settings, AI-generated festive visuals are quickly becoming a popular way to create festive visuals.","https://static.toiimg.com/thumb/msid-131365405,width-400,height-225,resizemode-4/eid-2026-10-gemini-ai-prompts-for-eid-ul-adha-celebrations-to-share-on-instagram-facebook-and-whatsapp.jpg"
 "NYT Connections hints and answers today, May 27, 2026",https://timesofindia.indiatimes.com/technology/gaming/nyt-connections-hints-and-answers-today-may-27-2026/articleshow/131346297.cms,"NYT Connections hints and answers today, May 27, 2026
 
 What is NYT’s ‘Connections’ game
@@ -392,109 +90,44 @@ Other NYT games to explore
 
 
 The New York Times continues to expand the popularity of its daily puzzle collection with NYT Connections, a word-association game that challenges players to uncover hidden relationships between seemingly unrelated terms. The May 27 puzzle (#1081) offers another clever mix of geography, classic games, sound-alike wordplay and literary references. Today’s categories range from small communities and traditional board games to homophones connected to sight, while the Purple category draws inspiration from one of the most famous families in classic fiction. This guide includes spoiler-free hints, the complete answers and a quick explanation of how the game works.Connections is a daily word puzzle from The New York Times that asks players to organise related words into groups. The game features four colour-coded difficulty levels: Yellow, Green, Blue and Purple, with Yellow usually being the most straightforward and Purple often involving more abstract themes or wordplay.Players are presented with 16 words and must sort them into four groups of four connected terms. The connections may involve categories, phrases, cultural references, meanings or pronunciation-based clues.Here are the correct groupings for today’s puzzle:The puzzle presents 16 words arranged in a grid, and your goal is to organise them into four groups of four words that share a hidden connection. A new Connections puzzle is released daily through The New York Times Games and the NYT mobile app.Players should carefully examine all 16 words and begin by identifying the most obvious relationships. Rearranging the board can help reveal hidden patterns and reduce confusion between overlapping categories. Once you think you have found a valid category, select the four connected words and submit them as a group. Correct answers are locked into place automatically.Because players only have a limited number of incorrect attempts before the puzzle ends, strategic guessing and process-of-elimination techniques become especially important for solving the more difficult Blue and Purple categories.If you enjoy Connections, The New York Times also offers several other popular daily puzzle games:Wordle: Guess a five-letter word in six attemptsSpelling Bee: Create as many words as possible using a set of lettersThe Mini Crossword: A short daily crossword challengeStrands: A word-search-inspired puzzle built around hidden themes","Connections is a daily word puzzle from The New York Times that asks players to organise related words into groups. The game features four colour-coded difficulty levels: Yellow, Green, Blue and Purple. Today’s categories range from small communities and traditional board games to homophones connected to sight.","https://static.toiimg.com/thumb/msid-131346348,imgsize-9960,width-400,height-225,resizemode-4/nyt-connections-hints-and-answers-today-may-27-2026.jpg"
-"How LLMs are changing 'Chinese Firewall' in a country where Facebook, WhatsApp and other social media platforms are banned",https://timesofindia.indiatimes.com/technology/tech-news/how-llms-are-changing-chinese-firewall-in-a-country-where-facebook-whatsapp-and-other-social-media-platforms-are-banned/articleshow/131359109.cms,"Representative image
-
-“Great Firewall”.
-
-How AI and LLMs are reshaping China’s surveillance systems
-
-
-
-“a woman wearing a red hat”
-
-“The police no longer have to manually review footage. They can feed the system a text prompt, and it finds the footage,”
-
-“China’s old surveillance system is reactive. It is not good at divining and understanding the intentions of people not under explicit surveillance,”
-
-“The philosophy behind China’s surveillance system is becoming more comprehensive,”
-
-“AI PCs”
-
-“It saves a lot of time,”
-
-
-
-
-
-China is upgrading its nationwide surveillance infrastructure with artificial intelligence (AI) and large language model (LLM)-powered systems. This will allow Chinese authorities to automate monitoring, analyse behaviour patterns and identify potential risks in real time. The changes mark a shift from older reactive surveillance systems toward AI-assisted predictive policing across parts of the country.According to an analysis of procurement documents and interviews reviewed by the Financial Times, local governments in China are deploying new surveillance technologies capable of interpreting video feeds, identifying unusual behaviour, and retrieving footage via text prompts rather than manual searches.The developments come in a country where platforms such as Meta-owned Facebook and WhatsApp, along with several foreign social media services, remain restricted under China’s internet controls, which is often referred to as theChinese technology companies, including Huawei and Hikvision, have introduced surveillance products integrated with computer vision and large language models over the past two years. These systems reportedly allow operators to search footage using written prompts such asand automatically retrieve relevant videos.a Hikvision executive told the Financial Times. Unlike earlier surveillance systems that required manual image matching, newer AI-powered tools can process natural-language requests and analyse footage directly on devices, powered by upgraded semiconductors.Authorities are also deploying systems trained to detect behaviours including crowd gatherings, erratic driving, unauthorised entry and individuals lingering near bridges for long periods.said Minxin Pei, an expert in Chinese governance and surveillance systems at Claremont McKenna College.The surveillance upgrade follows a broader push by Chinese authorities toward predictive policing after incidents of random street violence in recent years.The report claims that China’s public security minister Wang Xiaohong issued a directive in 2024 encouraging police departments to integrate more advanced AI tools into surveillance networks.One procurement document cited in the report showed authorities in Yaodu town, Sichuan province, allocating over $132,000 for 175 AI-enabled high-definition cameras capable of analysing abnormal behaviour and triggering alerts. Another police tender in Datong reportedly included AI cameras trained to identify features such as posture, clothing and gender.Human rights organisations have raised concerns about the increasing use of generative AI and computer vision in state monitoring systems.said Maya Wang, an analyst at Human Rights Watch.China already operates an extensive surveillance network that authorities have previously used in regions such as Xinjiang, where monitoring systems have been linked to the surveillance of Uyghur minorities.Analysts cited in the report estimated Chinese authorities spent over $44 billion on the original generation of surveillance infrastructure during the mid-2010s.Current upgrades appear focused on integrating AI functions into existing camera networks rather than replacing entire systems. Budgets across the reviewed tenders reportedly ranged from $150,000 to $1.5 million per district.Industry executives told FT that some local governments are avoiding full camera replacements because AI-enabled systems can cost significantly more than older hardware.Instead, authorities are reportedly replacing intermediary servers withthat process video locally, reducing reliance on cloud computing infrastructure and enabling faster analysis.Experts said processing data closer to the point of capture allows authorities to receive alerts more quickly while reducing operational delays.A Hikvision salesperson told FT that authorities in cities such as Hangzhou, where some of the upgraded systems have already been deployed, saw immediate operational changes.the salesperson added.","China is upgrading its surveillance infrastructure with artificial intelligence (AI) and large language model (LLM)-powered systems. This will allow Chinese authorities to automate monitoring, analyse behaviour patterns and identify potential risks in real time. The changes mark a shift from older reactive surveillance systems toward AI-assisted predictive policing across parts of the country.","https://static.toiimg.com/thumb/msid-131359108,imgsize-31466,width-400,height-225,resizemode-4/how-llms-are-changing-39chinese-firewall39-in-a-country-where-facebook-whatsapp-and-other-social-media-platforms-are-banned.jpg"
-"Google, CrowdStrike take down ‘Glassworm’ Botnet hacking attack targeting software developers",https://timesofindia.indiatimes.com/technology/tech-news/google-crowdstrike-take-down-glassworm-botnet-hacking-attack-targeting-software-developers/articleshow/131358864.cms,"AI image for representational purpose
-
-How Glassworm caught software developers offguard
-
-
-
-Solana blockchain:
-
-C2 server addresses are encoded in the memo fields of blockchain transactions, creating an immutable, publicly accessible dead-drop that cannot be taken offline through conventional means.
-
-BitTorrent Distributed Hash Table (DHT):
-
-The GlasswormRAT queries the BitTorrent peer-to-peer network for configuration data stored against hardcoded public keys, leveraging a global decentralized network with no single point of failure.
-
-Public calendar service:
-
-Glassworm uses Google Calendar event titles as dead-drop locations for Base64-encoded C2 paths.
-
-Direct server connections:
-
-Traditional C2 infrastructure hosted on commercial VPS providers served as the final payload delivery mechanism.
-
-
-
-
-
-In what can be called a major victory for software supply-chain security, a group of global tech giants and cybersecurity researchers has successfully disrupted “Glassworm,” a resilient botnet that had been targeting software developers for months. According to a blog by CrowdStrike, a coordinated operation conducted by security teams from CrowdStrike, Google and The Shadowserver Foundation cut off the botnet operators’ access to their command-and-control (C2) network.The operation required a simultaneous strike across four distinct digital channels that the hackers had cleverly designed to resist conventional takedown efforts, the blog said.The Glassworm botnet has specifically targeted software developers since October 2025 to steal cryptocurrency wallets and sensitive developer credentials. The hackers used multiple waves of attacks to infiltrate the software supply chain. These include, planting infected Microsoft VS Code and OpenVSX extensions.The hackers have even hid dozens of dormant extensions on OpenVSX that would only turn malicious after a software update was installed. The attacks later expanded to GitHub repositories with one massive campaign in March alone is claimed to have compromised more than 400 software artifacts.The Glassworm threat managed to survive for so long because its operators built a highly resilient infrastructure. Instead of relying on a standard central server, which authorities can easily shut down, the botnet hid its communication channels across blockchain technology, peer-to-peer networks, and legitimate web services.To completely dismantle the botnet, researchers had to hit all four of its communication channels at the exact same time:According to CrowdStrike, knocking out just one or two of these channels would have done nothing, as the malware would have automatically shifted to another live channel to keep running.","CrowdStrike, Google and The Shadowserver Foundation disrupted the Glassworm botnet. The botnet had been targeting software developers for months. The operation required a simultaneous strike across four distinct digital channels. The Glassworm threat managed to survive for so long because its operators built a highly resilient infrastructure.","https://static.toiimg.com/thumb/msid-131358863,imgsize-86843,width-400,height-225,resizemode-4/hacking.jpg"
+Sundar Pichai on Google's answer to Anthropic and OpenAI's AI coding agents: I think coding ends up being very ...,https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-on-googles-answer-to-anthropic-and-openais-ai-coding-agents-i-think-coding-ends-up-being-very-/articleshow/131372483.cms,Sundar Pichai on Google's answer to Anthropic and OpenAI's AI coding agents: I think coding ends up being very ...,"Sundar Pichai on Google's answer to Anthropic and OpenAI's AI coding agents: ""I think coding ends up being very... very complex"" Google is working with Anthropic, OpenAI to develop an AI coding agent for the search giant.","https://static.toiimg.com/thumb/msid-131372472,imgsize-17670,width-400,height-225,resizemode-4/google-ceo-sundar-pichai.jpg"
 "World’s richest man Elon Musk says prices are critical for an economy, without them …",https://timesofindia.indiatimes.com/technology/tech-news/worlds-richest-man-elon-musk-says-prices-are-critical-for-an-economy-without-them-/articleshow/131363022.cms,"World’s richest man Elon Musk says prices are critical for an economy, without them …","World’s richest man Elon Musk says prices are critical for an economy. Without them, he says, the U.S. won’t grow as fast as it does. Musk: “Without them, without them …. without them, we’re not going to be able to grow.”","https://static.toiimg.com/thumb/msid-131363020,imgsize-13516,width-400,height-225,resizemode-4/elon-musk.jpg"
-Hack of the day: Let family make UPI payments with limits,https://timesofindia.indiatimes.com/technology/hack-of-day/hack-of-the-day-let-family-make-upi-payments-with-limits/articleshow/131363092.cms,"'The Times of India' brings you 'Hack of the Day'—a new weekday series of quick, practical solutions to everyday hassles. Each hack is designed to save you time, money or stress, using tools and features within your reach—from government websites to everyday apps. In simple terms, it's simple fixes for smarter living.'
-
-How to use UPI Circle
+Hack of the day: Set a digital legacy plan for your Google account,https://timesofindia.indiatimes.com/technology/hack-of-day/hack-of-the-day-set-a-digital-legacy-plan-for-your-google-account/articleshow/131382368.cms,"Steps to setup digital legacy plan for Google account
 
 
 
-Open a UPI app that supports UPI Circle. Select the UPI Circle or delegated payments option. Add a trusted family member or secondary user. Set the monthly limit and approval mode (auto or manual). Review payments regularly and remove access when not needed.
+Visit Google Account settings
 
-Careful
+Open Inactive Account Manager
+
+Choose inactivity period
+
+Add trusted contacts
+
+Select data to share
+
+Review and confirm settings
+
+Note
 
 
 
 
 
+In today’s digital-first world, your Google account often holds more than just emails — it can contain family photos, business records, financial documents, and personal memories stored across Gmail, Drive, and Google Photos. But what happens if you’re inactive for a long period or something unexpected occurs? Without a plan, loved ones may struggle to access important information. Google’s Inactive Account Manager offers a solution. It allows you to set up a digital legacy plan, deciding who should be notified and what data they can access if your account goes inactive. This ensures your family or trusted contacts can retrieve essential files without compromising your privacy.Log in to your Google account and open the settings menu to access privacy and data options.Navigate to Data and Privacy and look for Inactive Account Manager or digital legacy settings.Set how long Google should wait before treating your account as inactive, from 3 months to 18 months.Select family members or trusted individuals who should be notified if your account becomes inactive.Decide which Google services (like Gmail, Drive, or Photos) your contacts can access.Check your preferences carefully and update or remove access when no longer needed.This step is especially important if your account contains family memories, business records, or financial documents. Delegating access ensures continuity while protecting sensitive information.","Set how long Google should wait before treating your account as inactive, from 3 months to 18 months. Select family members or trusted individuals who should be notified if your account becomes inactive. Decide which Google services (like Gmail, Drive, or Photos) your contacts can access. Delegating access ensures continuity while protecting sensitive information.","https://static.toiimg.com/thumb/msid-131382367,imgsize-385200,width-400,height-225,resizemode-4/hack-of-the-day-set-a-digital-legacy-plan-for-your-google-account.jpg"
+"Garena Free Fire MAX redeem codes 29 May 2026: Latest active codes revealed for free rewards, skins, and diamonds",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-29-may-2026-latest-active-codes-revealed-for-free-rewards-skins-and-diamonds/articleshow/131381678.cms,"Garena Free Fire MAX redeem codes
+
+updated:
+
+Garena Free Fire MAX redeem codes May 29 2026
 
 
-Managing household finances often means balancing convenience with security. Parents may want their children to pay for groceries, senior citizens may need help with digital payments, or students might require controlled access to funds. Traditionally, this meant either handing over full account access or constantly supervising transactions — both of which carry risks.That’s where UPI Circle comes in. This feature allows you to delegate UPI payments to trusted family members or household members while setting clear limits and controls. Instead of sharing your PIN or account credentials, you can authorize specific users to make payments under a monthly cap, with approval modes that keep you in charge. It’s a smarter way to empower your family to handle everyday expenses without compromising your financial security.By using UPI Circle, you reduce the chance of misuse while still enabling flexibility. Think of it as giving your family a prepaid card — but directly linked to your UPI account, with adjustable limits and oversight.Delegate only to someone you trust. Limits reduce risk, but they don’t replace the need to monitor transactions. Always keep an eye on activity to ensure your account remains secure.","UPI Circle allows you to delegate UPI payments to trusted family members or household members. Instead of sharing your PIN or account credentials, you can authorize specific users to make payments under a monthly cap. It’s a smarter way to empower your family to handle everyday expenses without compromising your financial security.","https://static.toiimg.com/thumb/msid-131363095,imgsize-1940681,width-400,height-225,resizemode-4/hack-of-the-day-let-family-make-upi-payments-with-limits.jpg"
-Garena Free Fire MAX redeem codes 28 May 2026: Today’s active codes revealed with quick easy steps to redeem,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-28-may-2026-todays-active-codes-revealed-with-quick-easy-steps-to-redeem/articleshow/131362310.cms,"Garena Free Fire MAX redeem codes May 28 2026
-
-
-
-FF7TRD2SQA9F
-
-FF8HG3JK5L0P
-
-FF5B6YUHBVF3
-
-FFR3GT5YJH76
-
-FFK7XC8P0N3M
-
-FF1V2CB34ERT
-
-FFB2GH3KJL56
-
-FFRSX4CYHLLQ
-
-FFSKTXVQF2NR
-
-FFDMNSW9KG2
-
-FFCBRAXQTS9S
-
-FFSGT7KNFQ2X
-
-FPSTQ7MXNPY5
 
 4N8M2XL9R1G3
 
 H8YC4TN6VKQ9
+
+FF6YH3BFD7VT
 
 B1RK7C5ZL8YT
 
@@ -506,21 +139,31 @@ UPQ7X5NMJ64V
 
 S9QK2L6VP3MR
 
+FFR4G3HM5YJN
+
 6KWMFJVMQQYG
 
-J3ZKQ57Z2P2P
+FZ5X1C7V9B2N
 
-3IBBMSL7AK8G
+FT4E9Y5U1I3O
 
-B3G7A22TWDR7X
+FP9O1I5U3Y2T
 
-PC: Official website
+FM6N1B8V3C4X
 
-Garena Free Fire MAX redeem codes with easy steps to redeem
+FA3S7D5F1G9H
 
+FK3J9H5G1F7D
 
+FU1I5O3P7A9S
 
-Garena Free Fire MAX codes with quick easy steps
+F7F9A3B2K6G8
+
+FE2R8T6Y4U1I
+
+PC: Official Website
+
+How to redeem Garena Free Fire MAX codes with quick easy steps
 
 
 
@@ -536,13 +179,33 @@ After successfully redeeming the code, launch the game and check your in-game ma
 
 Collect your rewards, which may include diamonds, character outfits, weapon skins, loot crates, and other exclusive in-game items.
 
+FAQs: Garena Free Fire MAX redeem codes (29 May 2026)
+
+
+
+1. What are Garena Free Fire MAX redeem codes?
+
+2. How can I redeem
+
+Free Fire MAX codes
+
+?
+
+3. Can redeem codes be used in the in-game app?
+
+4. Why are my Free Fire MAX codes not working?
+
+5. What rewards can I get from redeem codes?
+
+6. How often are new redeem codes released?
+
 Disclaimer: The codes listed above are based on information available on the internet. The Times of India has not independently verified these codes and is not responsible for their validity or activation.
 
 
 
 
 
-Garena Free Fire MAX is an enhanced version of the globally popular Free Fire battle royale title, offering upgraded visuals, smoother gameplay performance, and a more immersive survival combat experience. In this multiplayer format, 50 players are dropped onto a remote island, where they must battle each other until only one player or team remains victorious.The redeem codes listed below are gathered from various online sources and are typically available for a limited time only. Players are required to use the official rewards redemption website to claim them, as these codes cannot be redeemed directly within the in-game application. Since they expire quickly, it is recommended to use them as soon as possible. Once successfully redeemed, players can unlock a variety of in-game rewards such as diamonds, exclusive weapon skins, characters, emotes, and loot crates, all of which enhance gameplay and overall progression.Garena Free Fire MAX redeem codes are unique alphanumeric codes issued by the game’s developers that allow players to unlock free in-game rewards.These rewards can include diamonds, weapon skins, outfits, characters, emotes, pets, loot crates, and various other cosmetic or gameplay-related items.These codes generally contain 12 to 16 characters, combining both letters and numbers. They are usually released during special events, livestreams, collaborations, esports tournaments, and promotional campaigns. Because they are time-sensitive and sometimes region-locked, they often expire quickly or become invalid once the redemption limit is reached.","Garena Free Fire MAX redeem codes are unique alphanumeric codes issued by the game’s developers. Once successfully redeemed, players can unlock a variety of in-game rewards such as diamonds, exclusive weapon skins, characters, emotes, and loot crates. The codes listed below are gathered from various online sources and are typically available for a limited time only.","https://static.toiimg.com/thumb/msid-131362348,imgsize-67568,width-400,height-225,resizemode-4/garena-free-fire-max-redeem-codes-28-may-2026-todays-active-codes-revealed-with-quick-easy-steps-to-redeem.jpg"
+Garena Free Fire MAX is an upgraded edition of the widely popular Free Fire battle royale game, featuring improved graphics, smoother performance, and a more immersive survival combat experience. In this multiplayer format, 50 players are deployed onto a remote island, where they must compete against each other until only one player or squad remains standing.The redeem codes mentioned below are collected from various online sources and are usually available for a limited time. Players must use the official rewards redemption website to claim them, as these codes cannot be redeemed directly through the in-game app. Since they expire quickly, it is advised to use them as soon as possible. Once successfully redeemed, players can unlock a range of rewards, including diamonds, exclusive weapon skins, characters, emotes, and loot crates, all of which help enhance gameplay and overall progression.They are special alphanumeric codes released by Garena that allow players to unlock free in-game rewards like skins, diamonds, emotes, and loot crates.Players must visit the official Rewards Redemption website, log in with their account, enter the code, and confirm to claim rewards.No, these codes cannot be redeemed inside the game. They must be used only on the official redemption website.Codes may expire quickly, reach their usage limit, or be region-restricted, which can prevent successful redemption.Rewards usually include diamonds, weapon skins, character outfits, emotes, and exclusive loot crates.New codes are released during special events, updates, collaborations, or promotional campaigns and are valid for a limited time.","Garena Free Fire MAX is an upgraded edition of the widely popular Free Fire battle royale game. It features improved graphics, smoother performance, and a more immersive survival combat experience. Players must visit the official Rewards Redemption website, log in with their account, and confirm to claim rewards.","https://static.toiimg.com/thumb/msid-131381739,imgsize-33680,width-400,height-225,resizemode-4/garena-free-fire-max-redeem-codes-29-may-2026.jpg"
 "Netflix unveils ‘VOID’, an AI model that can change a movie plot",https://timesofindia.indiatimes.com/technology/tech-news/netflix-unveils-void-an-ai-model-that-can-change-a-movie-plot/articleshow/130058880.cms,"Netflix
 
 How Netflix VOID works
@@ -573,112 +236,16 @@ Q: How do I know if my career cushioning efforts are working?
 Q: How much time should I be dedicating to career cushioning?
 
 NEW DELHI: Microsoft Corp is reportedly planning to cut thousands of jobs, with some roles expected to be eliminated in the human resources and engineering divisions, according to media reports on Tuesday.This move follows similar job cuts announced by other tech companies, such as Amazon, Meta Platforms , Twitter, Google , Salesforce and a host of other corporations.These job cuts are being attributed to slowing demand and a worsening global economic outlook. The move by Microsoft indicates that the tech sector may continue to shed jobs in the coming months.As job cuts continue to rise in tech and various other industries, some employees are choosing to proactively seek out new job opportunities while still employed. This strategy, referred to as "" career cushioning "". Here is all you need to know on 'career cushioning'A: Career cushioning refers to the practice of building a diverse set of skills and experiences in order to make oneself more marketable and resilient to job loss or industry changes. This can include gaining experience in multiple areas of a field, developing a side hustle or passion project, or building a professional network.A: Career cushioning can help provide a sense of security and confidence in uncertain job markets and can also open up new opportunities for career advancement. It can also help you be better prepared if you do lose your job, making it easier to find new employment.A: There are several ways to begin career cushioning, such as:Building a diverse skill set through continuing education or volunteer workNetworking with professionals in your industry and other industriesBuilding a personal brand through social media and professional online presenceSaving money for unexpected career changes or job loss.A: Some examples of career cushioning include:-A software developer taking on freelance web design projects to gain experience in user interface design.-A marketing professional starting a blog to gain experience in content creation.-A sales representative taking on additional responsibilities in product development to gain experience in product management.A: No, career cushioning is applicable for people in any industry. It's about being proactive in preparing for potential changes in your career, regardless of the industry you're in.A: It's a good idea to review your career cushioning efforts regularly, perhaps once or twice a year. This will allow you to assess your progress and make any necessary adjustments to your plans. Additionally, keeping an eye on the job market and industry trends can help you anticipate and prepare for any potential changes in your field.A: You can gauge the effectiveness of your career cushioning efforts by monitoring your progress in gaining new skills and experiences, as well as the feedback you receive from your professional network and potential employers. Additionally, you may find that you are better able to adapt to changes in your industry, or that you have more opportunities available to you.A: The amount of time you should dedicate to career cushioning will depend on your individual goals and circumstances, however it's important to balance the time you spend career cushioning with your other responsibilities. A good rule of thumb is to spend some time each week or month working on career cushioning activities, but not to the point that it negatively impacts other areas of your life.","As job cuts continue to rise in various industries, some employees are going for 'career cushioning' Career cushioning refers to the practice of building a diverse set of skills and experiences in order to make oneself more marketable. This can include gaining experience in multiple areas of a field, developing a side hustle or passion project, or building a professional network.","https://static.toiimg.com/thumb/msid-97080546,imgsize-22694,width-400,resizemode-4/97080546.jpg"
-Inside America’s hidden cave city where hundreds of children and families live off-grid inside sandstone cliffs,https://timesofindia.indiatimes.com/world/us/inside-americas-hidden-cave-city-where-hundreds-of-children-and-families-live-off-grid-inside-sandstone-cliffs/articleshow/131350055.cms,"Life inside the giant cliff homes of Utah’s hidden cave city
+"Google engineer arrested after turning $1,000 bet on jailed singer D4vd into $1.2 million; released on $2.25 million bond",https://timesofindia.indiatimes.com/world/us/google-engineer-arrested-after-turning-1000-bet-on-jailed-singer-d4vd-into-1-2-million-released-on-2-25-million-bond/articleshow/131376524.cms,"A Google software engineer has been arrested in US after allegedly using confidential company data to place prediction bets that earned him more than $1 million.Michele Spagnuolo, an Italian citizen who worked at Google, used internal search trend information from the company to place bets on the prediction platform Polymarket involving singer D4vd, who is currently jailed in a murder case.According to a federal criminal complaint unsealed in New York on Wednesday, Spagnuolo accessed non-public “Year in Search” data through his role at Google and used the information to make profitable wagers before the results became publicly known. Spagnuolo used a Polymarket account named “AlphaRaccoon” to place bets predicting D4vd would become one of “Google’s Top 5 Most Searched People of 2025” and even the number one searched person of the year.At the time, Polymarket gave almost no chance of D4vd topping the rankings. However, Google’s internal search data had already shown that the singer had overtaken Kendrick Lamar as the most searched person of 2025. Using that insider information, Spagnuolo placed bets worth less than $1,000 and later collected around $1.2 million in winnings.Federal prosecutors also accused him of trying to hide where the money came from.They said Spagnuolo “took deliberate steps to conceal his unlawful use of nonpublic information by attempting to obscure the source and ownership of his unlawful proceeds.”Spagnuolo was arrested on Wednesday and charged with wire fraud, commodities fraud and money laundering. He appeared before a federal magistrate judge but did not enter a plea. He was later released on a $2.25 million bond.The case has also drawn attention because of D4vd’s criminal case. The singer is currently in custody after being accused of murdering 14-year-old Celeste Rivas Hernandez in April 2025. He has pleaded not guilty to the charge. It is not yet confirmed whether D4vd was involved in the betting scheme or had any connection to Spagnuolo’s actions.","Michele Spagnuolo, an Italian citizen who worked at Google, used internal search trend information from the company to place bets on the prediction platform Polymarket involving singer D4vd. The singer is currently in custody after being accused of murdering 14-year-old Celeste Rivas Hernandez.","https://static.toiimg.com/thumb/msid-131377417,imgsize-165060,width-400,height-225,resizemode-4/-.jpg"
+Streamer D4vd becomes center of alleged $1.2M insider betting scandal involving a Google engineer,https://timesofindia.indiatimes.com/world/us-streamers/streamer-d4vd-becomes-center-of-alleged-1-2m-insider-betting-scandal-involving-a-google-engineer/articleshow/131377440.cms,"Image Via X
 
-Living off-grid in the desert
+“Year in Search”
 
-The religious community behind “The Rock”
+“AlphaRaccoon.”
 
-Why the internet is fascinated by Rockland Ranch
+Google engineer accused of using secret search data in D4vd-related bets
 
-
-
-A community surrounded by controversy
-
-Life inside America’s hidden cave city
-
-
-
-
-
-Catch all LIVE updates on the US-Iran conflict here.
-
-
-
-Deep in Utah’s desert near Moab lies one of America’s strangest hidden communities. Known as Rockland Ranch, or “The Rock”, the settlement is home to dozens of families living inside cave-like homes carved into sandstone cliffs. The homes were blasted into the mountainside with dynamite during the 1970s. Over time, the isolated religious community grew into a self-sustaining settlement where hundreds of children have been raised. Solar panels, livestock and wells help support daily life. To outsiders, the ranch looks almost unreal. Part underground city and part survivalist colony, it remains hidden within Utah’s vast red-rock landscape.Unlike normal neighbourhoods, many homes at Rockland Ranch are built directly into sandstone formations. Founder Robert Dean Foster reportedly used dynamite to create large openings inside the cliffs. Residents later transformed those spaces into modern homes.From a distance, the settlement blends into the desert landscape. Front entrances and windows are built outward from the cliff face while large sections of the homes extend deep into the rock.The sandstone also acts as natural insulation. Homes stay cooler during the summer and warmer during cold desert nights.The unusual design has led many visitors to compare the community to a science-fiction film or a hidden underground city.Rockland Ranch was designed to operate largely independent of nearby towns. Residents rely on solar power, private wells, farming and livestock to support the community.Families grow crops and raise animals together. Many residents also share labour and maintenance work across the settlement. The remote location has created a strong communal lifestyle where neighbours often depend on each other rather than outside services.Despite the isolated setting, many homes still include modern conveniences such as plumbing, electricity, kitchens and internet access.Rockland Ranch is connected to Mormon fundamentalism, a movement that continued practising plural marriage after the mainstream Mormon church abandoned polygamy in the 19th century.The community was founded by Robert Dean Foster in 1977. He wanted to create a remote settlement where families could live according to their religious beliefs away from public attention. Around 35 families reportedly live there today. Roughly half are believed to practise polygamy while others are monogamous.Large families are common within the settlement. Hundreds of children have reportedly grown up there over the decades. Recent viral posts about the ranch sparked online discussions about family size, religion and alternative ways of living.Photos of Rockland Ranch often go viral because the homes appear built directly into giant canyon walls. Many people online compare the settlement to ancient cave cities, survivalist compounds or dystopian movie sets.Others are fascinated by the idea of a self-sufficient community living far from mainstream American society. The combination of desert isolation, cave homes and large families makes the ranch especially unusual to outsiders.The community has also become part of broader debates surrounding birth rates and modern family life. Some people admire the ranch’s self-reliance and communal lifestyle. Others question the isolation and religious culture surrounding Mormon fundamentalist groups.Like many fundamentalist Mormon communities, Rockland Ranch has faced criticism over issues linked to polygamy and isolated religious living.Critics often raise concerns about women’s autonomy, religious pressure and children growing up with limited exposure to the outside world. Others question the power structures that can exist inside tightly controlled communities.Supporters argue that residents willingly choose the lifestyle and value the community’s focus on family, cooperation and self-sufficiency.Rockland Ranch has generally been viewed as separate from the more controversial FLDS Church once led by Warren Jeffs, whose organisation faced major criminal investigations and abuse allegations.Despite the controversy, Rockland Ranch remains one of the most unusual communities in the United States. Its cliffside homes and isolated desert setting continue attracting photographers, filmmakers and curious travellers.The ranch has appeared in documentaries, television series and photo essays exploring remote religious communities in America. For many outsiders, the idea of families living inside sandstone cliffs sounds almost impossible. Yet for the residents of Rockland Ranch, the hidden cave city has been home for nearly 50 years.","Rockland Ranch is home to dozens of families living inside cave-like homes carved into sandstone cliffs. The homes were blasted into the mountainside with dynamite during the 1970s. Over time, the isolated religious community grew into a self-sustaining settlement.","https://static.toiimg.com/thumb/msid-131350231,imgsize-1567577,width-400,height-225,resizemode-4/inside-americas-hidden-cave-city-where-hundreds-of-children-and-families-live-off-grid-inside-sandstone-cliffs.jpg"
-The 10 largest clocks in the world,https://timesofindia.indiatimes.com/world/rest-of-world/the-10-largest-clocks-in-the-world/articleshow/131345245.cms,"Giant clocks worldwide are more than timekeepers. They are architectural wonders and cultural symbols. From Saudi Arabia's Makkah Royal Clock Tower to India's Bhestan Floral Clock, these structures blend engineering and art. Image Credits: Wikipedia
-
-1.
-
-Makkah Royal Clock Tower
-
-2.
-
-Istanbul Cevahir Mall Clock
-
-3.
-
-Bhestan Floral Clock
-
-4.
-
-Aekyung Tower Clock
-
-5.
-
-Park Heroyiv Floral Clock
-
-Park Heroyiv Floral Clock, installed in Kryvyi Rih in 2011 in memory of the twentieth anniversary of Ukrainian independence, includes a single face with dimensions of twenty-two meters in diameter. Image Credits: Wikimedia Commons
-
-6.
-
-Central do Brasil Railway Station Clock
-
-7.
-
-Baitul Khairaat Grand Mosque Clock
-
-8. Duquesne Brewery Clock
-
-9. Gohar Park Clock
-
-10. The Colgate Clock
-
-
-
-Catch all LIVE updates on the US-Iran conflict here.
-
-
-
-Clocks began as simple timekeepers, but some became landmarks through the use of sundials and now have reached the majestic stage set by the architecture of clocks. In addition to serving as mere instruments for measuring minutes, the world’s biggest clocks have become significant cultural symbols. Not only do they serve as landmark features in famous skylines, but they also represent distinct ages and local artistic heritage.These large structures involve perfect synchronisation of engineering, structure design, and artistry. These time-telling devices can be embedded in intricate mechanical mechanisms at the exterior of a modern skyscraper, combined into lush landscapes in public parks, or incorporated into busy shopping centres, where they create a spectacle out of the ephemeral element of time.As noted by WorldAtlas , the enormity of such clocks requires a whole new approach to construction processes. Structural engineers need to do constant calculations about the force exerted on the giant hands by heavy winds, gravity, and fast thermal expansion.An exploration of the biggest clocks in the world gives a very interesting glimpse of human ingenuity and creativity, and how they still influence the architecture of the world today.The gigantic Makkah Royal Clock Tower is an impressive giant of modern clock-making technology, towering above the vast area of the religious city of Mecca in Saudi Arabia. It features a very large size of forty-three meters, making it about six times larger than the historical London Elizabeth Tower. Moreover, its whole dial is fitted with thousands of specially designed LED lights in order to be visible from very far away, making it a perpetual guide for millions of pilgrims every year.Placed right at the heart of one of the most ambitious shopping developments in Europe, the Istanbul Cevahir Mall clock features a huge timekeeping face that spans thirty-six meters across. Departing from the classic design of tower clocks, this unique clock takes the entire layout horizontal, with the face of the clock placed on the ceiling frame. With numbers as tall as three meters high, the clock face is attached to the transparent panes so that shoppers can observe the clock’s rhythmic motions while soaking in the sunlight.Residing in the bustling suburb of Surat, which is situated in Gujarat, India, the Bhestan Floral Clock lays claim to being the biggest flower clock in the world. With a total diameter of twenty-four and a quarter meters, the colourful face of this magnificent clock is made using live flowers and plants. The mechanical gears and engine that control the movements of the flower clock are safely encased under a thick concrete slab.The unique and impressive timekeeper with a width of twenty-four meters installed on the exterior facade of Aekyung Tower, located in Seoul, South Korea, is considered the biggest building clock in East Asia. Built at the end of 2018 inside Hongdae, which is known for its creativity, this remarkable single-faced clock has been built intentionally to be perfectly matched with the ultra-modern buildings around.Park Heroyiv Floral Clock, installed in Kryvyi Rih in 2011 in memory of the twentieth anniversary of Ukrainian independence, includes a single face with dimensions of twenty-two meters in diameter. Being one of the two largest floral clocks in the world and the largest in Europe, the beautiful installation is decorated with thousands of flowers, which need constant care to keep their natural beauty year after year.Overlooking the famed Art Deco railway station in Rio de Janeiro, Brazil, is the famous Central do Brasil clock face, which has provided a focus for commuters since 1943. The bulky, four-faced tower clock is twenty meters wide and was constructed in order to ensure punctuality during one of the most important periods in South America's history regarding its transportation systems. It serves as a notable representation of early twentieth-century architecture.Presenting itself at the impressive Baitul Khairaat Grand Mosque in Palu, Central Sulawesi, Indonesia, in 2025, the nineteen-meter-wide clock face presents itself as one of the most modern installations in the world today. In fact, it holds the record of having the biggest clock face in Indonesia as well as the largest mosque clock that is not found within Saudi Arabia. This clock has been specially constructed to illuminate at night.The iconic Duquesne Brewery Clock of Pittsburgh, Pennsylvania, is one of America's greatest examples of the industrial past, overlooking the Monongahela River since 1933. Standing at a height of eighteen meters in diameter, the octagonal clock was originally constructed to be a bold marketing feature aimed at grabbing the attention of anyone passing on the water. Operated by a uniquely powerful motor inside, the single-faced structure remains a historic monument to Pittsburgh's manufacturing era.Revealed in 2021 in Sirjan, a city in Kerman Province, Iran, the Gohar Park Clock measures seventeen meters in diameter with its one face. Having recently claimed the title of Iran's largest clock face from the Tehran Floral Clock in 2005, the contemporary creation holds this record proudly as it sits in the heart of a popular local park. The giant hands of the structure serve as a stunning meeting point for both tourists and locals alike.This octagonal clock is located along the coast of New Jersey, overlooking the Hudson River with its view of the huge skyscrapers of Manhattan. Having a size of more than fifteen meters, this landmark has existed since 1924. It was first installed atop the building that houses the Colgate-Palmolive company offices. However, once the factory located below was demolished, the residents ensured that the face of the clock remained intact at the waterside location.","From Saudi Arabia's Makkah Royal Clock Tower to India's Bhestan Floral Clock, these structures blend engineering and art. Giant clocks worldwide are more than timekeepers. They are architectural wonders and cultural symbols. These large structures involve perfect synchronisation of engineering, structure design, and artistry.","https://static.toiimg.com/thumb/msid-131345266,imgsize-281868,width-400,height-225,resizemode-4/abraj_al_bait_tower_2017.jpg"
-5 most snake-dense bodies of water in New Mexico,https://timesofindia.indiatimes.com/world/rest-of-world/5-most-snake-dense-bodies-of-water-in-new-mexico/articleshow/131343554.cms,"Southwest's hidden water ecosystems, including Heron Lake, Elephant Butte Reservoir, Pecos River, Cochiti Lake, and Bitter Lake, are vital sanctuaries for diverse cold-blooded life. Image credits: Wikimedia Commons
-
-Heron Lake
-
-alpine hideaway
-
-The shores of
-
-Elephant Butte reservoir
-
-The remarkable ecological transition zone of the Pecos River
-
-Situated at the bottom of the Jemez Mountains in Cochiti Pueblo, Cochiti Lake boasts a highly diverse shoreline. Here, forested mesas and basalt canyons descend sharply into the waters of the river, forming a peculiar delta zone. Image Credit: Wikimedia Commons
-
-The protected backwaters of Cochiti Lake
-
-The desert sanctuary of Bitter Lake
-
-
-
-Catch all LIVE updates on the US-Iran conflict here.
-
-
-
-If one imagines the wilderness of the southwest region, pictures of hot, sandy deserts and tall cactus plants are likely conjured up in one's head. What is less well-known is that there exists a complex system of rivers, reservoirs, and conserved wetlands in the region, teeming with diverse life forms. The water ecosystems function as a much-needed sanctuary for many types of cold-blooded animals, including many aquatic and semi-aquatic snakes.According to WorldAtlas , it is known that the particular channels have served as important routes for living, migration, and reproduction. For those interested in nature and exploring the area, learning about where the animals live will be of great interest to learn about the intricate ecosystem of the Southwest.Situated in a picturesque scene surrounded by tall ponderosa pine and thick juniper forests, Heron Lake remains quietly nestled amidst the expansive Rio Grande watershed system. Constructed in the early seventies, the six-thousand-acre artificial body of water provides an intriguingly cool forested habitat for various regional fauna species. Dense forests and the presence of water provide great possibilities for denning while attracting amphibian and fish fauna.While walking the shoreline, you can see that you have entered the primary territory of the wandering garter snake. In contrast to the species that remain strictly stationary while awaiting prey, the garter snakes of this type move swiftly through the water in search of food with incredible agility. Alongside this species is another local representative, the New Mexico garter snake, that relies on the riparian flora for camouflage and quickly descends to the depths at the first sign of threat. The black-necked garter snake prefers to hunt for frogs and salamanders in the foothills and streams leading to the lake, which makes this alpine locality a true hotbed of reptile diversity.Being the largest lake in the whole state, Elephant Butte Reservoir provides a highly varied habitat that appeals greatly to reptiles. The formation of the lake was caused by the dam construction on the Rio Grande a century ago, resulting in a lake of thirty-six thousand acres with numerous coves and rocky points, as well as a highly fluctuating water level that regularly exposes new driftwood and banking formations. Due to the lake's warm southern location, the reptiles actively thrive throughout the fall.In this case, the common garter snakes adjust to seasonal changes by stalking for crayfish on spring days, after which they become completely nocturnal hunters until midsummer when temperatures rise. In proximity to this, the plains hog-nosed snake employs its characteristic upward-facing nose to excavate moisture-laden sand in search of hidden toads. The lake includes the infamous Rattlesnake Island, a barren island that is a habitat of western diamondback and Mojave rattlesnakes, the rulers of the desert vegetation. Although these famous species of venomous snakes prefer dry land, they can swim well enough to occasionally traverse open water for improved feeding grounds.The Pecos River starts in the mountain range known as the Sangre de Cristo before cascading through arid deserts. Since this large body of water cuts through such a variety of habitats, it attracts an extremely high diversity of species of snakes along its riparian zone in search of water in a dry environment.Perhaps the most prominent of the wildlife here are the plain-bellied water snakes – an endangered species rarely venturing out from the protective currents of the river. As thick-bodied constrictors that move their bodies quickly from one side to the other to cover large distances, these fast reptiles easily catch their prey – fish that swim slowly in the river currents. Further downstream, where vegetation becomes very abundant, the agile western ribbon snakes hunt crustaceans amongst aquatic plants. The highly adaptive checkered garter snakes also make their homes in connecting streams, springs, and irrigation channels.Situated at the bottom of the Jemez Mountains in Cochiti Pueblo, Cochiti Lake boasts a highly diverse shoreline. Here, forested mesas and basalt canyons descend sharply into the waters of the river, forming a peculiar delta zone. Most of the lake is rich in aquatic fauna in its northern branch, where the currents of the river slow and create wide areas of mud flats and warm shallows with plenty of small prey.These rich mudflats provide the perfect hunting margins for black-necked garter snakes, which thrive in the calm, permanent wetlands. The surrounding cottonwood woodlands also support healthy populations of common garter snakes. Visitors might even spot a massive gopher snake swimming across the surface. While gopher snakes are primarily land-dwellers, they are highly capable in the water and possess a clever defence mechanism; when cornered, they will coil up, raise their heads, and shake their tails against dry leaves to perfectly mimic a dangerous rattlesnake.Deep within the heart of the Chihuahuan Desert, the Bitter Lake National Wildlife Refuge stands as a literal magnet for wild animals. Spanning nearly twenty-five thousand acres, this critical sanctuary centres around a collection of shallow desert lakes, mysterious sinkholes, and marshy wetlands fed directly by the Pecos River. The combination of warm, shallow water and dense reeds creates a perfect nursery for amphibians and the predators that hunt them.These sanctuaries are absolutely vital for the protection of the western ribbon snake, providing what might be the last stable and reliable habitat that exists in this region, which is under strict protection. Plain-bellied water snakes have a heavy reliance on such year-round sources of water for survival through the sweltering summers of the desert climate. Instead of trying to stay away from these waters filled with snakes, they actually serve as an essential thermal sanctuary."," Southwest's hidden water ecosystems, including Heron Lake, Elephant Butte Reservoir, Pecos River, Cochiti Lake, and Bitter Lake, are vital sanctuaries for diverse cold-blooded life. For those interested in nature and exploring the area, learning about where the animals live will be of great interest.","https://static.toiimg.com/thumb/msid-131344982,imgsize-140804,width-400,height-225,resizemode-4/rain_clouds_pass_over_elephant_butte_reservoir_in_central_new_mexico_on_the_morning_of_2_march_2023.jpg"
-What is the Tower of Babel? Pope Leo XIV compares AI risk to ancient biblical warning,https://timesofindia.indiatimes.com/world/rest-of-world/what-is-the-tower-of-babel-pope-leo-xiv-compares-ai-risk-to-ancient-biblical-warning/articleshow/131331383.cms,"What is the Tower of Babel?
-
-Why Pope Leo XIV used the Babel comparison
-
-
-
-
-
-Catch all LIVE updates on the US-Iran conflict here.
-
-
-
-Pope Leo XIV has invoked one of the Bible’s most famous stories, the Tower of Babel, while warning about the rapid rise of artificial intelligence. In recent remarks about AI ethics and global technological power, the pontiff compared the modern AI race to the ancient biblical tale of humanity attempting to build a tower reaching the heavens. The comparison was intended as a warning against unchecked ambition, concentration of power and the pursuit of technological progress without moral responsibility. By referencing Babel, Pope Leo XIV highlighted concerns that artificial intelligence could deepen confusion, inequality and social division if developed without ethical limits and human oversight.The Tower of Babel is a story from the Book of Genesis in the Bible. According to the narrative, humanity once shared a single language and began building a city and a tower in the land of Shinar, often associated with ancient Mesopotamia. The builders said they wanted to make a name for themselves and construct a tower “with its top in the heavens.”In the story, God confuses the people’s language so they can no longer understand one another, and the construction stops. The people are then scattered across the Earth, and the place is called Babel, which the biblical text associates with the confusion of human language.The story has traditionally been interpreted as a warning about human pride, ambition and the limits of human power.Pope Leo XIV used the Tower of Babel as a symbolic warning about the direction of modern technology, particularly artificial intelligence. His comments focused on the fear that AI could become a tool of excessive control and centralised power if governments and technology companies pursue innovation without ethical safeguards.The Pope suggested that, much like the builders of Babel, modern society risks believing it can overcome all limits through technological advancement alone. He warned that AI systems designed without accountability could weaken truth, increase misinformation and reduce human individuality by treating people as data rather than human beings.The comparison also reflected concerns about global dependence on a small number of powerful AI developers. According to the Pope’s broader message, technology should serve humanity rather than dominate it.Over centuries, the Tower of Babel has become a lasting symbol of failed human ambition, communication breakdown and the dangers of pursuing power without wisdom. Pope Leo XIV’s AI warning shows how the ancient story continues to be used to interpret modern global challenges.","Pope Leo XIV has invoked one of the Bible’s most famous stories, the Tower of Babel, while warning about the rapid rise of artificial intelligence. In recent remarks about AI ethics and global technological power, the pontiff compared the modern AI race to the ancient biblical tale. The comparison was intended as a warning against unchecked ambition, concentration of power and the pursuit of technological progress without moral responsibility.","https://static.toiimg.com/thumb/msid-131331510,imgsize-1606600,width-400,height-225,resizemode-4/what-is-the-tower-of-babel-pope-leo-xiv-compares-ai-risk-to-ancient-biblical-warning.jpg"
+A shocking new case involving streamer and singer D4vd has caught attention online after a Google employee was arrested for allegedly using secret company data to make money from online bets. Federal prosecutors say the employee used private Google search information to place bets on prediction website Polymarket. The bets were connected to D4vd becoming one of the most searched people on Google in 2025. Authorities claim the man made around $1.2 million from the bets after risking less than $1,000.The employee was identified as Michele Spagnuolo, an Italian citizen who worked as a software engineer at Google. According to court documents, Spagnuolo allegedly had access to Google’s internaldata before it became public. Prosecutors say he saw that D4vd had passed rapper Kendrick Lamar as the most searched person on Google in 2025. Soon after, he allegedly placed several bets using a Polymarket account calledOfficials say the betting market had given almost no chance for D4vd to become the number one searched person on Google that year. Because of this, the bets had huge payout odds. Prosecutors believe Spagnuolo used private information from his job to unfairly win the bets before anyone else knew the search results. Authorities also claim he later tried to hide where the money came from.Spagnuolo was arrested in New York and charged with money laundering, wire fraud, and commodities fraud.He appeared before a federal judge but did not enter a plea during the hearing. Reports say he was later released on a $2.25 million bond while the case continues.D4vd himself was not accused of taking part in the betting scheme. However, his name became a major part of the investigation because the bets focused on his popularity in Google searches. The streamer and singer is currently in jail after being accused of murdering 14-year-old Celeste Rivas Hernandez in April 2025. D4vd has pleaded not guilty to the charge.The case has quickly become one of the most talked-about stories online because it combines tech companies, online betting, and internet fame in a single investigation. More updates are expected as the legal case moves forward.","Google engineer accused of using secret search data in D4vd-related bets. Authorities claim the man made around $1.2 million from the bets after risking less than $1,000. Michele Spagnuolo allegedly had access to Google’s internaldata before it became public.","https://static.toiimg.com/thumb/msid-131377431,imgsize-474224,width-400,height-225,resizemode-4/streamer-d4vd-becomes-center-of-alleged-12m-insider-betting-scandal-involving-a-google-engineer.jpg"
 Meet Mudlarks: The treasure hunters uncovering centuries-old secrets from the River Thames,https://timesofindia.indiatimes.com/world/uk/meet-mudlarks-the-treasure-hunters-uncovering-centuries-old-secrets-from-the-river-thames/articleshow/131306291.cms,"The Mudlarks searching for history still buried under London
 
 The obsession with the lost Doves Type
@@ -702,35 +269,21 @@ Why mudlarking continues to fascinate people
 
 
 Just after midnight, while much of London sleeps, figures carrying headlamps and small shovels quietly descend the slippery banks of the River Thames. Kneeling in thick mud beneath bridges and beside ancient embankments, they sift through silt searching for fragments of forgotten history. Some discover Roman coins. Others uncover medieval jewellery, Victorian toys or centuries-old bones. These modern treasure hunters are known as mudlarks, and for many of them, the Thames is not simply a river but a vast archaeological archive hiding thousands of years of London’s past beneath its tides.What makes mudlarking especially fascinating is that the river never fully stops revealing history. Every tide reshapes the shoreline. Every storm or shift in the mud can expose objects that may have remained hidden for centuries. Along the Thames foreshore, ordinary people can still stumble upon pieces of Roman Britain, medieval London or the Victorian era with their own hands.Mudlarking has existed along the Thames for centuries, although its meaning has changed dramatically over time.In the 18th and 19th centuries, mudlarks were usually among London’s poorest residents.Men, women and children searched the riverbanks for coal, rope, scrap metal or anything else they could sell to survive. Victorian writers often described them as desperate figures wandering through dangerous mud in filthy conditions.Today, mudlarking has evolved into a tightly regulated hobby practised by licensed history enthusiasts, archaeologists and collectors. Modern mudlarks must obtain permits from the Port of London Authority, which manages access to the river foreshore.For many enthusiasts, however, the appeal remains deeply personal. The excitement lies in touching objects last handled by someone hundreds or even thousands of years ago. Unlike traditional archaeology, mudlarking places ordinary people directly in contact with fragments of the past. A single object pulled from the mud can suddenly reconnect modern London with lives long forgotten.Among the best-known mudlarks is Jason Sandy, an architect and property developer who has spent years combing the Thames foreshore near Hammersmith Bridge. Sandy has uncovered Roman hairpins, medieval coins and countless historical artefacts during more than a decade of mudlarking. But one story became an obsession: the search for the lost Doves Type.The Doves Type was created in 1900 by T. J. Cobden-Sanderson and Sir Emery Walker, founders of the famous Doves Press. The elegant typeface became celebrated as one of the finest examples of typography from Britain’s Arts and Crafts movement.But after a bitter feud between the two men, Cobden-Sanderson secretly dumped the metal type into the Thames during hundreds of late-night journeys between 1916 and 1917 rather than allow Walker to inherit it.Historians estimate that more than a tonne of metal type, possibly around 500,000 individual pieces, was thrown into the river.The story has since become almost legendary among designers, historians and mudlarks because the destruction of the Doves Type represented more than the end of a business partnership. It was also the deliberate disappearance of one of Britain’s most admired typefaces.“It is kind of on everyone’s bucket list,” Sandy told the BBC. “Every mudlark wants to find some, and I’m just one of the lucky few that has found so many.”For years, Sandy searched beneath Hammersmith Bridge hoping to uncover pieces of the lost typography.At one point, he believed he had found hundreds of pieces, only for graphic designer Robert Green to later inform him that none of them were genuine Doves Type.“I had been searching on the wrong side of the bridge for five years,” Sandy admitted.But he kept returning.Then, during unusually low tides last September, Sandy discovered a rare exposed patch of riverbed after a massive accumulation of wet wipes known locally as “Wet Wipe Island” had recently been cleared away.Within less than an hour, he recovered 12 genuine pieces of Doves Type from the mud.“I look like a gold miner panning for gold,” Sandy said, “but I’m actually panning for the lost Doves typeface.”For many mudlarks, such discoveries represent the ultimate prize, sometimes referred to as “mudlarking gold”.Yet the attraction is not only financial or historical. The thrill comes from the possibility that an object lying unnoticed in the mud may carry a direct connection to a dramatic human story.Mudlarking is not always peaceful.While searching beneath Hammersmith Bridge late one night, Sandy was suddenly approached by multiple police officers after someone reported suspicious activity near the bridge.“I thought I was alone,” he recalled. “Then I heard sirens coming towards the bridge.”After showing officers his mudlarking permit and explaining the story behind the Doves Type, Sandy said the police laughed and eventually escorted him safely off the foreshore.But some of his encounters have been far more unsettling.Sandy told the BBC that he has occasionally discovered human remains while mudlarking and has had to contact police.“I’ve had to phone them because of dead bodies that we find in the river, and also even bones,” he said.In another strange incident, he reportedly discovered the freshly shed skin of a 6ft boa constrictor near the water’s edge, possibly from an abandoned exotic pet.The unpredictable nature of mudlarking is part of what keeps many enthusiasts returning. Every visit to the foreshore carries the possibility of discovery, surprise or even danger.The Thames is uniquely suited for mudlarking because of its tidal nature.Twice each day, the river rises and falls dramatically, exposing layers of mud that have preserved objects for centuries. Storms, erosion and changing tides constantly reveal new artefacts hidden beneath the surface.Archaeologists often describe the Thames foreshore as one of Britain’s most important archaeological sites because it contains traces of nearly every era of London’s history, from Roman Britain to the Industrial Revolution.Mudlarks have discovered Roman pottery, medieval pilgrim badges, Tudor shoes, clay smoking pipes, coins, weapons, jewellery and even prehistoric bones over the years.Some finds eventually end up in museums including the London Museum and the Victoria and Albert Museum.At the same time, mudlarking also raises difficult questions about preservation and ownership. Responsible mudlarks are expected to report historically important discoveries, and many work closely with museums and archaeologists to help preserve London’s history rather than simply collect objects privately.For Jason Sandy, mudlarking is not simply about collecting objects.Recently, he donated dozens of recovered Doves Type pieces to Emery Walker’s House, now managed by the Emery Walker Trust.The museum preserves the home connected to both Walker and Cobden-Sanderson, keeping much of its original Arts and Crafts interior intact.Sandy said he hopes eventually to help reconstruct a complete alphabet from the recovered type pieces.“I just love the story and feel honoured that I’m able to make a humble contribution,” he said. “And give them back the lost type that was in the river for over 100 years.”That sense of stewardship is increasingly common within the mudlarking community. Many enthusiasts see themselves not simply as collectors but as temporary custodians of objects that belong to London’s broader cultural memory.Part of mudlarking’s appeal lies in uncertainty. Every tide has the potential to reveal something unseen for centuries.For many mudlarks, the river becomes something almost alive, constantly giving up pieces of memory while hiding countless others beneath the shifting tides. The Thames does not preserve only objects. It preserves stories, conflicts, trade, loss and fragments of ordinary lives that would otherwise disappear from history entirely.And somewhere beneath the dark waters of the Thames, thousands more pieces of the lost Doves Type may still remain buried, waiting for another mudlark to find them.","Mudlarking has existed along the Thames for centuries, although its meaning has changed dramatically over time. In the 18th and 19th centuries, mudlarks were usually among London’s poorest residents. The excitement lies in touching objects last handled by someone hundreds or even thousands of years ago.","https://static.toiimg.com/thumb/msid-131306475,imgsize-1419889,width-400,height-225,resizemode-4/meet-mudlarks-the-treasure-hunters-uncovering-centuries-old-secrets-from-the-river-thames.jpg"
-"7 classic American road trips for coastlines, canyons and nostalgia",https://timesofindia.indiatimes.com/world/us/7-classic-road-trips-to-take-in-the-united-states/articleshow/131343556.cms,"Embark on an unforgettable American adventure with seven incredible road trips. From the nostalgic charm of Route 66 to the dramatic coastal beauty of California State Route 1, these journeys offer mental renewal and a profound sense of freedom. Image credits: Wikimedia Commons
+Inside America’s hidden cave city where hundreds of children and families live off-grid inside sandstone cliffs,https://timesofindia.indiatimes.com/world/us/inside-americas-hidden-cave-city-where-hundreds-of-children-and-families-live-off-grid-inside-sandstone-cliffs/articleshow/131350055.cms,"Life inside the giant cliff homes of Utah’s hidden cave city
 
-The nostalgic feeling of
+Living off-grid in the desert
 
-Route 66
+The religious community behind “The Rock”
 
-Dramatic beauty along
+Why the internet is fascinated by Rockland Ranch
 
-California State Route 1
 
-Sun, Sand, and Songs on
 
-Florida State Road A1A
+A community surrounded by controversy
 
-Renamed after the famous singer-songwriter Jimmy Buffett, the Florida State Road A1A stretches out 338 miles along the coast of the Atlantic Ocean. This road is perfect for the sun and sand enthusiasts among us. Image Credit: Wikimedia Commons
+Life inside America’s hidden cave city
 
-Mountain grandeur on the Blue Ridge Parkway
 
-Journey along the
-
-Great River Road
-
-to trace history
-
-The dramatic canyons of the
-
-Utah Mighty 5
-
-Historic routes along the Natchez Trace Parkway
 
 
 
@@ -738,7 +291,7 @@ Catch all LIVE updates on the US-Iran conflict here.
 
 
 
-It’s very human to have suitcases packed, a full tank of fuel, and miles of paved roads before you head into eternity. Through time, the urge for exploration has caused people to leave their homes and venture off onto the road. Travel is not simply getting from point A to point B; rather, it allows people to mentally renew themselves, creating a profound sensation of freedom.A long drive can feel like a reset. Being surrounded by a diversity of landscapes and paths through history is a natural way to reset the mind after cognitive overload. By breaking free from the monotony, you become aware of each new mile you travel. If you want to get out of your comfort zone, rejuvenate yourself, and see beautiful views, here are 7 incredible road trips to experience across America, according to WorldAtlas Starting in Chicago and ending up in Santa Monica, the legendary Route 66 is the epitome of any travel experience across America. Travelling across 2,400+ miles, you will be experiencing the history of the middle of the 20th century right in front of your eyes by travelling through nostalgic motels, unusual tourist sites, and cosy small towns.In between, tourists may visit the burial site of Abraham Lincoln at Springfield, Illinois, before immersing themselves in the lore of the Wild West at the National Cowboy and Western Heritage Museum in Oklahoma City.The grand finale is at the world-famous Santa Monica Pier, where the stunning sight of the sunset over the Pacific Ocean makes for the perfect end to an incredible journey.For those who crave the spectacle of meeting of land and water, California State Route 1 provides the ultimate experience of travelling along the coast. Extending roughly 1,057 km from Orange County to Mendocino County, the road calls for one’s leisurely pace in order to fully take in its surroundings.The adventure exposes you to the historically rich Old Mission Santa Barbara, the graceful Monarch Butterfly Grove at Pismo Beach, and the dramatic cliffs of Big Sur. Travelling across the awe-inspiring Bixby Bridge is sure to make you feel like you’re in a postcard, and soon enough, you’ll find yourself in the charming town of Carmel-by-the-Sea and eventually the redwoods of Leggett.Renamed after the famous singer-songwriter Jimmy Buffett, the Florida State Road A1A stretches out 338 miles along the coast of the Atlantic Ocean. This road is perfect for the sun and sand enthusiasts among us.Travellers get an opportunity to witness the pale trees on Boneyard Beach on Big Talbot Island and the pinkish sand of Mickler's Landing. History lovers are bound to lose themselves in the historic streets of St. Augustine. In contrast, technology lovers will get the chance to marvel at the fascinating technology available in the Kennedy Space Center located in Cape Canaveral. Lastly, this drive ends in the Overseas Highway, which will take travellers right into the beautiful natural environment of Key West Nature Preserve.This road, which meanders across a distance of 469 miles through the Appalachian Mountains, links Virginia and North Carolina. The National Park Service maintains it, and there are no traffic lights along this road.The tour starts by entering Shenandoah National Park from the southern gateway, where travellers are welcomed by historical monuments such as Mabry Mill from the early twentieth century. The Linn Cove Viaduct, an engineering masterpiece, winds around Grandfather Mountain, safeguarding the mountain environment from any disturbances. The tour ends gracefully in Cherokee, North Carolina, offering travellers the opportunity to explore the heritage of indigenous peoples.Taking the route along the Mississippi River, the Great River Road covers more than 2,000 miles through ten different states in the United States. Starting in Itasca State Park, Minnesota, the tour highlights the rich culture and history of the American heartland.The drive takes you through the steep hills of the Driftless Area and past the sacred burial grounds of Effigy Mounds National Monument in Iowa. Literature fans can explore the childhood home of Mark Twain in Hannibal, Missouri, before heading south toward the musical foundations of Memphis and New Orleans. The epic highway concludes in Venice, Louisiana, where the mighty river finally meets the Gulf of Mexico.For an otherworldly experience through red rocks and deep gorges, the 1,200-mile loop through Utah's five spectacular national parks is unmatched. Starting and ending in Salt Lake City, this expedition showcases the raw, artistic power of geological erosion.Along the trail, you will enjoy the balancing rocks at Arches National Park, the giant rock formations at Canyonlands, and the colourful sandstone cliffs at Capitol Reef. Travellers will see how the sun highlights the grand amphitheatre at Bryce Canyon before they try out their stamina at the famous trails of Zion National Park.The 444-mile-long Natchez Trace Parkway links Nashville in Tennessee with Natchez in Mississippi.The tour will allow visitors to enjoy the cool spray of Jackson Falls and the landmark Meriwether Lewis Monument. Upon heading south into Alabama, architecture buffs will have a chance to view the well-preserved architecture of Frank Lloyd Wright’s Rosenbaum House. Finally, before reaching Natchez, travellers will be able to see the largest pre-Columbian ceremonial earthen mound in the United States, next to the Emerald Mound.","The Great River Road covers more than 2,000 miles along the Mississippi River. California State Route 1 provides the ultimate experience of travelling along the coast. The Overseas Highway will take travellers right into the beautiful natural environment of Key West Nature Preserve.","https://static.toiimg.com/thumb/msid-131345617,imgsize-208274,width-400,height-225,resizemode-4/pacific_coast_highway_47226130481.jpg"
+Deep in Utah’s desert near Moab lies one of America’s strangest hidden communities. Known as Rockland Ranch, or “The Rock”, the settlement is home to dozens of families living inside cave-like homes carved into sandstone cliffs. The homes were blasted into the mountainside with dynamite during the 1970s. Over time, the isolated religious community grew into a self-sustaining settlement where hundreds of children have been raised. Solar panels, livestock and wells help support daily life. To outsiders, the ranch looks almost unreal. Part underground city and part survivalist colony, it remains hidden within Utah’s vast red-rock landscape.Unlike normal neighbourhoods, many homes at Rockland Ranch are built directly into sandstone formations. Founder Robert Dean Foster reportedly used dynamite to create large openings inside the cliffs. Residents later transformed those spaces into modern homes.From a distance, the settlement blends into the desert landscape. Front entrances and windows are built outward from the cliff face while large sections of the homes extend deep into the rock.The sandstone also acts as natural insulation. Homes stay cooler during the summer and warmer during cold desert nights.The unusual design has led many visitors to compare the community to a science-fiction film or a hidden underground city.Rockland Ranch was designed to operate largely independent of nearby towns. Residents rely on solar power, private wells, farming and livestock to support the community.Families grow crops and raise animals together. Many residents also share labour and maintenance work across the settlement. The remote location has created a strong communal lifestyle where neighbours often depend on each other rather than outside services.Despite the isolated setting, many homes still include modern conveniences such as plumbing, electricity, kitchens and internet access.Rockland Ranch is connected to Mormon fundamentalism, a movement that continued practising plural marriage after the mainstream Mormon church abandoned polygamy in the 19th century.The community was founded by Robert Dean Foster in 1977. He wanted to create a remote settlement where families could live according to their religious beliefs away from public attention. Around 35 families reportedly live there today. Roughly half are believed to practise polygamy while others are monogamous.Large families are common within the settlement. Hundreds of children have reportedly grown up there over the decades. Recent viral posts about the ranch sparked online discussions about family size, religion and alternative ways of living.Photos of Rockland Ranch often go viral because the homes appear built directly into giant canyon walls. Many people online compare the settlement to ancient cave cities, survivalist compounds or dystopian movie sets.Others are fascinated by the idea of a self-sufficient community living far from mainstream American society. The combination of desert isolation, cave homes and large families makes the ranch especially unusual to outsiders.The community has also become part of broader debates surrounding birth rates and modern family life. Some people admire the ranch’s self-reliance and communal lifestyle. Others question the isolation and religious culture surrounding Mormon fundamentalist groups.Like many fundamentalist Mormon communities, Rockland Ranch has faced criticism over issues linked to polygamy and isolated religious living.Critics often raise concerns about women’s autonomy, religious pressure and children growing up with limited exposure to the outside world. Others question the power structures that can exist inside tightly controlled communities.Supporters argue that residents willingly choose the lifestyle and value the community’s focus on family, cooperation and self-sufficiency.Rockland Ranch has generally been viewed as separate from the more controversial FLDS Church once led by Warren Jeffs, whose organisation faced major criminal investigations and abuse allegations.Despite the controversy, Rockland Ranch remains one of the most unusual communities in the United States. Its cliffside homes and isolated desert setting continue attracting photographers, filmmakers and curious travellers.The ranch has appeared in documentaries, television series and photo essays exploring remote religious communities in America. For many outsiders, the idea of families living inside sandstone cliffs sounds almost impossible. Yet for the residents of Rockland Ranch, the hidden cave city has been home for nearly 50 years.","Rockland Ranch is home to dozens of families living inside cave-like homes carved into sandstone cliffs. The homes were blasted into the mountainside with dynamite during the 1970s. Over time, the isolated religious community grew into a self-sustaining settlement.","https://static.toiimg.com/thumb/msid-131350231,imgsize-1567577,width-400,height-225,resizemode-4/inside-americas-hidden-cave-city-where-hundreds-of-children-and-families-live-off-grid-inside-sandstone-cliffs.jpg"
 Elon Musk’s Starlink comes to air travel: American Airlines to transform in-flight internet experience by 2027,https://timesofindia.indiatimes.com/world/us/elon-musks-starlink-comes-to-air-travel-american-airlines-to-transform-in-flight-internet-experience-by-2027/articleshow/131341988.cms,"American Airlines inflight Wi-Fi upgrade with Starlink's high-speed satellite internet rollout
 
 
@@ -960,65 +513,17 @@ How to get your CIBIL Credit score without a PAN Card
 Factors affecting your CIBIL score
 
 CIBIL credit score : Understanding your creditworthiness is pivotal in today's financial landscape, especially when seeking loans or credit cards. The Credit Information Bureau (India) Limited, commonly known as CIBIL, plays an important role in this regard by providing credit scores to borrowers.According to ET, credit score helps banks make informed decisions about extending credit cards and loans. Your credit history influences your CIBIL score , which is calculated using a special method.Your CIBIL score is a three-digit number that reflects your creditworthiness and repayment capacity. Ranging from 300 to 900, a higher score indicates a stronger likelihood of loan approval. Banks and financial institutions use this score to assess the risk associated with lending money.1. Go to the official CIBIL website and click on 'Personal CIBIL score,' then 'Get Your Free CIBIL score.' Follow the link provided and fill in all the required details.2. If you don’t have a PAN Card, you can use an alternative identification such as Passport, Voter ID, Driver’s License, or Ration Card. Enter the number of the chosen ID.3. Provide your date of birth, PIN code, and select your state. Finally, enter your mobile number and click on ‘Accept and Continue’.4. Authenticate your identity by entering the OTP (One-Time Password) delivered to your mobile device on the next screen. Click 'Continue' to proceed.5. Choose whether you want to link the device with your account. Select 'Yes' or 'No' based on your preference.6. Upon successful registration, you will see a page confirming that 'You have successfully registered!'7. Click on ‘Go to Dashboard’ to access and view your CIBIL score.The factors influencing the new CIBIL score, as stated on the CIBIL website, include:1. Depth of credit: This refers to the duration of your existing credit history, calculated from the opening date of your oldest credit account.2. Long-term trend of outstanding balances: The overall trend of outstanding balances over time affects your score.3. Transaction history on credit cards: How you manage transactions on your credit cards impacts your score.4. Ratio of actual repayment amount to total amount due: This ratio indicates your repayment behavior and influences your score accordingly.5. Number of new accounts opened and number of accounts closed: Opening or closing accounts can affect your score, so managing these actions wisely is important.","Your CIBIL score is a three-digit number that reflects your creditworthiness and repayment capacity. Ranging from 300 to 900, a higher score indicates a stronger likelihood of loan approval. Banks and financial institutions use this score to assess the risk associated with lending money.","https://static.toiimg.com/thumb/msid-109261549,imgsize-35230,width-400,resizemode-4/109261549.jpg"
-"Bigger car, lighter start: Why FlexDrive+ could work for upgrade buyers",https://timesofindia.indiatimes.com/business/india-business/bigger-car-lighter-start-why-flexdrive-could-work-for-upgrade-buyers/articleshow/131330041.cms,".
+AI giant Anthropic raises $65 billion at near-trillion dollar valuation,https://timesofindia.indiatimes.com/business/india-business/ai-giant-anthropic-raises-65-billion-at-near-trillion-dollar-valuation/articleshow/131380903.cms,"SAN FRANCISCO: Artificial intelligence company Anthropic said Thursday it had raised $65 billion in a new funding round that values the Claude maker at $965 billion, putting it on the cusp of a trillion-dollar valuation ahead of an expected IPO.The latest fundraising round confirms Anthropic's place as one of the most significant players in AI, having made its name by doubling down on delivering generative AI to enterprise clients rather than general users, the path initially chosen by archrival OpenAI , the maker of ChatGPT.""This funding will help us serve the historic demand we are experiencing, stay at the research frontier, and bring Claude to more of the places where work happens,"" said Krishna Rao, Anthropic's chief financial officer.Anthropic's near-trillion-dollar valuation puts it ahead of OpenAI, which was valued at $852 billion in March and is aiming to go public as early as this year.Elon Musk's SpaceX, which absorbed his AI company, xAI, in Feb, could see shares begin trading as early as June 12, targeting a valuation of approximately $1.75 trillion in what would be the largest IPO in history.Anthropic's round was led by major Silicon Valley venture capitalists Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital.It also included $15 billion in previously committed investments from cloud giants, including $5 billion from Amazon. The company said Claude is now the first frontier AI model available across all three of the world's largest cloud platforms - Amazon Web Services, Google Cloud and Microsoft Azure.",Artificial intelligence company Anthropic said Thursday it had raised $65 billion in a new funding round that values the Claude maker at $965 billion. The latest fundraising round confirms Anthropic's place as one of the most significant players in AI. It made its name by delivering generative AI to enterprise clients rather than general users.,"https://static.toiimg.com/thumb/msid-131380934,imgsize-373245,width-400,height-225,resizemode-4/131380934.jpg"
+"Now, fraudsters target dormant e-commerce accounts",https://timesofindia.indiatimes.com/business/india-business/now-fraudsters-target-dormant-e-comm-accounts/articleshow/131380394.cms,"The modus operandi
 
-What is FlexDrive+?
+Device farming
 
-Pay the residual amount and continue owning the car.
+enabling large scale frauds
 
+Tighter checks needed
 
-
-Extend the repayment for additional time.
-
-
-
-Sell the car through a Bajaj Finance buyback partner and use the proceeds to close the loan.
-
-
-
-Why FlexDrive+ works well for buyers who want to upgrade
-
-Professionals upgrading to a premium or feature-rich car.
-
-
-
-Families moving to a bigger or more comfortable vehicle.
-
-
-
-Existing car owners who like upgrading every few years.
-
-
-
-Buyers who prefer better cash-flow management instead of blocking large amounts upfront.
-
-
-
-How Bajaj Finance New Car Loan supports your upgrade
-
-Quick approval process to help you move ahead faster with your purchase.
-
-
-
-Simple eligibility criteria and minimal documentation.
-
-
-
-Flexible repayment tenures ranging from 12 months to 96 months.
-
-
-
-Loan structures designed to match different financial needs and upgrade plans.
-
-
-
-Upgrade smarter, not heavier
-
-*Terms and conditions apply.
-
-Disclaimer: The above content is non-editorial, and TIL hereby disclaims any and all warranties, expressed or implied, relating to it, and does not guarantee, vouch for or necessarily endorse any of the content.
-
-A new car is not always just a purchase. Sometimes, it marks a new phase in life. Maybe your current car no longer suits your needs. Maybe your family needs more space and comfort. Or maybe you simply want to move into a car that reflects where you are in today.An upgrade can change how you travel every day. It can bring better comfort, newer technology, and enhanced safety. It also helps you feel more confident on daily commutes, long drives, and weekend trips.But upgrading to a better car also means a higher financial commitment. The on-road price, insurance, registration, and upfront costs can make the jump feel larger than expected.Even with a regular car loan , the EMI on an upgraded car can sometimes feel restrictive. Addressing this gap, Bajaj Finance has introduced FlexDrive+, a new car loan variant that offers lower EMIs in the initial years, allowing customers to upgrade to their preferred car without stretching their finances from the outset. FlexDrive+ is a new car loan variant from Bajaj Finance that helps keep your EMI lighter in the first few years of ownership.Instead of repaying the entire loan amount from the beginning, a portion of the loan is kept aside as a residual amount and paid later at the end of the tenure. This can reduce your monthly EMI by up to 35%* compared to a standard new car loan.In simple terms, FlexDrive+ gives you the flexibility to upgrade today while managing your monthly cash flow more comfortably.At the end of the tenure, you can choose what works best for you:Most people upgrading their car are buying for a better overall experience.FlexDrive+ is designed for buyers who want to move into a better car while keeping their finances balanced.It works especially well for:The idea is simple. Drive the car you truly want today, while keeping more financial flexibility for tomorrow.Along with FlexDrive+, the Bajaj Finance New Car Loan helps make your upgrade journey smoother and more convenient.This allows you to choose a repayment approach that aligns with your income, lifestyle, and future goals.Visit your nearest new car dealer and ask for FlexDrive+ from Bajaj Finance or explore more on the Bajaj Finance website.","FlexDrive+ is a new car loan variant from Bajaj Finance that helps keep your EMI lighter in the first few years of ownership. Instead of repaying the entire loan amount from the beginning, a portion of the loan is kept aside as a residual amount and paid later at the end of the tenure. This can reduce your monthly EMI by up to 35%* compared to a standard car loan.","https://static.toiimg.com/thumb/msid-131330044,imgsize-287890,width-400,height-225,resizemode-4/131330044.jpg"
+MUMBAI: You probably do not care much about your inactive accounts on online platforms such as Amazon or Flipkart. But do you know that your dormant e-commerce accounts are being targeted by fraudsters?Unlike financial transactions which usually leave a trail and are notified to users through mobile alerts or messages, suspicious transactions made through e-commerce accounts tend to go unnoticed which is the reason they are easy targets for fraudsters.Your e-commerce accounts already keep details of your cards or payment methods intact and once compromised, fraudsters use them for unauthorised purchases, loyalty-point abuse, refund frauds or mule account activity, experts said.""When you use UPI, you sim-bind it but that's not done for e-commerce platforms. You don't need to have an e-commerce app on your phone to use it. People can use it through a phone that belongs to a family member,"" said Venkat Srinivasan, chief analytics and risk officer at Bureau, an AI-powered risk decisioning platform which helps organisations prevent digital frauds.How are fraudsters getting access to your dormant accounts in the first place? They are often able to do that through leaked passwords, phishing attacks, malware or sim-swap techniques, said Capt Praveen Dahiya, founder & MD at InQuest Global.A sim-swap is a process which allows cybercriminals to get access to a victim's mobile phone number--they do this by convincing a mobile carrier to transfer the victim's number to a sim card under their control, allowing them to intercept SMS-based authentication codes and reset passwords, according to cybersecurity platform SentinelOne.The frauds are being done at a large scale, too. The rapid growth and consumer adoption of online commerce is giving rise to more sophisticated ways of triggering frauds--in this case, the underlying technique is often ""device farming"" which allows criminals to target multiple accounts at the same time.Device farming is basically the large-scale use of mobile devices, sim cards and automation tools to mimic genuine consumer activity online. It allows fraudsters to run and control dozens, sometimes hundreds of accounts simultaneously switching between them at speeds no individual user can match.Amazon, Flipkart and Meesho declined to comment on the issue.E-commerce companies should increasingly put in place a mechanism mandating users of dormant accounts to reset their passwords every few months and enable multi-factor authentication to avoid account takeover by fraudsters. Platforms should also devise ways to alert users about unusual buying activities besides disabling default payment methods, said Sachin Yadav, partner at Deloitte India.","Your dormant e-commerce accounts are being targeted by fraudsters. Fraudsters use them for unauthorised purchases, loyalty-point abuse, refund frauds or mule account activity. The rapid growth and consumer adoption of online commerce is giving rise to more sophisticated ways of triggering fraud.","https://static.toiimg.com/thumb/msid-131380408,imgsize-51824,width-400,height-225,resizemode-4/131380408.jpg"
+"Reliance bets big on AI to reshape content, streaming and viewer engagement",https://timesofindia.indiatimes.com/business/india-business/reliance-bets-big-on-ai-to-reshape-content-streaming-and-viewer-engagement/articleshow/131374404.cms,"Reliance bets big on AI to reshape content, streaming and viewer engagement","India's Reliance bets big on AI to reshape content, streaming and viewer engagement. Reliance has invested $1.5 billion in AI-based technology. Reliant has also invested $500 million in the development of its own AI-powered content.","https://static.toiimg.com/thumb/msid-131374462,imgsize-542384,width-400,height-225,resizemode-4/-.jpg"
 Microsoft’s growing AI costs are raising doubts about whether automation really saves money,https://timesofindia.indiatimes.com/business/international-business/microsofts-growing-ai-costs-are-raising-doubts-about-whether-automation-really-saves-money/articleshow/131326346.cms,"Microsoft CEO Satya Nadella| Image Credit: BCCL
 
 Microsoft signals a wider industry concern
@@ -1055,21 +560,52 @@ Out of curiosity, Delta Air Lines CEO Ed Bastian decided to experiment with an a
 Elon Musk loses lawsuit against OpenAI,https://timesofindia.indiatimes.com/business/international-business/elon-musk-loses-lawsuit-against-openai/articleshow/131183530.cms,".
 
 A federal court on Monday dismissed Elon Musk’s claims against OpenAI and its top executives, bringing an end to a closely watched legal battle over the company’s transformation from a nonprofit research lab into one of the world’s most valuable AI firms.The nine-person jury found that Musk waited too long to file his lawsuit and missed the deadline under the statute of limitations. Judge Yvonne Gonzalez Rogers accepted the advisory jury’s verdict as the court’s own and dismissed the claims after jurors deliberated for about two hours.The trial, which began April 27 in Oakland, California, highlighted the bitter split between Musk and OpenAI’s leadership. Musk co-founded OpenAI in 2015 and invested $38 million in its early years before leaving the company in 2018.Musk accused OpenAI CEO Sam Altman and president Greg Brockman of abandoning a shared vision for OpenAI to develop artificial intelligence as a nonprofit dedicated to humanity’s benefit. He claimed the company secretly shifted into a profit-driven structure and alleged that Altman and Brockman unjustly enriched themselves as OpenAI’s valuation surged.During the trial, Musk argued that the dispute was ultimately simple.“I think they’re going to try to make this lawsuit ... very complicated, but it’s actually very simple,” Musk said, as quoted by AP. “Which is that it’s not OK to steal a charity.”Musk sought damages that would be directed toward OpenAI’s charitable arm and also called for Altman’s removal from the company’s board.OpenAI and Altman rejected the allegations, arguing there was never a promise to keep OpenAI a nonprofit forever. They said Musk understood the company’s direction and later sued because he was unable to gain unilateral control over the fast-growing AI developer.The three-week trial featured testimony from Musk, Altman, Brockman, Microsoft CEO Satya Nadella, and former OpenAI board members Helen Toner and Tasha McCauley. Brockman testified that his stake in OpenAI is worth about $30 billion.Elon Musk lashed out at the federal judge who accepted the jury’s finding that his lawsuit was filed too late, saying the ruling sets a “terrible precedent.”“This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent,” Musk wrote on X shortly after the verdict.Jurors also heard details about the brief firing of Altman as CEO in 2023 before he returned to the position days later. Toner and McCauley, who testified about the board’s decision to remove Altman, were themselves pushed out after his reinstatement.Altman testified that concerns over Musk’s attempts to gain more control over OpenAI contributed to tensions between them as the company pursued artificial general intelligence.“Part of the reason we started OpenAI is we didn’t think AGI could be under the control of any one person, no matter how good their intents are,” Altman said.Near the end of his testimony, Altman reflected on the collapse of his relationship with Musk.“I felt like he had abandoned us, not come through on his promises, put the company in a very difficult place, jeopardized the mission, didn’t really care about the things I thought he cared about,” Altman said. “It’s been an extremely painful thing for me ... to have someone that I respected so much not acknowledge that and continue to publicly attack us.”OpenAI argued throughout the case that Musk’s lawsuit was driven by frustration over the company’s rapid growth and was aimed at helping his own AI startup, xAI, which he launched in 2023.",Elon Musk's lawsuit against OpenAI was dismissed on Monday. A jury found that Musk waited too long to file his lawsuit and missed the deadline under the statute of limitations. Musk lashed out at the federal judge who accepted the jury’s finding that his lawsuit was filed too late.,"https://static.toiimg.com/thumb/msid-131183533,imgsize-790917,width-400,height-225,resizemode-4/pic-71.jpg"
-"Tesla cars price hike: EV maker raises US prices of Model Y variants by up to $1,000",https://timesofindia.indiatimes.com/business/international-business/tesla-cars-price-hike-ev-maker-raises-us-prices-of-model-y-variants-by-up-to-1000/articleshow/131138812.cms,"Tesla has increased prices of its Model Y variants in the United States, according to updates on the company's website, Reuters reported.The electric vehicle maker raised the price of the Model Y Premium All-Wheel Drive and Model Y Premium Rear-Wheel Drive variants by $1,000 each to $49,990 and $45,990, respectively.Tesla also increased the price of the Model Y Performance All-Wheel Drive variant by $500, taking its price to $57,990 in the US market, the website showed.","The electric vehicle maker raised the price of the Model Y Premium All-Wheel Drive by $1,000 each to $49,990 and $45,990, respectively. The Model Y Performance All- wheel drive variant was also increased by $500 to $57,990.","https://static.toiimg.com/thumb/msid-131138849,imgsize-496662,width-400,height-225,resizemode-4/-.jpg"
-Pentagon clash with SpaceX over Starlink price: Elon Musk 'blames' it on Amazon Web Services ...,https://timesofindia.indiatimes.com/technology/tech-news/pentagon-clash-with-spacex-over-starlink-price-elon-musk-blames-it-on-amazon-web-services-/articleshow/131365008.cms,Pentagon clash with SpaceX over Starlink price: Elon Musk 'blames' it on Amazon Web Services ...,"Elon Musk 'blames' it on Amazon Web Services. Pentagon clash with SpaceX over Starlink price: Elon Musk ""blames"" it on Internet giant. SpaceX and Pentagon clash over price of SpaceX's Starlink system. SpaceX says it's working with Pentagon to lower Starlink cost.","https://static.toiimg.com/thumb/msid-131365003,imgsize-43062,width-400,height-225,resizemode-4/elon-musk.jpg"
-YouTube rolls out ‘more visible’ AI labels: What to look for on videos and Shorts and its meaning for users,https://timesofindia.indiatimes.com/technology/tech-news/youtube-rolls-out-more-visible-ai-labels-what-to-look-for-on-videos-and-shorts-and-its-meaning-for-users/articleshow/131356543.cms,YouTube rolls out ‘more visible’ AI labels: What to look for on videos and Shorts and its meaning for users,YouTube rolls out ‘more visible’ AI labels. The labels will appear on videos and Shorts and its meaning for users. YouTube is rolling out the labels across all of its videos and shorts. The company is also rolling out labels for its music videos and short films.,"https://static.toiimg.com/thumb/msid-131356491,imgsize-13102,width-400,height-225,resizemode-4/youtube-ai-lables.jpg"
-Stuffcool Zeno 100 review: A charging hub built around one clever idea,https://timesofindia.indiatimes.com/technology/tech-news/stuffcool-zeno-100-review-a-charging-hub-built-around-one-clever-idea/articleshow/131356409.cms,"Built around one idea
+"Almost 9 months after the launch, Starbucks discontinues its AI inventory tool; says its inaccuracies made employees ...",https://timesofindia.indiatimes.com/technology/tech-news/almost-9-months-after-the-launch-starbucks-discontinues-its-ai-inventory-tool-says-its-inaccuracies-made-employees-/articleshow/131384835.cms,"Starbucks employees say AI tool often made mistakes
 
-Who it actually suits
-
-The answer to the opening question
+Part of Starbucks' broader AI push
 
 
 
 
 
-Most charging hubs ask you to manage more cables, not fewer. You add a hub, you add the cables that go with it, and the desk gets worse before it gets better. The Zeno 100 from Stuffcool starts from a different premise. One of the cables lives inside the hub itself.That integrated Type-C cable is the product's entire personality. It pulls out to 93 cm when you need it and retracts flush when you don't—no coiling, no clutter, no separate wire to lose. At 65W, it handles most ultrabooks and every tablet without complaint. It's a small mechanical trick that turns out to matter more than it sounds. A desk with one fewer loose cable is meaningfully calmer than one without.The rest of the hardware supports that central idea rather than competing with it. Two full-size Type-C ports each support up to 100W individually—enough for a MacBook Pro or a power-hungry Windows machine. A USB-A port handles Quick Charge 3.0 at 18W. Total output caps at 100W across everything, distributed intelligently: plug in the retractable cable and one Type-C port simultaneously and you get 65W plus 35W, a sensible split that keeps both devices moving fast.The only combination worth watching is Type-C3 and USB-A together—they share 15W between them, which is fine for a smartwatch and earbuds but not much else. Know your ports before you plug in.GaN internals keep the whole thing compact at 9.68 × 9.3 × 2.8 cm and 233 grams—light enough that it doesn't anchor itself to the desk. BIS-certified, Made in India, and shipped with a 1.5m ISI-approved AC cord. The safety credentials matter on something that sits plugged in all day.Wide compatibility is genuine rather than gestural. Samsung Super Fast Charging 2.0 via PPS, PD 3.0 for iPhones, Quick Charge 3.0 on USB-A—most devices in a typical Indian household will fast charge without fuss. The 6-month warranty extends to 12 months free on registration at Stuffcool's site, which is the kind of small gesture that builds goodwill without costing much.At Rs 3,999—the Zeno 100 sits in a range where you're paying for the retractable mechanism as much as the charging itself. That's the right way to think about it. If a cleaner desk doesn't justify the premium for you, a simpler hub will serve you just as well for less.The cluttered desk is, in fact, a solvable problem. The Zeno 100 doesn't solve it by brute force—it won't charge six devices at full tilt simultaneously, and it isn't trying to. It solves it by making one smart mechanical choice and building a competent charging hub around it. For anyone whose desk has more cables on it than devices, that's enough.","Stuffcool's Zeno 100 charging hub has a retractable Type-C cable. It pulls out to 93 cm when you need it and retracts flush when you don't. At 65W, it handles most ultrabooks and every tablet without complaint. The 6-month warranty extends to 12 months free on registration.","https://static.toiimg.com/thumb/msid-131356435,imgsize-23414,width-400,height-225,resizemode-4/stuffcool-zeno-100.jpg"
-"Former Google CEO Eric Schmidt says: Top engineers are no longer writing most of the code themselves, they are now ...",https://timesofindia.indiatimes.com/technology/tech-news/former-google-ceo-eric-schmidt-says-top-engineers-are-no-longer-writing-most-of-the-code-themselves-they-are-now-/articleshow/131356144.cms,"‘Modern programmer's working has changed’
+Starbucks has discontinued an AI-powered inventory management tool less than a year after rolling it out across stores. According to a Fortune report, the company decided to stop using the system after employees raised concerns about its accuracy. The tool, developed by NomadGo, was introduced in September last year to automatically count inventory items such as milk and syrups and help stores manage stock levels. However, workers said the app often made mistakes, leading to operational problems. According to Carl Addison, a Starbucks shift supervisor in Washington state, the system required stores to reorganise storage areas, adding extra work for employees. “The app’s inaccuracies made employees’ workflow more challenging,” Addison told Fortune.The AI-powered app was designed to track beverage ingredients and identify shortages. However, Reuters previously reported that the system frequently miscounted or mislabeled items and sometimes failed to detect products on shelves.Starbucks told Fortune that it had decided to move away from the tool after reviewing feedback from employees.“We test ideas in our coffeehouses, listen closely to partner feedback, and make changes to deliver a better, more consistent experience,” a Starbucks spokesperson said. He said incorrect inventory counts sometimes resulted in stores receiving too much or too little stock. “It started off not particularly accurate and got less accurate over time,” Addison said.One employee comment shared by Starbucks also welcomed the decision.“Thanks for discontinuing Automatic Counting! The thought behind it was great, but the execution was proving difficult,” the comment said.The inventory tool was launched as part of CEO Brian Niccol's ""Back to Starbucks"" strategy, which includes the use of AI to improve operations and customer service. Other AI tools currently used by Starbucks include Green Dot Assist, which helps employees find recipes and troubleshoot equipment issues, and Smart Queue, which is designed to speed up order processing.","Starbucks has discontinued an AI-powered inventory management tool less than a year after rolling it out across stores. The tool, developed by NomadGo, was introduced in September last year to automatically count inventory items such as milk and syrups. However, workers said the app often made mistakes, leading to operational problems. Starbucks told Fortune that it had decided to move away from the tool after reviewing feedback from employees.","https://static.toiimg.com/thumb/msid-131384830,imgsize-25222,width-400,height-225,resizemode-4/starbucks.jpg"
+"As companies across America worry about AI returns, Micro1 CEO Ali Ansari says: Reality of AI right now is that it only works for ...",https://timesofindia.indiatimes.com/technology/tech-news/as-companies-across-america-worry-about-ai-returns-micro1-ceo-ali-ansari-says-reality-of-ai-right-now-is-that-it-only-works-for-/articleshow/131383877.cms,"Rising AI costs draw attention
+
+
+
+
+
+Companies cutting jobs to offset AI bills
+
+
+
+
+
+Corporate leaders across the United States are increasingly questioning whether their massive spending on AI is producing meaningful returns. The debate comes as companies face rising AI-related costs, uncertain productivity gains and pressure to show results from billions of dollars invested in the technology. Against this backdrop, Ali Ansari, chief executive of AI training company Micro1, has argued that businesses may be overestimating what AI can currently achieve. Speaking to Axios, Ansari said companies are moving away from what he called AI overuse, or “tokenmaxxing,” where employees focus on consuming large amounts of AI resources.“The reality of AI right now is that it only works for coding,” Ansari said.He argued that many businesses assume AI tools work equally well across all departments, but that expectation often does not match reality. According to Ansari, the gap between expectations and actual performance can drive up IT spending without generating strong returns on investment. Ansari told the publication that the current shift away from excessive AI usage could help companies focus on using the technology more efficiently.Ansari’s comments come as several companies review their AI spending. Earlier this month, Microsoft reportedly cancelled most internal licenses for Anthropic’s Claude Code AI coding tool, to move developers to its own Copilot CLI tool.While Microsoft told employees the move is aimed at standardising engineering tools, the report said cost considerations were also part of the decision.Similarly, Amazon has also reportedly shut down an internal AI leaderboard known as Kirorank after some employees used AI tools to generate unnecessary activity in an effort to improve their rankings. According to a Financial Times report, the additional AI usage increased computing costs. Amazon senior vice-president Dave Treadwell reportedly told employees: “Please don’t use AI just for the sake of using AI. ”The concerns are not limited to technology companies. Axios reported that one business spent about $500 million in a single month after failing to place limits on employee use of Anthropic’s Claude AI tools.Major companies including Meta, Amazon and others have cut thousands of jobs in 2026. Most of them are attributed to AI. However, the Axios report quoted Anuj Kapur, CEO of CloudBees who said that workforce cuts may simply be ""the only lever they (companies) can pull"" to offset their AI bills.",Companies are cutting jobs to offset AI bills. CEO of AI training company Micro1 says businesses may be overestimating what AI can achieve. One business spent about $500 million in a single month after failing to place limits on employee use of Anthropic's Claude AI tools.,"https://static.toiimg.com/thumb/msid-131383911,imgsize-49584,width-400,height-225,resizemode-4/ai-generated-image-for-representation-purpose.jpg"
+"Reliance Digital ‘Boot Up India’ sale live: Discounts on AI laptops, free 2 years additional warranty and more offers",https://timesofindia.indiatimes.com/technology/tech-news/reliance-digital-boot-up-india-sale-live-discounts-on-ai-laptops-free-2-years-additional-warranty-and-more-offers/articleshow/131383628.cms,"Reliance Digital ‘Boot Up India’ sale offers
+
+Free 2 years additional warranty: Buyers will receive a complimentary two-year extended warranty on their new laptop purchase, providing long-term protection.
+
+Buyers will receive a complimentary two-year extended warranty on their new laptop purchase, providing long-term protection. Rs 5,000 minimum exchange value: Those who bring in their old, outdated laptops, can walk away with a guaranteed trade-in value of at least Rs 5,000 to apply directly against their new purchase.
+
+Those who bring in their old, outdated laptops, can walk away with a guaranteed trade-in value of at least Rs 5,000 to apply directly against their new purchase. Offering up to Rs 15,000 instant discount: Reliance Digital is offering deals on some bank cards, allowing customers to leverage leading bank cards and paper finance options to get up to an additional Rs 15,000 off the retail price.
+
+Reliance Digital is offering deals on some bank cards, allowing customers to leverage leading bank cards and paper finance options to get up to an additional Rs 15,000 off the retail price. Education perks: Reliance Digital is offering Rs 5,000 off on online courses with laptop purchases.
+
+
+
+
+
+Reliance Digital, India’s leading electronics retailer, has launched the “Boot Up India” campaign. In association with tech giants Microsoft and Intel, the limited-time sale is designed to help tech enthusiasts “AI-fy” their future by making next-generation computing heavily accessible to everyday consumers. The campaign features massive deals across a sprawling portfolio of more than 100 AI-enabled laptops from top global brands, including HP, Lenovo, Asus, Dell, Acer, Samsung and more.For those searching online for the best AI laptop deals in India or trying to find where to buy Intel Core Ultra laptops with bank discounts, Reliance Digital is the ultimate upgrade destination. To sweeten the deal, Reliance Digital is offering a mix of trade-in values, massive bank card discounts and extended security protections.If you are wondering, “What are the best offers on AI laptops in the Reliance Digital Boot Up India sale ”, unlike standard electronics sales, the ""Boot Up India"" initiative focuses on lowering the total cost of ownership for premium, AI-capable machines through four core financial benefits:Following the template of its successful premium electronics rollouts, Reliance Digital is giving buyers flexibility in how they pay. In addition to traditional payment methods, shoppers can choose from robust paper finance options and multi-month EMI schemes across leading credit and debit cards to distribute the cost of their new device over time.The Boot Up India campaign is live right now. Customers can explore these exclusive deals, test out the latest AI features in stores, and make their purchases either visiting any physical Reliance Digital store nationwide or by shopping online from the comfort of their homes at reliancedigital.in. As with all major electronics sales, terms and conditions apply.","Reliance Digital, India’s leading electronics retailer, has launched the “Boot Up India” campaign. In association with tech giants Microsoft and Intel, the limited-time sale is designed to help tech enthusiasts ‘AI-fy’ their future by making next-generation computing heavily accessible to everyday consumers.","https://static.toiimg.com/thumb/msid-131385373,imgsize-83178,width-400,height-225,resizemode-4/reliance-digital.jpg"
+"Canada 'repeats' its 'Citizenship warning' on FIFA World Cup 2026, says: You are responsible for ...",https://timesofindia.indiatimes.com/technology/tech-news/canada-repeats-its-citizenship-warning-on-fifa-world-cup-2026-says-you-are-responsible-for-/articleshow/131382758.cms,"Canada visa fraud concerns
+
+
+
+Increasing risks of visa scams
+
+
+
+How to stay protected from visa scam
 
 
 
@@ -1077,45 +613,75 @@ Most charging hubs ask you to manage more cables, not fewer. You add a hub, you 
 
 
 
-The era of software engineers writing code line by line is officially over, according to former Google CEO Eric Schmidt. Speaking at a recent industry conference, the tech veteran revealed that a massive shift hit the software industry late last year, completely altering how computer engineers work. Schmidt confessed that he is personally “in mourning” over the change, watching the traditional programming career he started at age 13 or 14 vanish in a single lifetime.According to Schmidt, state-of-the-art programmers are no longer typing out code manually. Instead, they are now acting as supervisors to teams of “AI friends.”“I'll just confess what's really going on in my mind? I'm in mourning. And I've been mourning because I started as a programmer when I was basically 13 or 14, and that is essentially over. Right, how in how can your entire identity and life's career as a programmer? Computer scientist be over in one lifetime. It's supposed to be like your children or your grandchildren,” he said in a video posted online.Schmidt painted a vivid picture of how top-tier software engineering is done today, describing a routine that relies entirely on automation and AI agents. He said that instead of staring at a blank text editor, a modern programmer's day starts with 10 AI agents, who are given a specific task.Hr continued that before heading out to lunch, the programmer assigns the AI long enough tasks to ensure the digital assistants keep working through the hour.“And what's happened. I'll give you an example. So, the way programming is done at the state of the art now is the programmer wakes up goes to the office? Because they're social, and they sit there, but they don't have that many friends. So they sit in their office, and they collect 10 Claude friends or 10 Gemini friends. And they set them up with objective functions, and they watch what they wrote the code that they write,” he told the gathering.“Then they go out to lunch, and they make sure that they have long enough tasks that they continue working while they're having lunch. So, then go back to the office, and they do this, and then it's time to go home to see the family and so forth, and they set up an objective function of this is what I want you to do,” he explained.Schmidt noted that this massive transformation began rapidly around October of last year. He issued a stark warning to tech leaders and developers alike, stating that anyone still building software the old-fashioned way is wasting time.""If you're writing code in any traditional way: stop. It's over,"" Schmidt urged. He challenged business leaders to audit their tech teams immediately: “If you manage a company and you have software engineers, say, 'Why are you still writing code the way you did it six months ago?'”","Former Google CEO Eric Schmidt says the era of software engineers writing code line by line is officially over. Schmidt confessed that he is personally “in mourning” over the change, watching the traditional programming career he started at age 13 or 14 vanish in a single lifetime.","https://static.toiimg.com/thumb/msid-131356114,imgsize-42606,width-400,height-225,resizemode-4/google39s-former-ceo-eric-schmidt.jpg"
-Sam Altman reveals the biggest concern about AI he hears from CEOs: ‘Where is the revenue’,https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-reveals-the-biggest-concern-about-ai-he-hears-from-ceos-where-is-the-revenue/articleshow/131355838.cms,Sam Altman reveals the biggest concern about AI he hears from CEOs: ‘Where is the revenue’,"Sam Altman reveals the biggest concern about AI he hears from CEOs. ‘Where is the revenue’ he asks. Altman: ‘I’m trying to figure out how to make money out of AI.’ ‘It’s going to be very, very powerful,’ Altman says.","https://static.toiimg.com/thumb/msid-131355842,imgsize-27808,width-400,height-225,resizemode-4/openai-ceo-sam-altman.jpg"
-Amazon is offering its AI shopping tools to retailers: What it means for users,https://timesofindia.indiatimes.com/technology/tech-news/amazon-is-offering-its-ai-shopping-tools-to-retailers-what-it-means-for-users/articleshow/131355712.cms,"How Amazon’s AI shopping tool works
+Canada has once again issued an advisory for the football fans who are planning to attend the FIFA World Cup 2026. The country has reminded the travellers that are responsible for their own immigration status and documentation. In a post shared on social media platform X (formerly known as Twitter) Immigration, Refugees and Citizenship Canada (IRCC) stated, “Beware of immigration agents who promise entry to Canada for the FIFA World Cup 2026. No one can guarantee you a Canadian visa or an electronic travel authorization (eTA). You’re responsible for all the information in your application, even if a representative completes it for you. Make sure all your documents are accurate, or you could risk a 5-year ban.”The advisory follows reports of scams targeting fans, particularly in India, where immigration experts have cautioned against fraudulent claims of a so-called “FIFA visa.” Recently, IRCC issued a warning for travellers stating that no one can guarantee a Canadian visa. Immigration, Refugees and Citizenship Canada (IRCC) stressed on the fact that the visa decisions are made solely by immigration officers, and applicants themselves are responsible for making sure that their applications are completed and accurate.This second advisory comes amid the increasing reports of fraudulent schemes where scammers promise guaranteed approvals or faster processing in exchange for money. IRCC also stressed on the fact that these kinds of claims are false and misleading, and applicants should be cautious of anyone offering shortcuts.According to IRCC, the travellers must offer truthful information and all required documentation when applying. Paying extra to consultants or third parties does not influence the outcome. The agency urged applicants to rely only on official government websites and authorised representatives for accurate information.To avoid falling victim to scams, IRCC recommends:* Always follow the official IRCC website for forms and updates.* Ignoring offers that promise guaranteed visas.* Also use the Canadian regulatory bodies to verifying immigration consultants t* Report any suspicious activity to the Canadian Anti-Fraud Centre.","Canada has once again issued an advisory for the football fans who are planning to attend the FIFA World Cup 2026. Immigration, Refugees and Citizenship Canada (IRCC) stressed on the fact that the visa decisions are made solely by immigration officers, and applicants themselves are responsible for making sure that their applications are completed and accurate.","https://static.toiimg.com/thumb/msid-131382741,imgsize-176886,width-400,height-225,resizemode-4/canada-39repeats39-its-39citizenship-warning39-on-fifa-world-cup-2026.jpg"
+Amazon reportedly shuts down 'employee AI leadership board' and the reason is rising costs that analysts have been warning companies about,https://timesofindia.indiatimes.com/technology/tech-news/amazon-reportedly-shuts-down-employee-ai-leadership-board-and-the-reason-is-rising-costs-that-analysts-have-been-warning-companies-about/articleshow/131382647.cms,Amazon reportedly shuts down 'employee AI leadership board' and the reason is rising costs that analysts have been warning companies about,"Amazon reportedly shuts down 'employee AI leadership board' and the reason is rising costs. Analysts have been warning companies about rising costs that analysts have been warned companies about. Amazon reportedly shut down ""employeeAI leadership board"" and the reasons are rising costs and rising wages.","https://static.toiimg.com/thumb/msid-131382642,imgsize-27200,width-400,height-225,resizemode-4/amazon-reportedly-shuts-down-39employee-ai-leadership-board39-and-the-reason-is-rising-costs-that-analysts-have-been-warning-companies-about.jpg"
+Elon Musk praises Anthropic's new AI model Opus 4.8 as company claims improved self-honesty and reasoning,https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-praises-anthropics-new-ai-model-opus-4-8-as-company-claims-improved-self-honesty-and-reasoning/articleshow/131381490.cms,Elon Musk praises Anthropic's new AI model Opus 4.8 as company claims improved self-honesty and reasoning,Anthropic's new AI model Opus 4.8 claims improved self-honesty and reasoning. Elon Musk praises the new AI for its improved reasoning and self-control. The company is based in California but has offices in London and New York.,"https://static.toiimg.com/thumb/msid-131381458,imgsize-31328,width-400,height-225,resizemode-4/elon-musk.jpg"
+"Founder of 'China's Amazon', JDCom, makes a promise to the company's 900,000 employees on AI and automation; says: Will not lay off employees who ...",https://timesofindia.indiatimes.com/technology/tech-news/founder-of-chinas-amazon-jdcom-makes-a-promise-to-the-companys-900000-employees-on-ai-and-automation-says-will-not-lay-off-employees-who-/articleshow/131380380.cms,"China's 'warning' to companies on AI layoffs
 
-
-
-What it could mean for Amazon shoppers
-
-
-
-“We are excited about the possibilities agentic commerce can bring to our customers. AWS brought the recipe, but together we built the customisation our consumers needed,”
-
-
-
-","“We are excited about the possibilities agentic commerce can bring to our customers. AWS brought the recipe, but together we built the customisation our consumers needed,” says Jeff Bezos, CEO of Amazon. “We’re excited to see what the future holds.”","https://static.toiimg.com/thumb/msid-131355702,imgsize-28454,width-400,height-225,resizemode-4/amazon-is-offering-its-ai-shopping-tools-to-retailers-what-it-means-for-users.jpg"
-Ultrahuman Photon is a red light therapy device that learns from your sleep and recovery data,https://timesofindia.indiatimes.com/technology/tech-news/ultrahuman-photon-is-a-red-light-therapy-device-that-learns-from-your-sleep-and-recovery-data/articleshow/131350307.cms,"Red light therapy has 50+ years of research behind it—Photon is built around making that science a daily habit
-
-At $249, Photon undercuts premium RLT devices that routinely cost between $549 and $1,000
+JD.com eyeing expansion in UK after a failed bid in 2025
 
 
 
 
 
-Ultrahuman has opened pre-orders for Photon, a dual-wavelength red light therapy device that works with the Ultrahuman Ring to deliver personalised daily protocols. It starts at $249.Most red light therapy devices treat every session the same. Photon doesn't. When paired with the Ring PRO or Ring AIR, it pulls your recovery score and sleep data to recommend which area to target that day—muscles, skin, or a wind-down routine—along with session length and the ideal time of day to use it.The device runs two wavelengths simultaneously: 660nm red light, studied for skin appearance and collagen benefits, and 850nm near-infrared, which penetrates deeper and is more commonly linked to muscle recovery. All 12 LEDs emit both. Photon weighs around 600g, charges via USB-C, and runs six sessions per charge before needing a top-up. There's a 10-minute auto-shutoff so you're not babysitting it.The app side works on a goal-led protocol system—Recovery, Skin, Sleep, or General Wellness—rotating focus areas through the week. Each session includes a short educational explainer so users understand what they're doing and why.It's a small but smart touch that most wellness hardware skips.Ultrahuman CEO Mohit Kumar says the missing piece in red light therapy has always been personalisation, not the science. Photon is the company's attempt to close that gap by layering Ring biomarker data on top of an already-established therapy category.Pre-orders are live at ultrahuman.com/photon. Deliveries are expected from June 2026. The Photon Protocols PowerPlug is included free for Ring PRO and Ring AIR users.","Ultrahuman has opened pre-orders for Photon, a dual-wavelength red light therapy device. It works with the Ultrahuman Ring to deliver personalised daily protocols. Photon runs two wavelengths simultaneously: 660nm red light, studied for skin appearance and collagen benefits, and 850nm near-infrared.","https://static.toiimg.com/thumb/msid-131350334,imgsize-75220,width-400,height-225,resizemode-4/ultrahuman-photon.jpg"
-"007 First Light video game launch: Availability, list of missions and other details of IO Interactive’s latest game",https://timesofindia.indiatimes.com/technology/tech-news/007-first-light-video-game-launch-availability-list-of-missions-and-other-details-of-io-interactives-latest-game/articleshow/131345131.cms,"Image via IO Interactive
+China is the world's largest e-commerce market and has been so for many years. One of the biggest players in China's online shopping market is Chinese ecommerce giant JD.Com, also known as 'China's Amazon'. As AI layoffs sweep companies and countries, the founder of JD.com has made a pledge to the company's 900,000 employees. JD.com founder Liu Qiangdong vowed to prevent the e-commerce company's 900,000-strong workforce from losing their jobs to automation at a recent town hall. As per a report in Bloomberg, the pledge sought to allay growing fears that the adoption of AI and robotics could replace workers. The report mentions a video circulating on social media that shows Liu addressing the company's employees earlier this week.Incidentally, what makes Liu Qiangdong's 'promise' to employees important is that JD.Com is one of China's largest employers by headcount. Liu Qiangdong reportedly told employees that he will “do everything possible to safeguard employment for hundreds of thousands of staff, including blue-collar workers.” He added, “JD.com will not fire a single front-line worker replaced by machines.”According to a recent filing, JD.Com's employs staff from couriers and store clerks to AI trainers and robot maintenance engineers.The Chinese retailer is reportedly experimenting with a host of unmanned technologies that include “unmanned warehouses, drone delivery, self-driving vehicles, unmanned delivery stations and convenience stores, among others.”Liu’s comments come after a Chinese court ruled in late April that companies cannot terminate employees or cut their salaries just to replace them with artificial intelligence systems. A Chinese court ruled that a tech company had illegally laid off a worker after replacing him with artificial intelligence software. In its ruling against the company, the court delivered an implicit warning to other employers. “The development of artificial intelligence technology should be applied to liberating labor, promoting employment and improving people’s livelihood,” the Hangzhou Intermediate People’s Court wrote. “Labor law allows employers to undertake technological changes and upgrade their operations, but it should also take into account the protection of workers’ legitimate rights and interests.Recently, JD.com is reportedly planning a potential $2.69 billion bid for ‌the British online shopping platform The Very Group. According to a report in Sky News, this is Chinese company's latest push to expand in the UK market. The move follows JD.com's earlier UK efforts, including its failed takeover bid, for electricals group Currys and its decision in 2025 to walk away from talks to acquire Argos from Sainsbury's. A report claimed in January that Carlyle, the owner of The Very Group, is planning a £2 billion ⁠sale of the company, just months after taking control of the British retailer. Carlyle took control of ⁠the group in 2025, ending the Barclay family's long-standing involvement in the ⁠business.","JD.com founder Liu Qiangdong vowed to prevent the e-commerce company's 900,000-strong workforce from losing their jobs to automation. The pledge sought to allay growing fears that the adoption of AI and robotics could replace workers. A Chinese court ruled in late April that companies cannot terminate employees just to replace them with artificial intelligence systems.","https://static.toiimg.com/thumb/msid-131380377,imgsize-171948,width-400,height-225,resizemode-4/jdcom-founder-liu-qiangdong.jpg"
+Qualcomm's Snapdragon C wants the $300 laptop to feel like more,https://timesofindia.indiatimes.com/technology/tech-news/qualcomms-snapdragon-c-wants-the-300-laptop-to-feel-like-more/articleshow/131374912.cms,"Built on borrowed phone silicon
 
-007 First Light video game pre-order and availability
-
-
-
-007 First Light gameplay and mission details
-
-
-
-Mission Name Against The Odds In His Majesty’s Secret Service The Needle’s Eye The Heart of the Matter A New Home A Night Out A Matter of Considerable Delicacy All the Time in the World Out of the Ashes The Past Never Dies Uninvited Knightfall Going Old School Time to Die Man of the Hour Wave of the Future For England
+Blame the MacBook Neo for this one
 
 
 
 
 
-The wait for a new James Bond gaming adventure is officially over. IO Interactive, which created the Hitman franchise, will officially launch the much-anticipated title, 007: First Light. Bringing the legendary British superspy back to consoles and PC for the first time since 2012, this third-person narrative action-adventure offers a fresh, reimagined origin story for 007.007 First Light video game will be launched on May 27, and available on PlayStation 5, Xbox Series X|S and PC (via Steam and the Epic Games Store). IO Interactive has confirmed that a release for the Nintendo Switch 2 is scheduled for later this summer. Early access is available now.""Last chance to get a free Deluxe Edition and start your James Bond re-imagined origin story right now. 007 First Light is scheduled to launch on May 27, 2026, pre-order now and get a free deluxe upgrade,"" the company said.007: First Light steps is different from established film lore and presents new origin story, focusing on a young, newly recruited James Bond. Portrayed by Irish actor Patrick Gibson, this early-career Bond is still finding his footing in the MI6 spy program.The main campaign sees Bond and his fellow agents hunting down Agent 009, who has gone rogue. Bond gets support from his boss M (Priyanga Burford).This global pursuit takes Bond to exotic and dangerous locales, which include Carpathian Mountains, the black markets of Aleph and more. It also features villain Bawma, who is portrayed by musician and actor Lenny Kravitz.The developers at IO Interactive have built 007: First Light around four core gameplay systems, offering players a comprehensive spy fantasy.The first is observation-based elements. Bond must carefully observe his environment to eavesdrop on vital conversations, pickpocket key items and uncover environmental clues that reveal objectives. The second is instinctive actions where missions demand swift, instinctive decision-making. Players will need to use environmental traps and bluff their way past suspicious guards.Bond will have access to Q’s inventions, which include classic tools for hacking, lock cutting and quiet takedowns. Gadgets available include a special Q-Watch, a pen, a lighter, a phone, and earphones. Finally, the game encourages players to use both subtle stealth and open aggression.For those seeking an even greater challenge, 007: First Light introduces the Tactical Simulation (TacSim) mode, focused on intense replayability. While the first two TacSim missions are available early, the full mode only unlocks after players complete the main story campaign.","IO Interactive, which created the Hitman franchise, will officially launch the much-anticipated title, 007: First Light. The video game will be launched on May 27, and available on PlayStation 5, Xbox Series X|S and PC. A release for the Nintendo Switch 2 is scheduled for later this summer.","https://static.toiimg.com/thumb/msid-131345167,imgsize-879059,width-400,height-225,resizemode-4/007-first-light.jpg"
-"Uber COO Andrew Macdonald says: Use of Claude Code and ChatGPT has increased productivity by 25%, but sees no direct link as yet to them adding more useful consumer features",https://timesofindia.indiatimes.com/technology/tech-news/uber-coo-andrew-macdonald-says-use-of-claude-code-and-chatgpt-has-increased-productivity-by-25-but-sees-no-direct-link-as-yet-to-them-adding-more-useful-consumer-features/articleshow/131343281.cms,"Uber COO Andrew Macdonald says: Use of Claude Code and ChatGPT has increased productivity by 25%, but sees no direct link as yet to them adding more useful consumer features",Uber COO Andrew Macdonald says: Use of Claude Code and ChatGPT has increased productivity by 25%. Macdonald sees no direct link as yet to them adding more useful consumer features. Uber COO says there is no link between the two tools and the app's success.,"https://static.toiimg.com/thumb/msid-131343277,imgsize-44400,width-400,height-225,resizemode-4/uber-coo.jpg"
+Qualcomm is going after the budget laptop, and it's swinging at a price its Arm chips have always sat above. Unveiled ahead of Computex 2026, the Snapdragon C platform targets Windows machines starting at $300. The ""C"" doesn’t mean “Cheap,” but it stands for “Compute.” The pitch is aimed at students, families, and small businesses who just want a machine that stays cool, keeps quiet, and makes it to bedtime on one charge.Getting to $300 meant raiding the spare-parts drawer. Snapdragon C ditches the custom Oryon cores that power Qualcomm's pricier Snapdragon X laptops and its latest phones. In come Kryo cores built on Arm's stock designs, the same family you'd find in more lower-tier chips from Qualcomm powering budget phones and Chromebooks.That said, Qualcomm didn't cut everywhere. Every Snapdragon C laptop gets an NPU for on-device AI, and that's rare down here, the chips with AI smarts usually sit in laptops that cost a lot more. It won't clear Microsoft's 40 TOPS bar, so there's no Copilot+ sticker on the lid, but the silicon is there. Qualcomm also promises the trio budget buyers rarely get at once: a machine that runs cool, stays quiet, and lasts the day.Qualcomm is being cagey about the rest, no clock speeds, no GPU, no word on how much memory the thing can hold.The reason behind this chip isn't hard to spot. Apple's MacBook Neo, $599 or $499 for students, changed what people expect from a budget laptop by running macOS on an iPhone chip. Qualcomm watched and borrowed the playbook. Snapdragon laptops have mostly started near $500 to $600, so $300 roughly halves the entry fee, and Intel's Wildcat Lake chips are circling the same shoppers.The Acer Aspire Go 15 is first in line. It's a 15.6-inch laptop with a 1080p screen, up to 8GB of RAM, 512GB of storage, two USB-C ports, a USB-A, HDMI 1.4, Wi-Fi 6E, a 1080p webcam, and a 53Wh battery. That 8GB is the asterisk, barely enough room for Windows to breathe, and Qualcomm pinned the limit on the memory shortage squeezing PC prices all year. With the same shortage still biting, it's worth wondering whether that $300 promise survives the months between now and when these laptops actually go on sale.","Qualcomm's Snapdragon C platform targets Windows machines starting at $300. The pitch is aimed at students, families, and small businesses who just want a machine that stays cool, keeps quiet, and makes it to bedtime on one charge. Snapdragon laptops have mostly started near $500 to $600.","https://static.toiimg.com/thumb/msid-131377418,imgsize-76378,width-400,height-225,resizemode-4/phone-cores-an-npu-and-a-300-sticker-meet-snapdragon-c.jpg"
+Anthropic Opus 4.8 with ‘better’ honesty and coding abilities launched: All details,https://timesofindia.indiatimes.com/technology/tech-news/anthropic-opus-4-8-with-better-honesty-and-coding-abilities-launched-all-details/articleshow/131376632.cms,"Anthropic Opus 4.8 : Smarter coding and 4x honesty
+
+
+
+Lower costs and new ‘effort’ controls
+
+
+
+
+
+
+
+Anthropic has launched Claude Opus 4.8, an upgrade to its flagship artificial intelligence (AI) model. The company says that the new version brings significant improvements in coding, reasoning and practical knowledge tasks. It is available immediately to users for the same price as its predecessor. Alongside the model, Anthropic has rolled out a suite of cost-saving tools and features aimed at giving users more control over how the AI tackles large-scale problems.A common issue among advanced AI models is their tendency to jump to conclusions, confidently claiming they have solved a problem even when the evidence is thin. Anthropic claims to have made a major breakthrough in fixing this with Opus 4.8.Citing early testers, Anthropic says that Opus 4.8 is significantly better at flagging uncertainties in its own work and is much less likely to make unsupported claims. Meanwhile, Anthropic's internal evaluations found that the model is about four times less likely than its predecessor, Opus 4.7, to let flaws in its written code pass by unremarked.The model is also claimed to have outperformed its competitors on several key industry benchmarks, specifically excelling in financial analysis, reasoning and agentic coding.As businesses look for more budget-friendly ways to deploy AI, Anthropic's latest launch emphasises cost efficiency and usage customisation.Cheaper ‘Fast Mode’: Opus 4.8 features a ""fast mode"" that allows the AI to work at 2.5 times its normal speed, the company claims, adding that this mode is now three times cheaper to run than it was on previous iterations.User effort controls: Users on Claude.ai can now manually dictate how much “effort” the AI puts into a response. High-effort settings will cause the model to “think” longer for complex tasks and vice-versa, helping them save on token limits.Dynamic Workflows for massive projects: Third feature is for software developers, the “Claude Code” platform introduces a “dynamic workflows” feature, allowing the AI to spin up and run multiple subagents at once to break down and solve massive programming problems.Anthropic claims that the model showed a substantial drop in harmful or misaligned behaviours, such as deception or cooperating with misuse.","Anthropic has launched Claude Opus 4.8, an upgrade to its flagship artificial intelligence model. The company says that the new version brings significant improvements in coding, reasoning and practical knowledge tasks. Alongside the model, Anthropic has rolled out a suite of cost-saving tools and features aimed at giving users more control.","https://static.toiimg.com/thumb/msid-131376626,imgsize-29066,width-400,height-225,resizemode-4/anthropic-opus-48.jpg"
+"Apple iOS 27's new Siri app, other AI feature leaked ahead of WWDC event on June 8",https://timesofindia.indiatimes.com/technology/tech-news/apple-ios-27s-new-siri-app-other-ai-feature-leaked-ahead-of-wwdc-event-on-june-8/articleshow/131375345.cms,"Apple's Siri
+
+Siri inside the ‘ Dynamic Island ’
+
+
+
+A dedicated Siri chatbot app
+
+
+
+Outsourcing to Google and third-party AI
+
+
+
+Big upgrades for Camera and Photos apps
+
+
+
+
+
+
+
+Apple is said to be preparing a massive artificial intelligence (AI) overhaul for its upcoming iOS 27 update with revamped Siri at the centre of the iPhone, iPad and Mac experience. According to a report by Bloomberg’s Mark Gurman, screenshots of next-generation AI interface, a standalone chatbot app and major operating system changes have been spotted ahead of the company's annual Worldwide Developers Conference (WWDC) on June 8.This launch will come a crucial time for Apple as it fights to catch up with rivals like OpenAI, Google and Samsung. After previewing its AI foundations in 2024, Apple suffered multiple delays, and has spent the last year rebuilding its digital assistant and rethinking its entire AI strategy.Apple has reportedly completely redesigned Siri to function as an “always-on” assistant built directly into the iPhone’s modern hardware. Moving forward, users will interact with Siri through two distinct starting points.The first is saying “Siri” or holding down the power button will trigger a newly designed animation right inside the Dynamic Island. This mode is optimised for quick, voice-based web searches and queries.The second is the “Search or Ask” interface, allowing users to swipe down from the top center of the screen from anywhere in the system.This opens a full-screen, text-friendly Siri interface designed for typing out complex tasks. (To accommodate this, the standard Notification Center is being moved to a top-left swipe). This new swipe-down menu will integrate Siri Suggestions, displaying eight frequently used apps, quick features like voice recording, and dedicated morning or evening weather panels, the report claims.For more complex tasks, users can swipe deeper into the interface to launch a standalone, chatbot-style Siri app built to compete directly with ChatGPT, Gemini and Claude. The Siri app interface will feature a conversational home screen that includes a history of your past chats, displayed either as a list or a grid of summarised rectangles. It is said to include a voice mode, a standard text field and an attachment picker.When answering questions, Siri will generate rich text cards that pop out of the Dynamic Island, delivering detailed info on places, people, or news.In a surprising twist, Apple is opening up iOS 27 to rival artificial intelligence models. The core Siri system has been rebuilt utilising Google Gemini technology. Furthermore, the system will allow users to route their queries directly to third-party AI agents downloaded from the App Store.Apple is embedding its intelligence features into the stock iPhone media apps, particularly to prepare consumers for future hardware like smart glasses.Siri is reportedly being integrated directly into the Camera app as a primary shooting mode, replacing the older Visual Intelligence tool. Advanced photographers will gain a new “Add Widgets” panel, allowing them to replace the top row of camera shortcuts with professional controls like manual depth adjustments, timers and Night mode.The Photos app gains Reframe (which automatically shifts an image's perspective) and Extend (which uses generative AI to fill in missing details outside the original photo frame). Apple is also testing a future update that will let users edit photos using natural language commands",Siri to function as an ‘always-on’ assistant built directly into the iPhone’s modern hardware. Users will interact with Siri through two distinct starting points. The core Siri system has been rebuilt utilising Google Gemini technology. Apple is embedding its intelligence features into the stock iPhone media apps.,"https://static.toiimg.com/thumb/msid-131375335,imgsize-25558,width-400,height-225,resizemode-4/new-siri.jpg"
+"Marc Andreessen says AI coding Agents are better than humans: They don't get sick, emotional and …",https://timesofindia.indiatimes.com/technology/tech-news/marc-andreessen-says-ai-coding-agents-are-better-than-humans-they-dont-get-sick-emotional-and-/articleshow/131373178.cms,"Venture capitalist Marc Andreessen
+
+‘No sick days, No HR complaints’
+
+
+
+‘AI agents coming soon to various job’
+
+
+
+
+
+
+
+Venture capitalist Marc Andreessen believes that a world dominated by AI coding bots or agents has massive advantages as compared to human workers. Speaking with Joe Rogan on a recent episode of the Joe Rogan Experience podcast, the tech investor outlined how modern artificial intelligence (AI) is changing the software industry. According to Andreessen, cofounder of the venture capital firm Andreessen Horowitz, AI bots are rapidly outmatching human employees because they lack the physical and emotional liabilities of people.During the interview, Andreessen listed the highly practical reasons why companies and managers are gravitating toward digital workers.“The bots never get frustrated with you,” Andreessen told Rogan, adding amid laughter that a coding agent “never gets drunk, never gets sick, never gets high,” and will never file “HR complaints” against a manager. Beyond avoiding office politics, these bots operate with an infinite emotional capacity.Andreessen described a common workplace frustration where a human employee spends two weeks on a project, only to be told it is wrong and needs to be completely changed. If the manager changes their mind again and asks to revert to the original version, a human worker understandably “gets pissed” about wasting their time.In contrast, Andreessen said, “The bot's like, 'No problem, no sweat, whatever you want, and we can try it 12 more times if you want.’”According to Andreessen, the current “state of the art” setup for elite tech founders and developers in Silicon Valley is to run roughly 20 AI bots at the same time. This setup ensures that the user never has to sit around waiting to provide feedback.“This is why people can't go to sleep. Because you've got 20 AI bots that are all as good as the best programmer in the world that are doing exactly what you tell them to do on every project you've ever wanted to do,” Andreessen explained.Because these bots run 24/7, the human's only remaining job is to check in every 10 minutes to review the progress and offer feedback on what the bots are building next.While this “army of bots” is currently taking over the programming landscape, Andreessen warned that the trend will not stop with software engineers.“It's going to start with coders, but then it's going to be every other job. Every writer is going to have it, every lawyer is going to have it, every doctor is going to have it,"" he warned. He pointed that instead of a human managing 20 individual bots, the main AI agents will soon manage subagents of their own.","Venture capitalist Marc Andreessen believes that a world dominated by AI coding bots or agents has massive advantages as compared to human workers. According to Andreessen, AI bots are rapidly outmatching human employees because they lack the physical and emotional liabilities of people. He warned that the trend will not stop with software engineers.","https://static.toiimg.com/thumb/msid-131373166,imgsize-63168,width-400,height-225,resizemode-4/marc-andreessen.jpg"
